@@ -5,6 +5,7 @@
 # Time.zone = "UTC"
 
 activate :blog do |blog|
+
   # This will add a prefix to all links, template references and source paths
   # blog.prefix = "blog"
 
@@ -101,3 +102,11 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.branch = 'master'
+  deploy.build_before = true
+end
+
+activate :directory_indexes
