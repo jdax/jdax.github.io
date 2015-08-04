@@ -72,6 +72,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="_navbar.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_navbar.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5479452">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="books.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/books.html.erb">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,13 +115,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-07-21-moving-from-wordpress-org-to-middleman.html.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-07-21-moving-from-wordpress-org-to-middleman.html.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/2015-07-21-moving-from-wordpress-org-to-middleman.html.markdown">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27713627">
+            <state vertical-scroll-proportion="-4.137931">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
@@ -133,7 +143,6 @@
         <option value="$PROJECT_DIR$/source/about_me.html.erb" />
         <option value="$PROJECT_DIR$/source/coding.html.erb" />
         <option value="$PROJECT_DIR$/source/feminism.html.erb" />
-        <option value="$PROJECT_DIR$/source/_navbar.html.erb" />
         <option value="$PROJECT_DIR$/source/stylesheets/bootstrap/_panels.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/bootstrap/_scaffolding.scss" />
         <option value="$PROJECT_DIR$/source/stylesheets/bootstrap/_variables.scss" />
@@ -145,6 +154,7 @@
         <option value="$PROJECT_DIR$/source/books.html.erb" />
         <option value="$PROJECT_DIR$/source/2015-08-03-testing-books-tag.md" />
         <option value="$PROJECT_DIR$/source/2015-07-21-moving-from-wordpress-org-to-middleman.html.markdown" />
+        <option value="$PROJECT_DIR$/source/_navbar.html.erb" />
       </list>
     </option>
   </component>
@@ -702,14 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_navbar.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23972602">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/bootstrap/_panels.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06849315">
@@ -798,8 +800,16 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27713627">
+        <state vertical-scroll-proportion="-4.137931">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_navbar.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5479452">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding />
         </state>
       </provider>
