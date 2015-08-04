@@ -365,11 +365,11 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             #777 !default;
-$navbar-default-bg:                #f8f8f8 !default;
+$navbar-default-bg:                $brand-primary !default;
 $navbar-default-border:            darken($navbar-default-bg, 6.5%) !default;
 
 // Navbar links
-$navbar-default-link-color:                #777 !default;
+$navbar-default-link-color:                $gray !default;
 $navbar-default-link-hover-color:          #333 !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         #555 !default;
@@ -701,19 +701,19 @@ $list-group-link-heading-color: #333 !default;
 //
 //##
 
-$panel-bg:                    #fff !default;
+$panel-bg:                    #C5CDD9 !default;
 $panel-body-padding:          15px !default;
 $panel-heading-padding:       10px 15px !default;
 $panel-footer-padding:        $panel-heading-padding !default;
 $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
-$panel-inner-border:          #ddd !default;
-$panel-footer-bg:             #f5f5f5 !default;
+$panel-inner-border:          $gray-lighter !default;
+$panel-footer-bg:             $gray-light !default;
 
 $panel-default-text:          $gray-dark !default;
-$panel-default-border:        #ddd !default;
-$panel-default-heading-bg:    #f5f5f5 !default;
+$panel-default-border:        #360037 !default;
+$panel-default-heading-bg:    $gray !default;
 
 $panel-primary-text:          #fff !default;
 $panel-primary-border:        $brand-primary !default;
