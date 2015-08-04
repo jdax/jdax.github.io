@@ -10,8 +10,15 @@
   <body>
     <div id="main" role="main">
       <%= partial "navbar" %>
-      <%= yield %>
+        <div class="col-md-10" style="align: left;">
+          <%= yield %>
+        </div>
+        <div class="col-md-2" style="align: right;">
+          <%= partial "side_bar" %>
+        </div>
+
     </div>
 
   </body>
+  <%= partial "footer" %>
 </html>
