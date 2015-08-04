@@ -12,3 +12,5 @@ gem 'middleman-gh-pages'
 gem "bootstrap-sass", :require => false
 gem 'middleman-bootstrap-navbar'
 gem 'font-awesome-middleman'
+gem 'wp2middleman'
+gem 'nokogiri'
