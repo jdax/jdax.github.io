@@ -78,6 +78,15 @@ page "/feed.xml", layout: false
 #     "Helping"
 #   end
 # end
+helpers do
+
+  def pages_by_category(category)
+    sitemap.resources.select do |resource|
+      resource.data.category == category
+    end.sort_by { |resource| resource.data.title }
+  end
+
+end
 
 set :css_dir, 'stylesheets'
 

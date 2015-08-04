@@ -1,6 +1,7 @@
 ---
 title: Testing The Books Tag
-date: 2015-07-21 00:32 UTC
+date: 2015-08-03 00:32 UTC
 tags: books
+category: books
 ---
  Testing
