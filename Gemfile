@@ -11,3 +11,4 @@ gem "builder", "~> 3.0"
 gem 'middleman-gh-pages'
 gem "bootstrap-sass", :require => false
 gem 'middleman-bootstrap-navbar'
+gem 'font-awesome-middleman'
