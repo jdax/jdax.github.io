@@ -2,6 +2,7 @@
 title: 'Review: Fox-Hat and Neko by August Li'
 date: '2015-08-03'
 category: books
+blog: blog
 tags:
 - books
 ---

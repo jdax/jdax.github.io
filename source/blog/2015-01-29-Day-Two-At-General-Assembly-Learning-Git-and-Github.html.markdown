@@ -2,6 +2,7 @@
 title: 'Day Two At General Assembly: Learning Git and Github'
 date: '2015-01-29'
 category: coding
+blog: blog
 tags:
 - coding
 ---

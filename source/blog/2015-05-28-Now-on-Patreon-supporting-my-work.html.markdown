@@ -1,6 +1,7 @@
 ---
 title: 'Now on Patreon: supporting my work'
 date: '2015-05-28'
+blog: blog
 tags:
 - books
 - coding

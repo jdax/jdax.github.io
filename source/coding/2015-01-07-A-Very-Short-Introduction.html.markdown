@@ -2,6 +2,7 @@
 title: A Very Short Introduction
 date: '2015-01-07'
 category: coding
+blog: coding
 tags:
 - coding
 ---

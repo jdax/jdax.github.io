@@ -2,6 +2,7 @@
 title: A year in not reading men
 date: '2015-02-05'
 category: books
+blog: feminism
 tags:
 - books
 ---

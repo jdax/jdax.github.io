@@ -2,7 +2,7 @@
 title: My reproductive choices are not referendum on yours
 date: '2013-05-21'
 category: feminism
-blog: feminism
+blog: blog
 tags:
 - feminism
 ---

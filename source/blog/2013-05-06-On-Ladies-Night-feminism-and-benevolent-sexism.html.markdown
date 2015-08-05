@@ -2,7 +2,7 @@
 title: On "Ladies Night," feminism, and benevolent sexism
 date: '2013-05-06'
 category: feminism
-blog: feminism
+blog: blog
 tags:
 - feminism
 ---

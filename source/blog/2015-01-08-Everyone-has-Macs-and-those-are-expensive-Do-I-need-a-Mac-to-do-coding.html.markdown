@@ -2,6 +2,7 @@
 title: Everyone has Macs and those are expensive! Do I need a Mac to do coding?!
 date: '2015-01-08'
 category: coding
+blog: blog
 tags:
 - coding
 ---

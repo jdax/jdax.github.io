@@ -7,7 +7,6 @@ tags:
 - feminism
 ---
 
-<div dir="ltr" style="text-align:left;">
 
 Recently a study was published that found <a href="http://www.reuters.com/article/2012/01/23/us-abortion-idUSTRE80M2BS20120123" target="_blank">abortion to be safer than childbirth</a>. Many on the choice side of the abortion debate are hailing this as a victory, pointing the fingers back at the prolife side of the debate, saying "We told you it was safer, can you please stop lying to women saying abortion is dangerous?"The problem is that no one should be celebrating this finding. The dark side of this study is that it finds childbirth to be less safe than a routine medical procedure done here in the United States.<a href="http://www.womendeliver.org/about/the-issue/" target="_blank"> One in 2,100 women</a> will die in the United States from childbirth or pregnancy. That is a horrible statistic. Especially since the comparable abortion number is 1 in 1,000,000 deaths for abortions performed before 8 weeks (when most are performed),  to 1 in 11,000 for abortions performed after 21 weeks (which is usually only done in cases of fetal or maternal indications).<!--more-->
 
@@ -19,4 +18,4 @@ I have recently gotten involved in the birth activist community, and am thrilled
 
 We could reduce the risk of maternal mortality by following the doula and midwife standards of care into childbirth, making sure that women who are pregnant and choose to carry to term have access to prenatal care, support systems, and information on safe birthing and pregnancy practices, by reducing the number of unintended pregnancies by increasing access to affordable contraceptives and birth control, while also increasing sexual health education, and, of course, making these things affordable. A woman's birthing experience should never depend on the size of her wallet.
 
-</div>
+

@@ -2,6 +2,7 @@
 title: First day at General Assembly!
 date: '2015-01-27'
 category: coding
+blog: coding
 tags:
 - coding
 ---

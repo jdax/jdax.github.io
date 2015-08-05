@@ -2,6 +2,7 @@
 title: My decision to go to General Assembly
 date: '2015-01-09'
 category: coding
+blog: blog
 tags:
 - coding
 ---

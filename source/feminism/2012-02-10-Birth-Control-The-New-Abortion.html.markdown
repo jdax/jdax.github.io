@@ -3,11 +3,12 @@ title: 'Birth Control: The New Abortion'
 date: '2012-02-10'
 category: feminism
 blog: feminism
+category: feminism
 tags:
 - feminism
 ---
 
-<div dir="ltr" style="text-align:left;">
+
 
 I spent Wednesday afternoons being quickly rushed from the public school I attended to the Catholic school down the street, where I would spend another two hours sitting in a desk in a class room. I learned the rosary, the Apostle's Creed, the stations of the Cross, and then my Aunt, who worked at the school full time, would take me back to my parents house (usually with a detour for a snack, much to my delight.)While my parents, being working class (like many Catholic's are), could not afford to send me and my siblings to Catholic school full time, they did shell out money to OLC for me to receive Confraternity of Christian Doctrine (CCD, like Sunday school, but on Wednesday). I looked forward to my First Holy Communion in which I would get to wear a beautiful white dress, have my hair done, and afterward, have a party in which I was given beautiful rosaries, ornate Bibles, and a statue of the Virgin Mary.
 
@@ -41,4 +42,3 @@ While I used to think that birth control was something that was common ground, I
 
 I am not having it. Birth control prevents pregnancy at a time when a woman does not want to be pregnant. Therefore, it prevents the need for abortion. If Santorum, or any other anti-birth control candidate gets elected, and bans birth control, I am keeping my IUD in. Government does not know I have it. And the nurse that inserted it is bound by HIPAA. They will have to shackle me and forcibly remove it if they want me to no longer have it.
 
-</div>

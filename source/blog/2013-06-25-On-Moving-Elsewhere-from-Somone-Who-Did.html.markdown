@@ -1,6 +1,7 @@
 ---
 title: On "Moving Elsewhere" from Somone Who Did
 date: '2013-06-25'
+blog: blog
 category: feminism
 tags:
 - feminism

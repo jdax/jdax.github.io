@@ -2,6 +2,7 @@
 title: There's a method for that!
 date: '2015-02-11'
 category: coding
+blog: blog
 tags:
 - coding
 ---

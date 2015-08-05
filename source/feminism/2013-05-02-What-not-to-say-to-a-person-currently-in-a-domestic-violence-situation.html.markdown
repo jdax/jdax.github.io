@@ -1,7 +1,8 @@
 ---
 title: What not to say to a person currently in a domestic violence situation
 date: '2013-05-02'
-tags: []
+tags: feminism
+blog: feminism
 published: false
 ---
 

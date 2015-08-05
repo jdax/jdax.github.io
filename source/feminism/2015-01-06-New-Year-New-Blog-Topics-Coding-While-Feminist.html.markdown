@@ -2,6 +2,7 @@
 title: 'New Year, New Blog Topics: Coding While Feminist'
 date: '2015-01-06'
 category: feminism, coding
+blog: feminism
 tags:
 - coding
 - feminism

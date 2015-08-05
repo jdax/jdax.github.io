@@ -2,6 +2,7 @@
 title: 'Review: Seraphina by Rachel Hartman'
 date: '2015-02-24'
 category: books
+blog: blog
 tags:
 - books
 ---

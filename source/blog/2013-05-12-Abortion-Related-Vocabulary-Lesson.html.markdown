@@ -1,6 +1,7 @@
 ---
 title: Abortion-Related Vocabulary Lesson
 date: '2013-05-12'
+blog: blog
 tags:
 - feminism
 published: false

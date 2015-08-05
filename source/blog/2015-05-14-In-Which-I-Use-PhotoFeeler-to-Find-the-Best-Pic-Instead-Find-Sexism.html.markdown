@@ -2,6 +2,7 @@
 title: In Which I Use PhotoFeeler to Find the Best Pic, Instead Find Sexism
 date: '2015-05-14'
 category: coding, feminism
+blog: blog
 tags:
 - coding
 - feminism

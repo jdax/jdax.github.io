@@ -1,7 +1,7 @@
 ---
 title: Maternal Mortality, Doulas, and Midwives
 date: '2012-02-01'
-blog: feminism
+blog: blog
 category: feminism
 tags:
 - feminism

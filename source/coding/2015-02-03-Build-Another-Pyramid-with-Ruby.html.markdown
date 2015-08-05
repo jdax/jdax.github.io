@@ -2,6 +2,7 @@
 title: Build Another Pyramid with Ruby
 date: '2015-02-03'
 category: coding
+blog: coding
 tags:
 - coding
 ---

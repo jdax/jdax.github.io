@@ -7,7 +7,6 @@ tags:
 - feminism
 ---
 
-<div dir="ltr" style="text-align:left;">
 
 There are currently 5 Republican women in Congress, and t<a href="http://thinkprogress.org/health/2012/02/13/423946/republican-women-senators-breaking-ranks-with-party-come-out-in-favor-of-obama-contraception-rule/" target="_blank">wo of them have come out in support of the birth control mandate</a> as most recently modified (women still get their co-pay free birth control, and churches don't have to pay for it). Sens. Olympia Snowe (ME) and Susan Collins (ME) have <a href="http://lobby.la.psu.edu/013_Contraceptive_Coverage/organizational_statements/Planned_Parenthood/Planned_Parenthood_The_Equity_in_Prescription_Insurance_and_Contraceptive_Coverage_Act.htm" target="_blank">shown support</a> for birth control <a href="http://thinkprogress.org/health/2012/02/08/421512/six-republican-senators-including-snowe-and-collins-co-sponsored-federal-contraception-mandate-in-2001/" target="_blank">in the past</a>.So, while the rest of the Republicans are trying to march themselves <a href="http://tpmdc.talkingpointsmemo.com/2012/02/has-obama-cornered-republicans-on-contraception.php?ref=fpnewsfeed" target="_blank">into non-relevance by wanting to take women back to the dark ages,</a> at least these women are taking a stand.
 

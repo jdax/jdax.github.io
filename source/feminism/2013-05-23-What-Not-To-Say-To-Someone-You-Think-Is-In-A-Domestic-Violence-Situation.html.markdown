@@ -2,6 +2,7 @@
 title: What Not To Say To Someone You Think Is In A Domestic Violence Situation
 date: '2013-05-23'
 category: feminism
+blog: feminism
 tags:
 - feminism
 

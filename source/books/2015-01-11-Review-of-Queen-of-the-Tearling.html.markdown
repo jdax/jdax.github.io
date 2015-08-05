@@ -1,6 +1,7 @@
 ---
 title: Review of Queen of the Tearling
 date: '2015-01-11'
+blog: books
 category: books
 tags:
 - books

@@ -1,7 +1,7 @@
 ---
 title: 'Earning Your Abortion: Why Life Endangerment Exceptions Are Not Enough'
 date: '2013-06-18'
-tags: []
+blog: blog
 published: false
 ---
 

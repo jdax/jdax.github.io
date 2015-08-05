@@ -1,6 +1,8 @@
 ---
 title: Poetry and Code Design Patterns
 date: '2015-07-22'
+blog: coding
+category: coding
 tags:
 - coding
 published: false

@@ -2,6 +2,7 @@
 title: So what's the big deal about object oriented programming?
 date: '2015-02-22'
 category: coding
+blog: coding
 tags:
 - coding
 ---

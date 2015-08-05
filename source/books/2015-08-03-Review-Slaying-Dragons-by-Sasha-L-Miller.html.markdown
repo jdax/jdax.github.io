@@ -2,6 +2,7 @@
 title: 'Review: Slaying Dragons by Sasha L. Miller'
 date: '2015-08-03'
 category: books
+blog: books
 tags:
 - books
 ---

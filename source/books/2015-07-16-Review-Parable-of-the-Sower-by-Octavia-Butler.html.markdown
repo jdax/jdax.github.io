@@ -2,6 +2,7 @@
 title: 'Review: Parable of the Sower by Octavia Butler'
 date: '2015-07-16'
 category: books
+blog: books
 tags:
 - books
 ---

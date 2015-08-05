@@ -2,7 +2,7 @@
 title: 'Birth Control: The New Abortion'
 date: '2012-02-10'
 category: feminism
-blog: feminism
+blog: blog
 tags:
 - feminism
 ---

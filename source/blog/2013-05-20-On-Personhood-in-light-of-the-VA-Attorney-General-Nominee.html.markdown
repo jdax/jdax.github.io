@@ -2,7 +2,7 @@
 title: On Personhood, in light of the VA Attorney General Nominee
 date: '2013-05-20'
 category: feminism
-blog: feminism
+blog: blog
 tags:
 - feminism
 ---

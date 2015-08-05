@@ -2,6 +2,7 @@
 title: I have to interact with people? The importance of groups in learning coding
 date: '2015-01-09'
 category: coding
+blog: blog
 tags:
 - coding
 ---

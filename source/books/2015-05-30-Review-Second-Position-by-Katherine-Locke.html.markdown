@@ -2,6 +2,7 @@
 title: 'Review: Second Position by Katherine Locke'
 date: '2015-05-30'
 category: books
+blog: books
 tags:
 - books
 ---

@@ -2,6 +2,7 @@
 title: 'Review: Alcestis by Katharine Beutner'
 date: '2015-05-22'
 category: feminism, books
+blog: blog
 tags:
 - books
 - feminism

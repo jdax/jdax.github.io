@@ -2,7 +2,7 @@
 title: An Ode to Darrell Issa (R-CA-49)
 date: '2012-02-16'
 category: feminism
-blog: feminism
+blog: blog
 tags:
 - feminism
 ---

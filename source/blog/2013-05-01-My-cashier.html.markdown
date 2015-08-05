@@ -2,7 +2,7 @@
 title: My cashier
 date: '2013-05-01'
 category: feminism
-blog: feminism
+blog: blog
 tags:
 - feminism
 

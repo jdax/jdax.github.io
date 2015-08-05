@@ -2,6 +2,7 @@
 title: Using Databases!
 date: '2015-05-05'
 category: coding
+blog: coding
 tags:
 - coding
 ---

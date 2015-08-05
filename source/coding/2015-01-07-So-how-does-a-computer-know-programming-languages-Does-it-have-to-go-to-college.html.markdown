@@ -2,6 +2,7 @@
 title: So how does a computer know programming languages? Does it have to go to college?
 date: '2015-01-07'
 category: coding
+blog: coding
 tags:
 - coding
 ---

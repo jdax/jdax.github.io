@@ -2,6 +2,7 @@
 title: 'Review: Fairest by Marissa Meyer'
 date: '2015-05-06'
 category: books
+blog: blog
 tags:
 - books
 ---

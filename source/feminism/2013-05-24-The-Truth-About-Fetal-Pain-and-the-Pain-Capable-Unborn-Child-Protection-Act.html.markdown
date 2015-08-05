@@ -1,6 +1,7 @@
 ---
 title: The Truth About Fetal Pain, and the "Pain Capable Unborn Child Protection Act"
 date: '2013-05-24'
+blog: feminism
 category: feminism
 tags:
 - feminism

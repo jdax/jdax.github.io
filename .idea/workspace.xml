@@ -22,11 +22,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="books.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="books.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/books.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.79787236">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="10" column="267" selection-start-line="10" selection-start-column="267" selection-end-line="10" selection-end-column="267" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feminism.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/feminism.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coding.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/coding.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.084033616">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -35,8 +55,8 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="51" />
+            <state vertical-scroll-proportion="-4.375">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -77,7 +97,6 @@
         <option value="$PROJECT_DIR$/source/2015-02-03-Build-Another-Pyramid-with-Ruby.html.markdown" />
         <option value="$PROJECT_DIR$/source/2015-05-28-Now-on-Patreon-supporting-my-work.html.markdown" />
         <option value="$PROJECT_DIR$/source/feed.xml.builder" />
-        <option value="$PROJECT_DIR$/source/coding.html.erb" />
         <option value="$PROJECT_DIR$/source/2012-02-01-Maternal-Mortality-Doulas-and-Midwives.html.markdown" />
         <option value="$PROJECT_DIR$/source/2012-02-10-Birth-Control-The-New-Abortion.html.markdown" />
         <option value="$PROJECT_DIR$/source/2012-02-14-I-like-my-birth-control-just-how-it-is-kthx.html.markdown" />
@@ -91,13 +110,14 @@
         <option value="$PROJECT_DIR$/source/2013-05-13-On-Feminists-and-Men.html.markdown" />
         <option value="$PROJECT_DIR$/source/2013-05-20-On-Personhood-in-light-of-the-VA-Attorney-General-Nominee.html.markdown" />
         <option value="$PROJECT_DIR$/source/2013-05-21-My-reproductive-choices-are-not-referendum-on-yours.html.markdown" />
-        <option value="$PROJECT_DIR$/source/feminism.html.erb" />
         <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/config.rb" />
         <option value="$PROJECT_DIR$/source/feminism/2013-05-12-Reproductive-Justice-and-Reducing-the-Number-of-Abortions.html.markdown" />
         <option value="$PROJECT_DIR$/source/about_me.html.erb" />
         <option value="$PROJECT_DIR$/source/_side_bar.html.erb" />
         <option value="$PROJECT_DIR$/source/books.html.erb" />
+        <option value="$PROJECT_DIR$/source/feminism.html.erb" />
+        <option value="$PROJECT_DIR$/source/coding.html.erb" />
       </list>
     </option>
   </component>
@@ -360,9 +380,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1428" height="826" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2859097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44049248" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -605,14 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/feminism.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.875">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/feminism/2013-05-12-Reproductive-Justice-and-Reducing-the-Number-of-Abortions.html.markdown">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -628,14 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7692308">
           <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/coding.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -942,18 +946,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/source/books.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="51" />
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="267" selection-start-line="10" selection-start-column="267" selection-end-line="10" selection-end-column="267" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/books.html.erb">
+    <entry file="file://$PROJECT_DIR$/source/feminism.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79787236">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/coding.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.084033616">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding />
         </state>
       </provider>

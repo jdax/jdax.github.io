@@ -2,6 +2,7 @@
 title: 'Storify: The Importance of Meet Ups in My Coding Journey'
 date: '2015-07-15'
 category: coding
+blog: blog
 tags:
 - coding
 ---

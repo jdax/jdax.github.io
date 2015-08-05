@@ -2,7 +2,7 @@
 title: On Comment Policies and Free Speech
 date: '2013-05-03'
 category: feminism
-blog: feminism
+blog: blog
 tags:
 - feminism
 ---

@@ -2,6 +2,7 @@
 title: Dell XPS 13 Developers Edition 2015 and Ubuntu Machines
 date: '2015-07-15'
 category: coding
+blog: blog
 tags:
 - coding
 ---

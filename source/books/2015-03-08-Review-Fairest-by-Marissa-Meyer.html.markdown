@@ -1,7 +1,9 @@
 ---
 title: 'Review: Fairest by Marissa Meyer'
 date: '2015-03-08'
-tags: []
+tags: books
+blog: books
+category: books
 published: false
 ---
 
