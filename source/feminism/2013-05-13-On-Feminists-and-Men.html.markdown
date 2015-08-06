@@ -7,11 +7,10 @@ tags:
 - feminism
 ---
 
-[caption id="" align="alignleft" width="147"]<a href="http://mrg.bz/Tqo4Vc"><img src="http://mrg.bz/Tqo4Vc" alt="" width="147" height="173" /></a> Anti-feminists would like the genders to be at war. Feminists don't want gender divides (via <a href="http://mrg.bz/2fraCb">morguefile</a>.)[/caption]
 
 There is a lot of confusion about the relationship between feminism, and men. Some mistakenly assert that since feminism is about advancing women's rights, it must therefore also be about taking away men's rights. These people would have you believe that the gender wars are a zero sum game. In order for women to gain rights, men must be deprived of rights. There isn't a limited supply of rights. Rights are inherent, and belong to everyone. Women, in attempting to gain rights, are acquiring the same rights that men have had all along, so that men and women have the same rights. Feminists aren't attempting to take rights away from men.
 
-<!--more-->
+
 
 Women seek to have bodily autonomy, just as men do. This, to some, may seem like the "right" for a man to own a woman's body is being taken away, but there is no inherent right to own someone. It wasn't a right. So it isn't something that is being deprived of them. An analogy is the fight in parts of the queer movement to gain legal marriage recognition. Some religious sects assert this is taking away their rights to religious liberty. They define that liberty as the right to discriminate against gay and lesbian couples. Again, there is no inherent right to discriminate, so this isn't a right that is being taken away.
 
