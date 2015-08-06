@@ -7,13 +7,10 @@ tags:
 - feminism
 ---
 
-<div dir="ltr" style="text-align:left;">
-
 I spent Wednesday afternoons being quickly rushed from the public school I attended to the Catholic school down the street, where I would spend another two hours sitting in a desk in a class room. I learned the rosary, the Apostle's Creed, the stations of the Cross, and then my Aunt, who worked at the school full time, would take me back to my parents house (usually with a detour for a snack, much to my delight.)While my parents, being working class (like many Catholic's are), could not afford to send me and my siblings to Catholic school full time, they did shell out money to OLC for me to receive Confraternity of Christian Doctrine (CCD, like Sunday school, but on Wednesday). I looked forward to my First Holy Communion in which I would get to wear a beautiful white dress, have my hair done, and afterward, have a party in which I was given beautiful rosaries, ornate Bibles, and a statue of the Virgin Mary.
 
 The Catholic Church didn't seem like a monster, then. I entertained the idea of becoming a nun, as all the Sisters seemed super cool, and, besides, who wanted to get married, anyway? And the Cool Hip Young Aunt worked for OLC, so how could the Church not be cool?
 
-<!--more-->
 
 It wasn't until I became aware of where babies really come from that I started to have doubts. My mother and father had met and wed within a year. Everyone thought it was because mom was pregnant. She wasn't, and she wouldn't be for another six years. After the first year, according to my mother, grandma (dad's mom) began offering to pay for fertility treatments, thinking that my mom was having trouble conceiving. She wasn't. She was on The Pill.
 
@@ -41,4 +38,4 @@ While I used to think that birth control was something that was common ground, I
 
 I am not having it. Birth control prevents pregnancy at a time when a woman does not want to be pregnant. Therefore, it prevents the need for abortion. If Santorum, or any other anti-birth control candidate gets elected, and bans birth control, I am keeping my IUD in. Government does not know I have it. And the nurse that inserted it is bound by HIPAA. They will have to shackle me and forcibly remove it if they want me to no longer have it.
 
-</div>
+

@@ -2,7 +2,7 @@
 title: On Feminists and Men
 date: '2013-05-13'
 category: feminism
-blog: feminism
+blog: blog
 tags:
 - feminism
 ---
