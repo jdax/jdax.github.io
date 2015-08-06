@@ -5,8 +5,8 @@ category: feminism
 blog: blog
 tags:
 - feminism
+---
 
-> 
 
 _This post was [originally](http://www.amplifyyourvoice.org/u/nikki_liz/2012/3/7/Virginias-Ultrasound-Laws-Young-Women-Must-Continue-To-Be-Heard) published on Amplify Your Voice. I am currently interning with Advocates for Youth, and blogging on state policy is one of my duties._
 
