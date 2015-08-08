@@ -5,10 +5,18 @@ title: "Index"
 pageable: true
 per_page: 10
 ---
-
+<style>
+  .page-header:after {
+    content:"";
+    display:table;
+    clear:both;
+  }
+</style>
 <div class="page-header">
-  <h1>Nikki Murray <br/><small>Book reviews, coding thoughts, feminist rants, and occasional cats.</small></h1>
+  <img src="/images/commish_nikki.png" alt="Portrait By Kiva Bay" style="width:250px; height:250px;float: left; text-align: center">
+  <h1 style="margin-left: 260px">Nikki Murray <small>Book reviews, coding thoughts, feminist rants, and occasional cats.</small></h1>
 </div>
+
 <div class="container-fluid">
 <% if paginate && num_pages > 1 %>
   <p>Page <%= page_number %> of <%= num_pages %></p>
