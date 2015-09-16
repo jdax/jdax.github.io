@@ -1,13 +1,13 @@
 ---
-title: 'Review: Witch, Cat, and Cob by J.K. Pendragon'
-date: '2015-08-03'
+title: 'Review: Witch, Cat, and Cobb by J.K. Pendragon'
+date: '2015-09-15'
 category: books
 blog: blog
 tags:
 - books
 ---
 
-I received a free copy of "Witch, Cat, and Cob" from NetGalley in exchange for an honest review.
+I received a free copy of "Witch, Cat, and Cobb" from NetGalley in exchange for an honest review.
 
 Witch, Cat, and Cob is set in a fantasy world of elves and kingdoms which seems rather ordinarily heterosexual, with marriages of that type being the norm, but there is mention of the occasional marriage between people of the same sex. The story starts off with a Princess very determined to not end up in a heterosexual marriage.
 

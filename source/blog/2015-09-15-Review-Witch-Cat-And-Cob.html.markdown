@@ -1,6 +1,6 @@
 ---
 title: 'Review: Witch, Cat, and Cobb by J.K. Pendragon'
-date: '2015-08-03'
+date: '2015-09-15'
 category: books
 blog: blog
 tags:
