@@ -1,0 +1,21 @@
+---
+layout: layout
+blog: blog
+---
+
+<% wrap_layout :layout do %>
+<div class="container-fluid">
+  <article>
+      <div class="panel panel-default">
+        <div class="panel-heading"> <h3 class="panel-title"><%= current_article.title %> </h3></div>
+        <!-- use article.summary(250) if you have Nokogiri available to show just
+             the first 250 characters -->
+        <div class="panel-body"><span><%= current_article.date.strftime('%a %x') %></span><br/>
+          <div class="text fulltext">
+            <%= yield %>
+          </div>
+        </div>
+      </div>
+  </article>
+</div>
+<% end %>
