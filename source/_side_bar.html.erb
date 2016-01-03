@@ -2,22 +2,22 @@
 blog: blog
 ---
 
-<div class="container-fluid">
-    <div style="align: right;">
-      <div class="panel panel-default">
-      <div class="panel-heading"><h3 class="panel-title">Recent Writings</h3></div>
-      <div class="panel-body">
-      <ol>
+<div class="right-nav">
+
+      <div class="recent-posts">
+        <div><h3 class="panel-title">Recent Writings</h3></div>
+      <div>
+        <ol>
         <% blog.articles[0...4].each do |article| %>
             <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
         <% end %>
-      </ol>
+        </ol>
       </div>
-  </div>
-  </div>
-      <div class="panel panel-default">
-      <div class="panel-heading"><h3 class="panel-title">Tags</h3></div>
-        <div class="panel-body">
+    </div>
+
+      <div class="tags">
+      <div><h3>Tags</h3></div>
+        <div>
       <ol>
         <% blog(blog_name="books").tags.each do |tag, articles| %>
             <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
@@ -26,11 +26,11 @@ blog: blog
       </div>
     </div>
 
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h3 class="panel-title">Me, elsewhere</h3>
+  <div class="elsewhere">
+    <div>
+      <h3>Me, elsewhere</h3>
     </div>
-    <div class="panel-body">
+    <div>
       <ul>
         <li><a href="www.twitter.com/nikkilizmurray">Twitter</a></li>
         <li><a href="www.github.com/jdax">Github</a></li>
@@ -39,9 +39,9 @@ blog: blog
     </div>
   </div>
 
-      <div class="panel panel-default">
-      <div class="panel-heading"><h3 class="panel-title">By Year</h3></div>
-        <div class="panel-body">
+      <div class="by-year">
+      <div ><h3>By Year</h3></div>
+        <div>
       <ol>
         <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
             <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>

@@ -10,17 +10,16 @@
   <body>
     <div id="main" role="main">
       <%= partial "navbar" %>
-      <div class="container">
 
-        <div class="col-md-9" style="align: left;">
+
+        <div>
           <%= yield %>
         </div>
-        <div class="col-md-3" style="align: right;">
+        <div>
           <%= partial "side_bar" %>
         </div>
-      </div>
+
     </div>
 
   </body>
-  <%= partial "footer" %>
 </html>
