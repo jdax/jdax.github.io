@@ -1,0 +1,58 @@
+/*
+   Desktop
+------------------*/
+
+
+@media only screen and (min-width: 880px) {
+  * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .left-nav {
+    width: 25%;
+    height: auto;
+    padding: 2.5%;
+    margin: 0%;
+    background-color: $gray-dark;
+  }
+
+  .header-image {
+    width: 75%;
+    margin: 12.5%;
+
+  }
+
+  .left-nav-links {
+
+  }
+
+  .copyright {
+
+  }
+
+  .article {
+
+  }
+
+  .article--title {
+
+  }
+
+  .article--date {
+
+  }
+
+  .article--text {
+
+  }
+}
+
+
+/*
+   Tablets
+------------------*/
+
+/*
+   Smartphones
+------------------*/
