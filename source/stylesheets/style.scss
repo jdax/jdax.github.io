@@ -32,6 +32,10 @@ h1, h2, h3, h4, h5, h6 {
     color: $gray-dark;
   }
 
+
+header {
+  display: none;
+}
   /* left nav */
 
   .left-nav {
@@ -133,28 +137,23 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
   }
 
-  .right-nav--title {
+  .right-nav--title {  }
 
+  .right-nav--contents {  }
+
+  .recent-posts {  }
+
+  .elsewhere {  }
+
+  .by-year {  }
+
+  .tags {  }
+
+  .mobile-nav {
+    display: none;
   }
-
-  .right-nav--contents {
-
-  }
-
-  .recent-posts {
-
-  }
-
-  .elsewhere {
-
-  }
-
-  .by-year {
-
-  }
-
-  .tags {
-
+  .slicknav_menu {
+    display:none;
   }
 }
 
@@ -165,4 +164,141 @@ h1, h2, h3, h4, h5, h6 {
 
 /*
    Smartphones
-------------------*/
+------------------*/@media only screen and (max-width: 880px) {
+  * {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: $gray-lighter;
+  }
+
+  p {
+    color: $gray-dark;
+  }
+
+  a {
+    text-decoration: none;
+    color: $gray-dark;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $gray;
+  }
+
+
+  /* mobile navigation */
+
+  .js #primary_nav {
+    display:none;
+  }
+
+  #primary_nav {
+    display:none;
+  }
+
+  .js .slicknav_menu {
+    display:block;
+  }
+
+  /* left nav */
+
+  .left-nav {
+    display: none;
+  }
+
+  .header-image {
+    display: none;
+  }
+
+  .header-text {
+    display: none;
+  }
+
+  .header-text p {
+    display:none;
+  }
+
+  .header-image img {
+    display:none;
+  }
+  .left-nav-links {
+
+  }
+
+  .left-nav-links ul {
+    list-style-type: none;
+    font-size: 2em;
+  }
+
+  /* footer */
+  .copyright {
+    font-size: 1em;
+    margin-left: 12.5%;
+    position: absolute;
+    bottom: 2%;
+  }
+
+  .copyright p {
+    color: $gray;
+  }
+
+  /* main */
+
+  .blog-body {
+    float: left;
+    display: inline-block;
+    width: 100%;
+    padding: 2.5%;
+  }
+
+  .article {
+    box-shadow: 0px 2px $gray-darker;
+    border-radius: 2%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+  }
+
+  .article--title a, h1 {
+    font-family: 'PT Serif', serif;
+
+  }
+
+  .article--date {
+    color: $gray-dark;
+    font-size: 1.5em;
+  }
+
+  .article--text {
+    font-size: 1.75em;
+    padding: 1%;
+  }
+
+  /* side bar */
+
+  .right-nav {
+    display: inline-block;
+  }
+
+  .right-nav--title {
+
+  }
+
+  .right-nav--contents {
+
+  }
+
+  .recent-posts {
+    display: none;
+  }
+
+  .elsewhere {
+
+  }
+
+  .by-year {
+    display: none;
+  }
+
+  .tags {
+    display: none;
+  }
+}
