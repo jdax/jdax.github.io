@@ -143,20 +143,19 @@ header {
   .right-nav {
     float: left;
     width: 25%;
-    display: inline-block;
+    //display: inline-block;
+    display: none;
   }
 
   .right-nav--title {  }
 
   .right-nav--contents {  }
 
-  .recent-posts {  }
+  .recent-posts { display: none; }
 
-  .elsewhere {  }
+  .by-year { display: none; }
 
-  .by-year {  }
-
-  .tags {  }
+  .tags { display: none; }
 
   .mobile-nav {
     display: none;
@@ -325,10 +324,6 @@ header {
   }
 
   .recent-posts {
-    display: none;
-  }
-
-  .elsewhere {
     display: none;
   }
 
