@@ -1,0 +1,13 @@
+$gray-base:              #000 !default;
+$gray-darker:            lighten($gray-base, 13.5%) !default; // #222
+$gray-dark:              #68473C;   // #333
+$gray:                   #907064; // #555
+$gray-light:             #AB8A78; // #777
+$gray-lighter:           #B4A19A; // #eee
+
+@import "normalize";
+@import "variables";
+@import "font-awesome";
+@import "slicknav";
+@import "style";
+

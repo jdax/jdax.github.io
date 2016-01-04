@@ -2,7 +2,7 @@
 title: 'Review: The Insurrectionist and the Empress Who Reigns Over Time by Benjanun Sriduangkaew'
 date: '2015-09-17'
 category: books
-blog: blogs
+blog: blog
 tags:
 - books
 ---
