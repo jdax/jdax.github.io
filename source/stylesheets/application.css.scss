@@ -5,9 +5,9 @@ $gray:                   #907064; // #555
 $gray-light:             #AB8A78; // #777
 $gray-lighter:           #B4A19A; // #eee
 
-@import "normalize";
-@import "variables";
+@import "partials/normalize";
+@import "partials/variables";
 @import "font-awesome";
-@import "slicknav";
-@import "style";
+@import "partials/slicknav";
+@import "partials/style";
 
