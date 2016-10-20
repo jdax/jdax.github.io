@@ -8,7 +8,7 @@ tags:
 
 ---
 
-<em>Written in collaboration with Heather Parker of<a href="http://www.antigoneawakens.com/"> Antigone Awakens</a></em>
+<em>This was originally written in collaboration with a fellow survivor who felt comfortable sharing her name a links to her website. Since that time, she has decided that it is no longer to have this information available. Her name has been removed from this article and no longer does it link to her blog.</em>
 
 Dear friends, family, acquaintances, and random strangers:
 
