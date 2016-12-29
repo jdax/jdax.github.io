@@ -1,0 +1,263 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="javascripts/slicknav.js"></script>
+    <script src="javascripts/show_nav.js"></script>
+    <title>Dax: Books, Coding, Feminism</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/application.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="main" role="main">
+      <div class="left-nav">
+
+  <div class="header-image">
+    <img src="/images/commish_nikki.png" alt="Portrait By Kiva Bay">
+  </div>
+  <div class="header-text">
+    <h1>Dax Murray</h1> <p>Book reviews, coding thoughts, feminist rants, and occasional cats.</p>
+    <div class="article--text">
+      <a href="http://www.twitter.com/nikkilizmurray" target="_blank"><i class="fa fa-twitter">  </i></a>
+      <a href="http://www.github.com/jdax" target="_blank"><i class="fa fa-github"></i></a>
+      <a href="http://www.linkedin.com/in/nicolelizmurray" target="_blank"> <i class="fa fa-linkedin"></i></a>
+    </div>
+  </div>
+
+
+  <div class="left-nav-links">
+    <ul>
+      <li><a href="/about_me">About Me</a></li>
+      <li><a href="/books">Books</a></li>
+      <li><a href="/coding">Coding</a></li>
+      <li><a href="/feminism">Feminism</a></li>
+    </ul>
+  </div>
+
+
+  <footer>
+  <div class="copyright">
+  <p>© Dax Murray and Nikki Liz Murray, 2012-2017. </p>
+    <!--<p>Unauthorized use and/or duplication of this material without express and written permission from this blog’s author and/or owner is strictly prohibited.</p>-->
+    <!--<p>Excerpts and links may be used, provided that full and clear credit is given to Nikki Murray and Nikki Liz Murray with appropriate and specific direction to the original content.</p>-->
+  </div>
+</footer>
+</div>
+      <div class="mobile-nav">
+        <nav id="primary_nav">
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/about_me">About Me</a></li>
+  <li><a href="/books">Books</a></li>
+  <li><a href="/coding">Coding</a></li>
+  <li><a href="/feminism">Feminism</a></li>
+</ul>
+</nav>
+      </div>
+      <div class="mobile_links">
+  <div class="mobile_img"><img src="images/commish_nikki.png" alt="Portrait by Kiva Bay">
+<div class="article--text"><a href="http://www.twitter.com/nikkilizmurray" target="_blank"><i class="fa fa-twitter">  </i>
+</a> <a href="http://www.github.com/jdax" target="_blank"><i class="fa fa-github"></i>
+  </a><a href="http://www.linkedin.com/in/nicolelizmurray" target="_blank"> <i class="fa fa-linkedin"></i>
+</a></div></div>
+</div>
+
+        <div>
+          <?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nikki Murray</title>
+  <subtitle>Books.Coding. Feminism. (Cats.)</subtitle>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2015-09-16T20:00:00-04:00</updated>
+  <author>
+    <name>Nikki Murray</name>
+  </author>
+  <entry>
+    <title>Review: The Insurrectionist and the Empress Who Reigns Over Time by Benjanun Sriduangkaew</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Review-The-Insurrectionist-And-The-Empress-Who-Reigns-Over-Time/"/>
+    <id>http://blog.url.com/blog/Review-The-Insurrectionist-And-The-Empress-Who-Reigns-Over-Time/</id>
+    <published>2015-09-16T20:00:00-04:00</published>
+    <updated>2016-12-29T10:50:39-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;This short story is available for free on Beneath the Ceaseless Sky's website. You can also pay for it on Amazon so you can read it on your Kindle. I did the latter because 1.) It's so good you should support it financially and 2.) I prefer e-ink to backlit screens.&lt;/p&gt;
+
+&lt;p&gt;"The Insurrectionist and the Empress Who Reigns Over Time" was written specifically to show you can have bad things happen to people, but not make it about the bad things happening because the characters are queer. There is a pattern in fiction, television, movies, where many queer people are shown as so good and pure, by virtue of being queer, that bad things must happen to them to show how cruely the world treats them. They are "too good for this sinful earth" or the authorial intent is to showcase how bad homophobia, biphobia and transphobia are. For me, and others, fiction is an escape from this world. Benjanun Sriduangkaew tweeted out that she intended to show that the bad acts that happen to characters can happen for reasons that are not tied to their sexuality or gender, and that those same characters can also have happy endings.&lt;/p&gt;
+
+&lt;p&gt;I feel that "Insurrectionist" accomplished this goal. Benjanun Sriduangkaew did an excellent job of creating a world that felt huge, but not giving the reader the long, rambling history of the world, all of its people, and what the cook makes at every meal. True, this is a short story, so that is the goal. But all of the characters felt real, and while you might not know what happened in some distant past to make them the way they are today, you had enough context to know that their behavior was not arbitrary, and based on plot necessity.&lt;/p&gt;
+
+&lt;p&gt;"Insurrectionist" is the story of a woman who leads uprisings against current governments by working to make rebellions look natural, she uses words and speeches to change the opinions of people. Her greatest gift is her ability to bend words. One day, however, her luck runs out. She is captured, her mouth sewn shut, and imprisoned by an Empress from a kingdom near the one she'd just conquered. The Empress, as the  reader may have guessed, has her own unique abilities. She can move time, and wishes to change a key event. As the Insurrectionist and the Empress figure out how they might be useful to each other, they also figure out they are also attracted to each other. At the end, they find a solution that satisfyingly resolves both of their inner conflicts.&lt;/p&gt;
+
+&lt;p&gt;This short story is not just noteworthy for having two women who are attracted to women as the main characters. The Empress has two mothers, one assumes from the terms that her one mothers is a trans woman, and the other a cis woman. It was incredibly normal to all of the characters involved. Of course the Empress had a giving-mother, and a bearing-mother. Of course that is a normal family structure. It's also evident that the Empress's current situation, her current emotions and thoughts, are not the result of bad parenting or the result of having a unique-to-the-reader family structure.&lt;/p&gt;
+
+&lt;p&gt;Overall, I believe this is the best short story I've read so far in 2015. The writing is beautiful, some beautiful child of poetry and prose. The pacing is perfect for a story about displacement in time, and the pacing served to further that sense of displacement that the Insurrectionist feels. The characters were real and experienced loss and tragedy in the their lives, but never was that loss inextricably tied to their sexuality.&lt;/p&gt;
+
+&lt;p&gt;Read this short story if you are a human with a soul. Don't read this short story if you are a a huge transphobe.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Review: Witches and Wolves by Kelly D. Smith</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Review-Witches-and-Wolves/"/>
+    <id>http://blog.url.com/blog/Review-Witches-and-Wolves/</id>
+    <published>2015-09-15T20:00:00-04:00</published>
+    <updated>2016-12-29T10:50:39-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I received an ARC copy of 'Witches and Wolves' from NetGalley in exchange for an honest review.&lt;/p&gt;
+
+&lt;p&gt;'Witches and Wolves' was a fun novella about learning to be yourself and falling in love. The story focuses on Tory, a witch who lives in the wood to get away from the city life; Tory's ex-boyfriend, a werewolf who also enjoys the seclusion of the woods; and Gee, a young woman who is new to being a werewolf. Gee is just learning how to control her wolf, and finds herself on Tory's doorstep one night. With the help of her new friends, she learns how to embrace who she is, and also finds herself falling for Tory.&lt;/p&gt;
+
+&lt;p&gt;I thought this story was well paced, and the contrast between the external conflicts and the internal conflicts worked to highlight and enhance the inner struggles Gee was going through. I also appreciated that the potential love triangles were not those of most fiction today, and the bisexuality of Tory was not a point of contention for anyone. It's really refreshing to have a bisexual character who is allowed to be human, and isn't subjected to doubt or mistrust from any potential, new, or former lover.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the world-building, too. I felt there was enough details to get a sense of the world without being bogged down in unnecessary backstory or long pages of history. I got enough backstory for the world to know what was relavant to the plot, and a few additional tidbits to make the world of witches, werewolves, and werewolf hunters seem real, interesting, and detailed.&lt;/p&gt;
+
+&lt;p&gt;Through and through, this was a romance story. There was a side plot to solidify the relationship between Gee and Tory, and I enjoyed it. My criticisms would be the length, as I thought it was a bit too short. I would have liked to have a few more intimate scenes between the two of them (not intimate in terms of sexy times, but a few more touching moments).&lt;/p&gt;
+
+&lt;p&gt;Read this book if you like werewolves and witches falling in love. Don't read this book if you are a fan of the "Bury your gays" trope, and "bisexuals don't exist" tropes.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Review: Witch, Cat, and Cobb by J.K. Pendragon</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Review-Witch-Cat-And-Cob/"/>
+    <id>http://blog.url.com/blog/Review-Witch-Cat-And-Cob/</id>
+    <published>2015-09-14T20:00:00-04:00</published>
+    <updated>2016-12-29T10:50:39-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I received a free copy of "Witch, Cat, and Cobb" from NetGalley in exchange for an honest review.&lt;/p&gt;
+
+&lt;p&gt;Witch, Cat, and Cob is set in a fantasy world of elves and kingdoms which seems rather ordinarily heterosexual, with marriages of that type being the norm, but there is mention of the occasional marriage between people of the same sex. The story starts off with a Princess very determined to not end up in a heterosexual marriage.&lt;/p&gt;
+
+&lt;p&gt;We learn very early on that there are many secrets being kept among the cast of characters, and that some of those secrets involve mysterious events from before the Princess was born. She finds herself in the center of a conflict between her cat, whom she finds out is not a regular cat, and a beautiful witch who lives in the forest.&lt;/p&gt;
+
+&lt;p&gt;As each character confronts their past, and what they are running away from, they realize that they have responsibilities to more than just their own self-interest. All of the characters went through growth and development, and the ending felt as though all of the characters were at a satisfying conclusion to their growth.&lt;/p&gt;
+
+&lt;p&gt;The pacing of the story was a little rocky at the start, I felt that the introduction was rather abrupt, with not enough context given at first. The introduction of all the characters seemed a little rushed, and I wish I could have had a little more time to get to know each character on their own at the start. Likewise, the ending, while satisfying, left me wanting more in a way that didn't feel good. It felt rushed, and I wanted to linger in those moments a little longer.&lt;/p&gt;
+
+&lt;p&gt;The elephant in the room is the diversity in this book. If you do not want spoilers, please read no further. Otherwise, I felt this story handled queer representation really well. The way magic is used to handle transitions and the acceptance of those people as people and worthy of love was admirable. This is a story that speaks to me on a lot of levels, but the recognition of a cis woman and a trans woman in a relationship with each other was beautiful and respectful. I appreciated that there was no gratutitous tragedy involved for the sake of tragedy. Everyone got their happy ending, and nothing bad happened to the characters just because they were queer in some way.&lt;/p&gt;
+
+&lt;p&gt;Overall, read this if you want a happy fantasy story about queer characters! Don't read this if you hate happy endings.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>TODO Group and the Need for Codes of Conduct</title>
+    <link rel="alternate" href="http://blog.url.com/blog/TODO-Group-And-The-Need-For-Codes-of-Conduct/"/>
+    <id>http://blog.url.com/blog/TODO-Group-And-The-Need-For-Codes-of-Conduct/</id>
+    <published>2015-08-08T20:00:00-04:00</published>
+    <updated>2016-12-29T10:50:39-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="storify"&gt;&lt;iframe src="//storify.com/NikkiLizMurray/todo-group-and-why-good-codes-of-conduct-are-impor/embed?template=slideshow" width="100%" height="750" frameborder="no" allowtransparency="true"&gt;&lt;/iframe&gt;&lt;script src="//storify.com/NikkiLizMurray/todo-group-and-why-good-codes-of-conduct-are-impor.js?template=slideshow"&gt;&lt;/script&gt;&lt;noscript&gt;[&lt;a href="//storify.com/NikkiLizMurray/todo-group-and-why-good-codes-of-conduct-are-impor" target="_blank"&gt;View the story "TODO Group and Why Good Codes of Conduct Are Important" on Storify&lt;/a&gt;]&lt;/noscript&gt;&lt;/div&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Review: Slaying Dragons by Sasha L. Miller</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Review-Slaying-Dragons-by-Sasha-L-Miller/"/>
+    <id>http://blog.url.com/blog/Review-Slaying-Dragons-by-Sasha-L-Miller/</id>
+    <published>2015-08-02T20:00:00-04:00</published>
+    <updated>2016-12-29T10:50:39-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I received a copy of Slaying Dragons by Sasha L. Miller from NetGalley and Less Than Three Press in exchange for an honest review.&lt;/p&gt;
+
+&lt;p&gt;Slaying Dragons is a novella of about 28,000 words, and each one of those words lingers. For a small story, there is a lot of world building done. The unnamed location is plagued by dragons, basilisks, wyrms, and other fantastic monsters. An organization comprised of mages and knights exists to eliminate these threats. Mages and combatants are paired temporarily to take on an assignment to kill one of these beasts, and then they receive new orders usually with a new partner.&lt;/p&gt;
+
+&lt;p&gt;Devi, a strong woman with years of training, has not had so much luck in this department lately. After a series of bad partners lands her in hot water, she is surprised she has a new assignment but hopeful that the new partner won’t be as terrible as the noble who wanted the glory of being a battle mage without the work. Noeme, the mage, seems knowledgeable even if she’s never battled a dragon. Devi is cautiously hopeful.&lt;/p&gt;
+
+&lt;p&gt;As a reader, I was instantly rooting for Noeme and Devi. The attraction between the two was palpable and a pleasure to read. However, the will-they/won’t-they never detracted from the action of their dragon-slaying assignment. Likewise, the dragon-slaying action enhanced the will-they/won’t-they in a way that never felt contrived.&lt;/p&gt;
+
+&lt;p&gt;Also, the ending was perfect and amazing and everything I ever could have asked for in an amazing novella of two cool ladies slaying dragons.&lt;/p&gt;
+
+&lt;p&gt;The pacing felt slightly off, as I expected the climax to be the dragon-slaying, but, spoilers. Once I figured this out, (and once Devi does, too), everything else seemed to fall into place, and the pacing seemed obvious. As this was an ARC, there were a few errors I noticed (at one point, near the end, Devi is referred to as a mage, when she’s very clearly not!) which I hope will be corrected for publication. Check out &lt;a href="http://www.lessthanthreepress.com/books/index.php?main_page=product_bookx_info&amp;amp;cPath=92&amp;amp;products_id=954"&gt;Less Than Three press to pre-order&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Overall, read this if you want a fun short story of ladies killing dragons. Don’t read this if you don’t think ladies can kill dragons.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Review: Fox-Hat and Neko by August Li</title>
+    <link rel="alternate" href="http://blog.url.com/blog/Review-Fox-Hat-and-Neko-by-August-Li/"/>
+    <id>http://blog.url.com/blog/Review-Fox-Hat-and-Neko-by-August-Li/</id>
+    <published>2015-08-02T20:00:00-04:00</published>
+    <updated>2016-12-29T10:50:39-05:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;I was provided a copy of this book to review by NetGalley in exchange for an honest review.&lt;/p&gt;
+
+&lt;p&gt;Fox-Hat and Neko, by August Li, follows the tale of a "chosen one" born in Japan, and his journey from accepting his special powers to the final defeat of the antagonist. Along the way he befriends a fox spirit, a cat demon, a cheerful artist, a determined archer, an impoverished baker, a heartbroken antique dealer, and a enthusiastic English teacher.&lt;/p&gt;
+
+&lt;p&gt;Not everyone is as they seem, and many of his acquaintances have secrets they would prefer to keep.&lt;/p&gt;
+
+&lt;p&gt;The book is interspersed with manga-esque black and white sketches, and the book takes on the feel of a manga in some capacity. While a lot of the book takes place in Japan, due to the nature of Ayumu Tsunkino's power to walk in an manipulate dreams, the book also takes on a dream like feel. The reader could easily become lost in these dream sequences, where the action can jump and characters can randomly be somewhere else.&lt;/p&gt;
+
+&lt;p&gt;It is in these dream chapters that a lot of the character development happens, as people's darkest fears are exposed in a nightmare sequence. The artist, Chou, fears being trapped in a dull office job; Ikehara, the baker, feels trapped by his younger siblings and his obligations to his family.&lt;/p&gt;
+
+&lt;p&gt;I feel it prudent to point out that many of the characters are somewhere along the spectrum of queer sexuality. There is no push-back from any of their friends or family about this. This novel did not address homophobia and what LGBT teens might go through in terms of bullying or parental anger. None of the characters experienced any trauma for being queer, specifically. This was incredibly refreshing. There was one short conversation where a lesbian expressed fear to her bisexual girlfriend over losing her to a boy. Her girlfriend very firmly pointed out how awful that was, and why it was unfair. The lesbian listened, believed her, and apologized. Again, incredibly refreshing to see the stigma of bisexuality addressed and have a character apologize for engaging in it. As a queer woman, I already know what homophobia is, I experience it every day. I don't need to be shown it in fiction, too. My experiences aren't a plot device.&lt;/p&gt;
+
+&lt;p&gt;Another thing about this book that made me happy was it very briefly addressed polyamory. It might have been unintentional, but a character expresses a sentiment that she loves two people at the same time and wants them both. While this isn't acted on, I felt it appropriately handled how poly feels.&lt;/p&gt;
+
+&lt;p&gt;Despite the amazingness that was good representation that let queer characters stand as their own people, this book was at times slow. There was a lot of telling in place of showing, and due to the dream-like nature of the battles, it became hard to follow at times. There were a few false-starts with figuring out who the Big Bad was, and it took, in my opinion, an incredibly long time for all of the back story to be fleshed out. It was teased for a long time, and it felt really drawn out.&lt;/p&gt;
+
+&lt;p&gt;Overall, pick this up if you want to read thoughtful representations without all the homophobia laid bare. Also, maybe read this if you want to hear about Usagi Tsukino's cousin? I don't know about that, but it's really all I could think about. Maybe don't buy this if you are looking for either queer tragedy porn or don't like queer people?&lt;/p&gt;
+</content>
+  </entry>
+</feed>
+
+        </div>
+        <div>
+          <div class="right-nav">
+
+      <div class="recent-posts">
+        <div><h3 class="panel-title">Recent Writings</h3></div>
+      <div>
+        <ol>
+            <li><a href="/blog/Review-The-Insurrectionist-And-The-Empress-Who-Reigns-Over-Time/">Review: The Insurrectionist and the Empress Who Reigns Over Time by Benjanun Sriduangkaew</a> <span>Sep 17</span></li>
+            <li><a href="/blog/Review-Witches-and-Wolves/">Review: Witches and Wolves by Kelly D. Smith</a> <span>Sep 16</span></li>
+            <li><a href="/blog/Review-Witch-Cat-And-Cob/">Review: Witch, Cat, and Cobb by J.K. Pendragon</a> <span>Sep 15</span></li>
+            <li><a href="/blog/TODO-Group-And-The-Need-For-Codes-of-Conduct/">TODO Group and the Need for Codes of Conduct</a> <span>Aug  9</span></li>
+        </ol>
+      </div>
+    </div>
+
+      <div class="tags">
+      <div><h3>Tags</h3></div>
+        <div>
+      <ol>
+            <li><a href="/blog/tags/books/">books (12)</a></li>
+            <li><a href="/blog/tags/feminism/">feminism (1)</a></li>
+      </ol>
+      </div>
+    </div>
+
+      <div class="by-year">
+      <div ><h3>By Year</h3></div>
+        <div>
+      <ol>
+            <li><a href="/blog/2015/">2015 (29)</a></li>
+            <li><a href="/blog/2013/">2013 (10)</a></li>
+            <li><a href="/blog/2012/">2012 (6)</a></li>
+      </ol>
+
+    </div>
+  </div>
+</div>
+        </div>
+
+
+    </div>
+
+  </body>
+</html>
