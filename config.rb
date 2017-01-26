@@ -4,6 +4,13 @@
 
 # Time.zone = "UTC"
 
+
+
+# Sitemap
+page "/sitemap.xml", :layout => false
+set :url_root, 'http://daxmurray.com/'
+activate :search_engine_sitemap
+
 activate :blog do |blog|
   blog.name = "blog"
   blog.prefix = "blog"
@@ -119,7 +126,7 @@ activate :blog do |blog|
   blog.page_link = "page/{num}"
 end
 
-# page "/feed.xml", layout: false
+page "/feed.xml", layout: false
 
 ###
 # Compass
