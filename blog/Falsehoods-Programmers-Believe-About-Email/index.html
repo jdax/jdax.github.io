@@ -1,0 +1,197 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="Dax Murray" name="Dax Murray">
+    <meta name="description" content="Dax Murray's book, coding, and other thoughts" />
+
+    <!-- Facebook -->
+    <meta property="og:title" content="Dax Murray" />
+    <meta property="og:description" content="Dax Murray's book, coding, and other thoughts" />
+    <meta property="og:url" content="http://www.daxmurray.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Dax Murray" />
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:site" content="@DaxAeterna">
+    <meta name="twitter:site:id" content="">
+    <meta name="twitter:creator" content="@DaxAeterna">
+    <meta name="twitter:title" content="Dax Murray">
+    <meta name="twitter:description" content="Dax Murray's book, coding, and other thoughts">
+    <meta name="twitter:image" content="">
+
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="javascripts/slicknav.js"></script>
+    <script src="javascripts/show_nav.js"></script>
+    <title>Dax: Books, Coding, Feminism - Falsehoods Programmers Believe About Email Addresses</title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/application.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="main" role="main">
+      <div class="left-nav">
+
+  <div class="header-image">
+    <img src="/images/commish_nikki.png" alt="Portrait By Kiva Bay">
+  </div>
+  <div class="header-text">
+    <h1>Dax Murray</h1> <p>Book reviews, coding thoughts, feminist rants, and occasional cats.</p>
+    <div class="article--text">
+      <a href="http://www.twitter.com/daxaeterna" target="_blank"><i class="fa fa-twitter">  </i></a>
+      <a href="http://www.github.com/jdax" target="_blank"><i class="fa fa-github"></i></a>
+      <a href="http://www.linkedin.com/in/daxmurray" target="_blank"> <i class="fa fa-linkedin"></i></a>
+    </div>
+  </div>
+
+
+  <div class="left-nav-links">
+    <ul>
+      <li><a href="/about_me">About Me</a></li>
+      <li><a href="/books">Books</a></li>
+      <li><a href="/coding">Coding</a></li>
+      <li><a href="/feminism">Feminism</a></li>
+    </ul>
+  </div>
+
+  <div class="left-nav-links">
+    <ul>
+      <li><a href="http://dax.cat">My cats</a></li>
+      <li><a href="http://dax.codes">Portfolio</a></li>
+    </ul>
+  </div>
+
+
+  <footer>
+  <div class="copyright">
+  <p>© Dax Murray 2012-2017. </p>
+    <!--<p>Unauthorized use and/or duplication of this material without express and written permission from this blog’s author and/or owner is strictly prohibited.</p>-->
+    <!--<p>Excerpts and links may be used, provided that full and clear credit is given to Nikki Murray and Nikki Liz Murray with appropriate and specific direction to the original content.</p>-->
+  </div>
+</footer>
+</div>
+      <div class="mobile-nav">
+        <nav id="primary_nav">
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/about_me">About Me</a></li>
+  <li><a href="/books">Books</a></li>
+  <li><a href="/coding">Coding</a></li>
+  <li><a href="/feminism">Feminism</a></li>
+  <li><a href="http://dax.cat">My cats</a></li>
+  <li><a href="http://dax.codes">Portfolio</a></li>
+</ul>
+</nav>
+      </div>
+      <div class="mobile_links">
+  <div class="mobile_img"><img src="images/commish_nikki.png" alt="Portrait by Kiva Bay">
+<div class="article--text"><a href="http://www.twitter.com/daxaeterna" target="_blank"><i class="fa fa-twitter">  </i>
+</a> <a href="http://www.github.com/jdax" target="_blank"><i class="fa fa-github"></i>
+  </a><a href="http://www.linkedin.com/in/daxmurray" target="_blank"> <i class="fa fa-linkedin"></i>
+</a></div></div>
+</div>
+
+        <div>
+              <div class="blog-body">
+      <article>
+        <div class="article">
+          <h1 class="article--title">Falsehoods Programmers Believe About Email Addresses </h1>
+          <!-- use article.summary(250) if you have Nokogiri available to show just
+               the first 250 characters -->
+          <div class="article--date">Mon 02/20/17</div><br/>
+          <div class="article--text">
+            <p>This blog is frustratingly dedicated to <a href="https://twitter.com/ClassPass">ClassPass</a>, <a href="https://twitter.com/mindbodyonline">MindBodyOnline</a>, and <a href="https://twitter.com/BookOutletcom">BookOutlet</a>.</p>
+
+<p>Awhile back, I changed my name. I had been using an email that contained my old name, so it was time for a new email, too. I had just bought http://dax.codes, and so my new email is <strong>**</strong>@dax.codes. I didn't think this would be an issue. But wow, it is an issue. Since changing over to using this email full time, I have found some pretty abysmal ways to validate an email on the front end, preventing me from signing up for services, making purchases, filling out forms, and much much more. This blog may even be dedicated to places where I pointed out the ways in which they were preventing me from giving them money, only to be told they didn't actually want  my money! I've been told more often then I want to just get a new email. I actually want to never be told to just get a new email, for the record.</p>
+
+<p>Asking your user to get a whole new email just so that they can give you money is a really awful user experience. Before this, I was not an email expert. But now I've formed some pretty good opinions on front end and back end validations for email addresses. Email has been around since the 1960's, and by the 1970's took on a form that is recognized as the ancestor to today's email protocols. Early emails were similar to very early AIM, where both users had to be online in order to send and recieve. Most email systems today use STMP, or Simple Mail Transfer Protocol. Users can then use IMAP or POP to retrieve their messages from the server where the message is stored.</p>
+
+<p>In order for a user to get their messages, they need a unique email address to log into, whether they are doing that via a web-based client (gmail, yahoo, aol) or a application like Outlook. Because many people use email addresses from free, web-based services, like gmail, it's easy to forget that the format of username@hostname.com format is not the only format for an email address. This oversight leads to people relying on fallbacks like a regex validation that might look like: [^@]+@[^@]+.[a-zA-Z]{2,11}. This says any character, then an at sign, then any characters, then a period, then any letters(at least two, but no more than 11). This was, I am embarassed to admit, a regex I was using as a fallback for when HTML5 failed. Let's break it down a little bit, and why, at the time I thought it might work.</p>
+
+<p>Yes, the part before the @ sign can literally have any character, even if gmail won't let you. The first part of the email address, where you might do first.lastnname, is called the local part, and according to <a href="https://www.ietf.org/rfc/rfc5321.txt">2.3.10 of RFC 2821 on SMTP</a>, the local part is only to be deciphered by the host: "the local-part MUST be interpreted and assigned semantics only by the host specified in the domain part of the address.". So gmail lets you use only a few characters, they are the host and they get to decide that. But if you set up your own email server? You could let yourself use !#$%^&amp;*()_+=- and more to your hearts content.</p>
+
+<p>According to <a href="https://tools.ietf.org/html/rfc3696#section-3">RFC 3696</a> these are officially valid email addresses, please note the use of \ to escape spaces, additional @'s, the use of "", starting with $, and more in the local part of the email address:</p>
+
+<pre><code>Abc\@def@example.com
+Fred\ Bloggs@example.com
+"Abc@def"@example.com
+"Fred Bloggs"@example.com
+customer/department=shipping@example.com
+$A12345@example.com
+!def!xyz%abc@example.com
+_somename@example.com
+</code></pre>
+
+<p>The second part of the email address is the domain name, this is usually gmail, yahoo, aol, or whatever you have! If you own a domain, you can set up an email server with it, or you can pay Google and they can manange it. So my domain is dax. In this case, email address standards don't apply, but domain standards do, which you can find in <a href="https://tools.ietf.org/html/rfc1035">RFC 1035</a>. So the regex I showed above has, again, any character. While there are standards that restrict this, if someone is doing their own hosting and not using a top level domain, they might ignore those standards. If your a software dev, you do a lot of your own hosting on localhost. While in dev mode, you could create an email at me@localhost and you should be able to fill out your form and get an email response. If you wanted me@localhost-b</p>
+
+<p>The last part is the top-level domain, usually, if I am going to hit a snag, this is where it is. <a href="https://tools.ietf.org/html/rfc3696">According to RCF-3696</a>, email validitiy shouldn't be tested against a list of top level domains. While there were only a few in the 1990's, two letter country codes have been gradually added, and there is an ever increasing number of valid non-country domains</p>
+
+<p>As of the first quarter of 2003, the list of valid, non-country,
+   top-level domains was .AERO, .BIZ, .COM, .COOP, .EDU, .GOV, .INFO,
+   .INT, .MIL, .MUSEUM, .NAME, .NET, .ORG, .PRO, and .ARPA.  ICANN is
+   expected to expand that list at regular intervals, so the list that
+   appears here should not be used in testing.</p>
+
+<p>In the example regex above, a top level domain is required, and as discussed above, you don't actually need a top level domain to have a valid email. Furthermore, the above example says a TLD is 2 to 11 letters. That was based on the fact that the <em>current</em> longest top level domain is .technology, but as there are many new top level domains coming out each year, it is very possible that there are longer ones on the horizon. While that seems to be a bad idea from a user experience level (shorter URL's are better, after all), it might be a good idea for marketing. My current primary web presence is http://dax.codes. The TLD is 5 letters, and wisdom of less letters might have tempted me to make an offer on dax.com, I wanted something memorable, that conveyed what the site was about (it's about me doing code). So the regex example accounts for my email address, but it might not account for a hypothetical email from yoshi\ p@xiv.finalfantasyteam. (yes, you can have spaces in the local part of your email by using the backslash to escape.) Currently, finalfantasyteam isn't a TLD, but who even knows, it might be one day. In this future, I would now be grep-ing my entire repo directory on my laptop looking for where I had used this regex and replacing the 11 with 16. And any attempt to use @localhost emails for testing would be failed.</p>
+
+<p>Even the @ sign is not necessarily necessary, there are intranets used in government, and many other places, where there is an internal email system, which can send and recieve emails just using the local part. So if you are building an app as part of a contract that would run on this company or organizations intranet, and you want it to send emails to their intranet email, your regex would fail here.</p>
+
+<p>So, how do you make sure someone is using a valid email with your app? Rely on confirmation emails. After the user has given you the necessary information, send an email to them with a link they must click. Don't authenticate the user on your app until that link has been clicked. Some places will sign a person in and let them use the app, and have a yellow or red banner at the top saying that you haven't confirmed your email yet (twitter does this currently). But you can still use most of the functionality without that confirmation. In your users table, have confirmed_email: boolean, and have part of user authentication be that confirmed_email is true. You might be sending emails off into the void for a bit, but you will not be accidentally turning away users who are trying to give you money.</p>
+
+          </div>
+        </div>
+      </article>
+    </div>
+
+        </div>
+        <div>
+          <div class="right-nav">
+
+      <div class="recent-posts">
+        <div><h3 class="panel-title">Recent Writings</h3></div>
+      <div>
+        <ol>
+            <li><a href="/blog/Falsehoods-Programmers-Believe-About-Email/">Falsehoods Programmers Believe About Email Addresses</a> <span>Feb 20</span></li>
+            <li><a href="/blog/snake-love/">Snake Love</a> <span>Feb 14</span></li>
+            <li><a href="/blog/Cover-Reveal/">Cover Reveal!</a> <span>Jan 25</span></li>
+            <li><a href="/blog/The-Resignation-Letter-Announcement/">The Resignation Letter Announcement and Miscellany</a> <span>Jan 20</span></li>
+        </ol>
+      </div>
+    </div>
+
+      <div class="tags">
+      <div><h3>Tags</h3></div>
+        <div>
+      <ol>
+            <li><a href="/blog/tags/books/">books (14)</a></li>
+            <li><a href="/blog/tags/feminism/">feminism (1)</a></li>
+      </ol>
+      </div>
+    </div>
+
+      <div class="by-year">
+      <div ><h3>By Year</h3></div>
+        <div>
+      <ol>
+            <li><a href="/blog/2017/">2017 (4)</a></li>
+            <li><a href="/blog/2015/">2015 (29)</a></li>
+            <li><a href="/blog/2013/">2013 (10)</a></li>
+            <li><a href="/blog/2012/">2012 (6)</a></li>
+      </ol>
+
+    </div>
+  </div>
+</div>
+        </div>
+
+
+    </div>
+
+  </body>
+</html>
