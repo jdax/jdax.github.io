@@ -5,58 +5,10 @@
   <id>http://daxmurray.com/blog</id>
   <link href="http://daxmurray.com/blog"/>
   <link href="http://daxmurray.com/feed.xml" rel="self"/>
-  <updated>2017-02-19T19:00:00-05:00</updated>
+  <updated>2017-02-13T19:00:00-05:00</updated>
   <author>
     <name>Dax Murray</name>
   </author>
-  <entry>
-    <title>Falsehoods Programmers Believe About Email Addresses</title>
-    <link rel="alternate" href="http://daxmurray.com/blog/Falsehoods-Programmers-Believe-About-Email/"/>
-    <id>http://daxmurray.com/blog/Falsehoods-Programmers-Believe-About-Email/</id>
-    <published>2017-02-19T19:00:00-05:00</published>
-    <updated>2017-02-20T18:16:17-05:00</updated>
-    <author>
-      <name>Dax Murray</name>
-    </author>
-    <content type="html">&lt;p&gt;This blog is frustratingly dedicated to &lt;a href="https://twitter.com/ClassPass"&gt;ClassPass&lt;/a&gt;, &lt;a href="https://twitter.com/mindbodyonline"&gt;MindBodyOnline&lt;/a&gt;, and &lt;a href="https://twitter.com/BookOutletcom"&gt;BookOutlet&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Awhile back, I changed my name. I had been using an email that contained my old name, so it was time for a new email, too. I had just bought http://dax.codes, and so my new email is &lt;strong&gt;**&lt;/strong&gt;@dax.codes. I didn't think this would be an issue. But wow, it is an issue. Since changing over to using this email full time, I have found some pretty abysmal ways to validate an email on the front end, preventing me from signing up for services, making purchases, filling out forms, and much much more. This blog may even be dedicated to places where I pointed out the ways in which they were preventing me from giving them money, only to be told they didn't actually want  my money! I've been told more often then I want to just get a new email. I actually want to never be told to just get a new email, for the record.&lt;/p&gt;
-
-&lt;p&gt;Asking your user to get a whole new email just so that they can give you money is a really awful user experience. Before this, I was not an email expert. But now I've formed some pretty good opinions on front end and back end validations for email addresses. Email has been around since the 1960's, and by the 1970's took on a form that is recognized as the ancestor to today's email protocols. Early emails were similar to very early AIM, where both users had to be online in order to send and recieve. Most email systems today use STMP, or Simple Mail Transfer Protocol. Users can then use IMAP or POP to retrieve their messages from the server where the message is stored.&lt;/p&gt;
-
-&lt;p&gt;In order for a user to get their messages, they need a unique email address to log into, whether they are doing that via a web-based client (gmail, yahoo, aol) or a application like Outlook. Because many people use email addresses from free, web-based services, like gmail, it's easy to forget that the format of username@hostname.com format is not the only format for an email address. This oversight leads to people relying on fallbacks like a regex validation that might look like: [^@]+@[^@]+.[a-zA-Z]{2,11}. This says any character, then an at sign, then any characters, then a period, then any letters(at least two, but no more than 11). This was, I am embarassed to admit, a regex I was using as a fallback for when HTML5 failed. Let's break it down a little bit, and why, at the time I thought it might work.&lt;/p&gt;
-
-&lt;p&gt;Yes, the part before the @ sign can literally have any character, even if gmail won't let you. The first part of the email address, where you might do first.lastnname, is called the local part, and according to &lt;a href="https://www.ietf.org/rfc/rfc5321.txt"&gt;2.3.10 of RFC 2821 on SMTP&lt;/a&gt;, the local part is only to be deciphered by the host: "the local-part MUST be interpreted and assigned semantics only by the host specified in the domain part of the address.". So gmail lets you use only a few characters, they are the host and they get to decide that. But if you set up your own email server? You could let yourself use !#$%^&amp;amp;*()_+=- and more to your hearts content.&lt;/p&gt;
-
-&lt;p&gt;According to &lt;a href="https://tools.ietf.org/html/rfc3696#section-3"&gt;RFC 3696&lt;/a&gt; these are officially valid email addresses, please note the use of \ to escape spaces, additional @'s, the use of "", starting with $, and more in the local part of the email address:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Abc\@def@example.com
-Fred\ Bloggs@example.com
-"Abc@def"@example.com
-"Fred Bloggs"@example.com
-customer/department=shipping@example.com
-$A12345@example.com
-!def!xyz%abc@example.com
-_somename@example.com
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The second part of the email address is the domain name, this is usually gmail, yahoo, aol, or whatever you have! If you own a domain, you can set up an email server with it, or you can pay Google and they can manange it. So my domain is dax. In this case, email address standards don't apply, but domain standards do, which you can find in &lt;a href="https://tools.ietf.org/html/rfc1035"&gt;RFC 1035&lt;/a&gt;. So the regex I showed above has, again, any character. While there are standards that restrict this, if someone is doing their own hosting and not using a top level domain, they might ignore those standards. If your a software dev, you do a lot of your own hosting on localhost. While in dev mode, you could create an email at me@localhost and you should be able to fill out your form and get an email response. If you wanted me@localhost-b&lt;/p&gt;
-
-&lt;p&gt;The last part is the top-level domain, usually, if I am going to hit a snag, this is where it is. &lt;a href="https://tools.ietf.org/html/rfc3696"&gt;According to RCF-3696&lt;/a&gt;, email validitiy shouldn't be tested against a list of top level domains. While there were only a few in the 1990's, two letter country codes have been gradually added, and there is an ever increasing number of valid non-country domains&lt;/p&gt;
-
-&lt;p&gt;As of the first quarter of 2003, the list of valid, non-country,
-   top-level domains was .AERO, .BIZ, .COM, .COOP, .EDU, .GOV, .INFO,
-   .INT, .MIL, .MUSEUM, .NAME, .NET, .ORG, .PRO, and .ARPA.  ICANN is
-   expected to expand that list at regular intervals, so the list that
-   appears here should not be used in testing.&lt;/p&gt;
-
-&lt;p&gt;In the example regex above, a top level domain is required, and as discussed above, you don't actually need a top level domain to have a valid email. Furthermore, the above example says a TLD is 2 to 11 letters. That was based on the fact that the &lt;em&gt;current&lt;/em&gt; longest top level domain is .technology, but as there are many new top level domains coming out each year, it is very possible that there are longer ones on the horizon. While that seems to be a bad idea from a user experience level (shorter URL's are better, after all), it might be a good idea for marketing. My current primary web presence is http://dax.codes. The TLD is 5 letters, and wisdom of less letters might have tempted me to make an offer on dax.com, I wanted something memorable, that conveyed what the site was about (it's about me doing code). So the regex example accounts for my email address, but it might not account for a hypothetical email from yoshi\ p@xiv.finalfantasyteam. (yes, you can have spaces in the local part of your email by using the backslash to escape.) Currently, finalfantasyteam isn't a TLD, but who even knows, it might be one day. In this future, I would now be grep-ing my entire repo directory on my laptop looking for where I had used this regex and replacing the 11 with 16. And any attempt to use @localhost emails for testing would be failed.&lt;/p&gt;
-
-&lt;p&gt;Even the @ sign is not necessarily necessary, there are intranets used in government, and many other places, where there is an internal email system, which can send and recieve emails just using the local part. So if you are building an app as part of a contract that would run on this company or organizations intranet, and you want it to send emails to their intranet email, your regex would fail here.&lt;/p&gt;
-
-&lt;p&gt;So, how do you make sure someone is using a valid email with your app? Rely on confirmation emails. After the user has given you the necessary information, send an email to them with a link they must click. Don't authenticate the user on your app until that link has been clicked. Some places will sign a person in and let them use the app, and have a yellow or red banner at the top saying that you haven't confirmed your email yet (twitter does this currently). But you can still use most of the functionality without that confirmation. In your users table, have confirmed_email: boolean, and have part of user authentication be that confirmed_email is true. You might be sending emails off into the void for a bit, but you will not be accidentally turning away users who are trying to give you money.&lt;/p&gt;
-</content>
-  </entry>
   <entry>
     <title>Snake Love</title>
     <link rel="alternate" href="http://daxmurray.com/blog/snake-love/"/>
@@ -207,6 +159,30 @@ Dax&lt;/p&gt;
 &lt;p&gt;Through and through, this was a romance story. There was a side plot to solidify the relationship between Gee and Tory, and I enjoyed it. My criticisms would be the length, as I thought it was a bit too short. I would have liked to have a few more intimate scenes between the two of them (not intimate in terms of sexy times, but a few more touching moments).&lt;/p&gt;
 
 &lt;p&gt;Read this book if you like werewolves and witches falling in love. Don't read this book if you are a fan of the "Bury your gays" trope, and "bisexuals don't exist" tropes.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Review: Witch, Cat, and Cobb by J.K. Pendragon</title>
+    <link rel="alternate" href="http://daxmurray.com/blog/Review-Witch-Cat-And-Cob/"/>
+    <id>http://daxmurray.com/blog/Review-Witch-Cat-And-Cob/</id>
+    <published>2015-09-14T20:00:00-04:00</published>
+    <updated>2016-12-29T10:50:39-05:00</updated>
+    <author>
+      <name>Dax Murray</name>
+    </author>
+    <content type="html">&lt;p&gt;I received a free copy of "Witch, Cat, and Cobb" from NetGalley in exchange for an honest review.&lt;/p&gt;
+
+&lt;p&gt;Witch, Cat, and Cob is set in a fantasy world of elves and kingdoms which seems rather ordinarily heterosexual, with marriages of that type being the norm, but there is mention of the occasional marriage between people of the same sex. The story starts off with a Princess very determined to not end up in a heterosexual marriage.&lt;/p&gt;
+
+&lt;p&gt;We learn very early on that there are many secrets being kept among the cast of characters, and that some of those secrets involve mysterious events from before the Princess was born. She finds herself in the center of a conflict between her cat, whom she finds out is not a regular cat, and a beautiful witch who lives in the forest.&lt;/p&gt;
+
+&lt;p&gt;As each character confronts their past, and what they are running away from, they realize that they have responsibilities to more than just their own self-interest. All of the characters went through growth and development, and the ending felt as though all of the characters were at a satisfying conclusion to their growth.&lt;/p&gt;
+
+&lt;p&gt;The pacing of the story was a little rocky at the start, I felt that the introduction was rather abrupt, with not enough context given at first. The introduction of all the characters seemed a little rushed, and I wish I could have had a little more time to get to know each character on their own at the start. Likewise, the ending, while satisfying, left me wanting more in a way that didn't feel good. It felt rushed, and I wanted to linger in those moments a little longer.&lt;/p&gt;
+
+&lt;p&gt;The elephant in the room is the diversity in this book. If you do not want spoilers, please read no further. Otherwise, I felt this story handled queer representation really well. The way magic is used to handle transitions and the acceptance of those people as people and worthy of love was admirable. This is a story that speaks to me on a lot of levels, but the recognition of a cis woman and a trans woman in a relationship with each other was beautiful and respectful. I appreciated that there was no gratutitous tragedy involved for the sake of tragedy. Everyone got their happy ending, and nothing bad happened to the characters just because they were queer in some way.&lt;/p&gt;
+
+&lt;p&gt;Overall, read this if you want a happy fantasy story about queer characters! Don't read this if you hate happy endings.&lt;/p&gt;
 </content>
   </entry>
 </feed>
