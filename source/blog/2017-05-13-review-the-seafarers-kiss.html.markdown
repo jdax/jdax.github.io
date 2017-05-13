@@ -48,6 +48,12 @@ With so little representation, I think it was incredibly harmful. I believe a se
  
  Finally, this book had some great cis bi, lesbian, queer woman rep. It was really cute, and really fun. But no amount of really good, really positive cis queer rep can make a really bad portrayal of a trans enby justified.
 
+ A few other things I wanted to point out that irked me a bit about this, and makes me leery to rec it to others. First, the main couple phsyically assault each other, and it felt really unnecessary. It felt out of place. The dialogue was conveying the conflict in view points between the two, there was no reason that I could see for their conflict to escalate to physical violence. The fact that neither apologizes for hitting the other, and that a very short amount of time later, they were back to being incredibly cute, felt like the violence was normative and ok. It wasn't.
+ 
+ Second, I mentioned the not like other girls thread earlier. It does end up resolving with "all the other girls felt just as trapped as you did," but it definitely could have been more explored as to how Ersel felt when realizing that. The start of the book was so heavy on this, and it felt like an afterthought at the end.
+ 
+ 
+ And finally, at the end, when they are confront one of the villains, Ersel comments that she used to think this particular villain was handsome, but now she can see his pockmarked face and "maybe the cruelty inside him was beginning to show on the outside." I really hate this line. Can we not equate beauty with goodness? This seems to undo all the work that was done for the previous 90% of the novel in showing that Ersel's kraken form was not a reflection of what was inside.
 
 
 
