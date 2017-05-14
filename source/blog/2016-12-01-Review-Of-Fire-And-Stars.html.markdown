@@ -1,6 +1,6 @@
 ---
-title: 'The Resignation Letter Announcement and Miscellany'
-date: '2017-01-20'
+title: 'Review: Of Fire and Stars'
+date: '2016-12-01'
 category: books
 blog: blog
 tags:
