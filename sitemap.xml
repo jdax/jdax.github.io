@@ -301,6 +301,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/blog/Announcing-A-Lake-of-Feathers-and-Moonbeams/</loc>
+    <lastmod>2017-05-16T23:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/blog/In-Which-I-Use-PhotoFeeler-to-Find-the-Best-Pic-Instead-Find-Sexism/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -511,6 +517,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/books/2017/05/16/Announcing-A-Lake-of-Feathers-and-Moonbeams/</loc>
+    <lastmod>2017-05-16T23:00:55-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/books/2015/05/06/Review-Fairest-by-Marissa-Meyer/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -692,6 +704,12 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/2017/05/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2017/05/16/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1304,6 +1322,12 @@
   </url>
   <url>
     <loc>http://daxmurray.com/books/2017/05/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/books/2017/05/16/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
