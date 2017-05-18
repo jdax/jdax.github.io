@@ -451,6 +451,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/services/</loc>
+    <lastmod>2017-05-17T22:37:01-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/thanks/</loc>
+    <lastmod>2017-05-17T22:22:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/books/2015/07/16/Review-Parable-of-the-Sower-by-Octavia-Butler/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
