@@ -1,9 +1,9 @@
-$gray-base:              #000 !default;
-$gray-darker:            lighten($gray-base, 13.5%) !default; // #222
-$gray-dark:              #68473C;   // #333
-$gray:                   #907064; // #555
-$gray-light:             #AB8A78; // #777
-$gray-lighter:           #B4A19A; // #eee
+$gray-base:              #6C256F;
+$gray-darker:            #360037;
+$gray-dark:              #510E53;   // #333
+$gray:                   #AB9FAC; // #555
+$gray-light:             #BEB6BB; // #777
+$gray-lighter:           #B9C8CD; // #eee
 
 @import "partials/normalize";
 @import "partials/variables";

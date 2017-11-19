@@ -1,9 +1,9 @@
-$gray-base:              #000 !default;
-$gray-darker:            lighten($gray-base, 13.5%) !default; // #222
-$gray-dark:              #68473C;   // #333
-$gray:                   #907064; // #555
-$gray-light:             #AB8A78; // #777
-$gray-lighter:           #B4A19A; // #eee
+$gray-base:              #6C256F;
+$gray-darker:            #360037;
+$gray-dark:              #510E53;   // #333
+$gray:                   #AB9FAC; // #555
+$gray-light:             #BEB6BB; // #777
+$gray-lighter:           #B9C8CD; // #eee
 
 /*
    font
@@ -50,7 +50,7 @@ header {
     height: 100%;
     padding-left: 2.5%;
     padding-right: 2.5%;
-    background-color: $gray-lighter;
+    background-color: $gray-darker;
     float: left;
     display: inline-block;
     position: fixed;
@@ -61,12 +61,14 @@ header {
     width: auto;
     height: auto;
     margin-left: 12.5%;
+    margin-top: 7%;
     overflow:hidden;
     display: inline-block;
   }
 
   .header-text {
     margin-left: 12.5%;
+    color: $gray-light
   }
 
   .header-text p {
@@ -74,11 +76,12 @@ header {
   }
 
   .header-image img {
-    padding-top: 7%;
     max-width:100%;
     max-height:100%;
     margin:auto;
     display:block;
+    border: #BF5FFF 3px solid;
+
   }
   .left-nav-links {
 
@@ -115,7 +118,7 @@ header {
   }
 
   .article {
-    box-shadow: 0px 2px $gray-darker;
+    box-shadow: 0px 2px $gray-dark;
     border-radius: 2%;
     padding-bottom: 1%;
     padding-top: 2%;
@@ -123,11 +126,12 @@ header {
 
   .article--title a, h1 {
     font-family: 'PT Serif', serif;
+    color: $gray-base;
 
   }
 
   .article--date {
-    color: $gray-dark;
+    color: $gray-darker;
     font-size: 1.5em;
   }
 
@@ -146,8 +150,11 @@ header {
     width: 25%;
     display: inline-block;
     text-align: center;
+    .promo-footer {
+      display: inline-block;
+    }
     .promo {
-      border: $gray 3px;
+      border: $gray 3px solid;
       width: 90%;
       padding: 1%;
       margin: 1%;
