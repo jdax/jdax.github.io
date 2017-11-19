@@ -3,7 +3,7 @@
  * (c) 2015 Josh Cope
  * licensed under MIT
  */
-/* line 13, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 8, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_btn {
   position: relative;
   display: block;
@@ -13,21 +13,21 @@
   line-height: 1.125em;
   cursor: pointer; }
 
-/* line 21, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 16, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_btn .slicknav_icon-bar + .slicknav_icon-bar {
   margin-top: 0.188em; }
 
-/* line 24, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 20, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu {
   *zoom: 1; }
 
-/* line 26, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 23, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu .slicknav_menutxt {
   display: block;
   line-height: 1.188em;
   float: left; }
 
-/* line 30, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 28, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu .slicknav_icon {
   float: left;
   width: 1.125em;
@@ -43,11 +43,11 @@
   content: "";
   position: absolute; }
 
-/* line 42, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 44, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu .slicknav_no-text {
   margin: 0; }
 
-/* line 44, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 48, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu .slicknav_icon-bar {
   display: block;
   width: 1.125em;
@@ -55,87 +55,87 @@
   -webkit-border-radius: 1px;
   -moz-border-radius: 1px;
   border-radius: 1px;
-  -webkit-box-shadow: 0 1px 0 #907064;
-  -moz-box-shadow: 0 1px 0 #907064;
-  box-shadow: 0 1px 0 #907064; }
+  -webkit-box-shadow: 0 1px 0 #AB9FAC;
+  -moz-box-shadow: 0 1px 0 #AB9FAC;
+  box-shadow: 0 1px 0 #AB9FAC; }
 
-/* line 54, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 60, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu:before {
   content: "Dax Murray";
-  color: #B4A19A;
+  color: #B9C8CD;
   font-family: 'PT Serif', serif;
   font-size: 2em;
   display: inline-block; }
 
-/* line 60, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 67, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu:after {
   content: " ";
   display: inline-block;
   clear: both; }
 
-/* line 65, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 73, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav {
   clear: both; }
 
-/* line 67, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 77, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav ul {
   display: block; }
 
-/* line 69, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 81, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav li {
   display: block; }
 
-/* line 71, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 85, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_arrow {
   font-size: 0.8em;
   margin: 0 0 0 0.4em; }
 
-/* line 74, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 90, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_item {
   cursor: pointer; }
 
-/* line 76, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 94, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_item a {
   display: inline; }
 
-/* line 78, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 98, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_row {
   display: block; }
 
-/* line 80, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 102, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav a {
   display: block; }
 
-/* line 82, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 106, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_parent-link a {
   display: inline; }
 
-/* line 85, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 110, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_brand {
   float: left; }
 
-/* line 88, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 114, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu {
   font-size: 16px;
   box-sizing: border-box;
-  background: #68473C;
+  background: #510E53;
   padding: 5px; }
 
-/* line 93, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 121, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu * {
   box-sizing: border-box; }
 
-/* line 95, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 125, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu .slicknav_menutxt {
-  color: #fff;
+  color: #6C256F;
   font-weight: bold;
-  text-shadow: 0 1px 3px #AB8A78; }
+  text-shadow: 0 1px 3px #BEB6BB; }
 
-/* line 99, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 131, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_menu .slicknav_icon-bar {
-  background-color: #68473C; }
+  background-color: #510E53; }
 
-/* line 102, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 135, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_btn {
   margin: 5px 5px 6px;
   text-decoration: none;
@@ -143,45 +143,45 @@
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  background-color: #907064; }
+  background-color: #AB9FAC; }
 
-/* line 111, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 145, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav {
-  color: #68473C;
+  color: #510E53;
   margin: 0;
   padding: 0;
   font-size: 0.875em;
   list-style: none;
   overflow: hidden; }
 
-/* line 118, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 154, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav ul {
   list-style: none;
   overflow: hidden;
   padding: 0;
   margin: 0 0 0 20px; }
 
-/* line 123, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 161, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_row {
   padding: 5px 10px;
   margin: 2px 5px; }
 
-/* line 126, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 166, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_row:hover {
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
   background: #ccc;
-  color: #fff; }
+  color: #510E53; }
 
-/* line 132, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 172, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav a {
   padding: 5px 10px;
   margin: 2px 5px;
   text-decoration: none;
-  color: #fff; }
+  color: #510E53; }
 
-/* line 137, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 177, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav a:hover {
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
@@ -189,21 +189,21 @@
   background: #ccc;
   color: #222; }
 
-/* line 143, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 183, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_txtnode {
   margin-left: 15px; }
 
-/* line 145, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 185, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_item a {
   padding: 0;
   margin: 0; }
 
-/* line 148, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 188, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_nav .slicknav_parent-link a {
   padding: 0;
   margin: 0; }
 
-/* line 152, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
+/* line 192, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/slicknav.css.scss */
 .slicknav_brand {
   color: #fff;
   font-size: 18px;
