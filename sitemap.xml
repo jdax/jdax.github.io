@@ -205,6 +205,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/blog/reflections-on-a-first-novel/</loc>
+    <lastmod>2017-11-19T12:21:49-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/blog/TODO-Group-And-The-Need-For-Codes-of-Conduct/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -351,12 +357,6 @@
   <url>
     <loc>http://daxmurray.com/blog/What-Not-To-Say-To-Someone-You-Think-Is-In-A-Domestic-Violence-Situation/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://daxmurray.com/blog/Update/</loc>
-    <lastmod>2017-11-19T12:21:49-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -517,6 +517,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/books/2017/11/19/Reflections-on-a-first-novel/</loc>
+    <lastmod>2017-11-19T15:07:42-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/books/2016/12/01/Review-Of-Fire-And-Stars/</loc>
     <lastmod>2017-05-14T17:08:50-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -567,12 +573,6 @@
   <url>
     <loc>http://daxmurray.com/books/2015/08/03/Review-Slaying-Dragons-by-Sasha-L-Miller/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://daxmurray.com/books/2017/11/19/Update/</loc>
-    <lastmod>2017-11-19T15:07:42-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
