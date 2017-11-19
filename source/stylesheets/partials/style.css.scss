@@ -110,7 +110,7 @@ header {
     float: left;
     display: inline-block;
     margin-left: 25%;
-    width: 45%;
+    width: 50%;
     padding: 2.5%;
   }
 
@@ -142,20 +142,33 @@ header {
 
   .right-nav {
     float: left;
+    padding: 2%;
     width: 25%;
-    //display: inline-block;
-    display: none;
+    display: inline-block;
+    text-align: center;
+    .promo {
+      border: $gray 3px;
+      width: 90%;
+      padding: 1%;
+      margin: 1%;
+      float: right;
+      display: inline-block;
+      .promo-img {
+        img {
+          max-width:95%;
+          max-height: 95%;
+          height: auto;
+          margin: 0 auto;
+        }
+      }
+      .promo-text {
+        text-align: center;
+        line-height: inherit;
+        float: left;
+        display: block;
+      }
+    }
   }
-
-  .right-nav--title {  }
-
-  .right-nav--contents {  }
-
-  .recent-posts { display: none; }
-
-  .by-year { display: none; }
-
-  .tags { display: none; }
 
   .mobile-nav {
     display: none;

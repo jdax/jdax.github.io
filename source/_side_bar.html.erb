@@ -3,38 +3,23 @@ blog: blog
 ---
 
 <div class="right-nav">
-
-      <div class="recent-posts">
-        <div><h3 class="panel-title">Recent Writings</h3></div>
-      <div>
-        <ol>
-        <% blog.articles[0...4].each do |article| %>
-            <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
-        <% end %>
-        </ol>
+  <div class="promo">
+    <a href="http://amzn.to/2zRV6yS">
+      <div class="promo-img">
+        <img src="images/ALoFaMCover-01.jpg"/>
       </div>
-    </div>
+      <br/>
+      <p class="promo-text">Click Here to Purchase "A Lake of Feathers and Moonbeams"</p>
+    </a>
+  </div>
 
-      <div class="tags">
-      <div><h3>Tags</h3></div>
-        <div>
-      <ol>
-        <% blog(blog_name="books").tags.each do |tag, articles| %>
-            <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
-        <% end %>
-      </ol>
+  <div class="promo">
+    <a href="http://amzn.to/2hEV8j8">
+      <div class="promo-img">
+        <img src="images/ResignationLetterCover-01.jpg"/>
       </div>
-    </div>
-
-      <div class="by-year">
-      <div ><h3>By Year</h3></div>
-        <div>
-      <ol>
-        <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
-            <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
-        <% end %>
-      </ol>
-
-    </div>
+      <br/>
+      <p class="promo-text">Click Here to Purchase "The Resignation Letter"</p>
+    </a>
   </div>
 </div>
