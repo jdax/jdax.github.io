@@ -7,7 +7,7 @@ tags:
 - blog
 ---
 
-<img src='/images/me_an_melusina.jpg' alt="Me holding my snake in front of my face" style="max-width: 50%; float: right;" />
+<img src='/images/me_an_melusina.jpg' alt="Me holding my snake in front of my face" style="max-width: 25%; float: right;" />
 
 I adopted a snake recently! Her name is Melusina, she was hatched in July 2016 and she is a yellow belly ball python. "Yellow belly" is her "morph" - what snake breeders use to describe patterns / markings / genetics. There's a whole system of dominate / co-dominate / recessive traits breeding that goes on to make some really awesome looking snakes. "Ball python" is the type of snake she is. Ball pythons are medium sized snakes that are non-venomous. They are constrictors, which means they kill their prey by squeezing them. They are also sometimes called "royal pythons" because royalty in sub-Saharan nations would sometimes wear them as jewelry. The monikor "ball python" comes from the fact that balling up is their response to pretty much anything. 
 
