@@ -260,7 +260,7 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/snake-love/</loc>
-    <lastmod>2017-02-14T20:39:50-05:00</lastmod>
+    <lastmod>2017-11-19T15:10:16-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -351,6 +351,12 @@
   <url>
     <loc>http://daxmurray.com/blog/What-Not-To-Say-To-Someone-You-Think-Is-In-A-Domestic-Violence-Situation/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/Update/</loc>
+    <lastmod>2017-11-19T12:21:49-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -452,7 +458,7 @@
   </url>
   <url>
     <loc>http://daxmurray.com/about_me/</loc>
-    <lastmod>2017-05-13T10:26:57-04:00</lastmod>
+    <lastmod>2017-11-19T12:27:35-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -561,6 +567,12 @@
   <url>
     <loc>http://daxmurray.com/books/2015/08/03/Review-Slaying-Dragons-by-Sasha-L-Miller/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/books/2017/11/19/Update/</loc>
+    <lastmod>2017-11-19T15:07:42-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -728,6 +740,18 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/2017/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2017/11/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2017/11/19/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1364,6 +1388,18 @@
   </url>
   <url>
     <loc>http://daxmurray.com/books/2017/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/books/2017/11/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/books/2017/11/19/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
