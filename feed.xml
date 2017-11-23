@@ -5,10 +5,72 @@
   <id>http://daxmurray.com/blog</id>
   <link href="http://daxmurray.com/blog"/>
   <link href="http://daxmurray.com/feed.xml" rel="self"/>
-  <updated>2017-11-18T19:00:00-05:00</updated>
+  <updated>2017-11-22T19:00:00-05:00</updated>
   <author>
     <name>Dax Murray</name>
   </author>
+  <entry>
+    <title>So you want to self publish on Kindle</title>
+    <link rel="alternate" href="http://daxmurray.com/blog/so-you-want-to-self-publish/"/>
+    <id>http://daxmurray.com/blog/so-you-want-to-self-publish/</id>
+    <published>2017-11-22T19:00:00-05:00</published>
+    <updated>2017-11-23T13:04:26-05:00</updated>
+    <author>
+      <name>Dax Murray</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;This is the first part of a multi-part series on self publishing. This series will cover: writing, editing, beta reading, sensitivity reading, setting up a pre-order, using Kindle Direct Publishing, Kindle Select, NetGalley and other means of getting reviews, and marketing.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A few people have asked me several questions on self publishing on Kindle. I've talked to people who want to publish small technical books that, for one reason or another, O'Reilly doesn't want to publish. I've talked to fiction writers who want to publish a novel. I've talked to a lot of people who have thought "I wish I could…" And I want to tell you that you can.&lt;/p&gt;
+
+&lt;p&gt;There's a lot of steps, and they do not always have a 'correct' order. But they are achievable and you can determine what order you want them to happen in for a lot of them. There are some cart before the horse problems, but largely, writing is the first step, and hitting publish is the last. Everything between there is a malaise of interlooping and overlapping steps to make the writing publishable.&lt;/p&gt;
+
+&lt;p&gt;I made a small power point last April to share at a technical conference with other Rails devs who have small or niche book ideas. I am going to heavily self plagarize from that for this post. So if some of my cat photos look familiar to you, that's why.&lt;/p&gt;
+
+&lt;p&gt;I've been writing stories since I was five. My first one went something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;There once was a cat. The cat loved to eat. The cat loved to nap. The cat loved her human. Her human went to school sometimes. That made the cat sad. But the human always came home. The end.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am sure my mother still has the bare book complete with hand drawn illustrations somewhere. I actually minored in creative writing in college, and while most of my classes focused on poetry, the itch for stories never left. I was just as confused and scared by the self-publishing maze as anyone else. I won't lie and say it is easy, but it is definitely easier than you think it is.&lt;/p&gt;
+
+&lt;h3 id="part-one-writing"&gt;Part One: Writing&lt;/h3&gt;
+
+&lt;p&gt;The writing is the hardest part. I am not going to tell you anything about needing to write everyday, or holding yourself to some arbitrary word count. You are not Stephen King or JK Rowling, and you still have a day job or daytime responsibilities that aren't writing, be it child care, elder care, or any other sort of obligation that might prevent you from writing full time. You have responsibilities, and writing is currently a hobby you want to take further. You know your health, you know your levels of ability. If you &lt;em&gt;need&lt;/em&gt; to tell yourself to write every day, or hit some word count, that is up to you. But it is not &lt;em&gt;necessary&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Set reasonable goals. When you first start, you will probably get a rush of words out, and feel that you can keep that pace going. Maybe you can, but do not get down on yourself if you can't. Do what is sustainable. Take the number of words or the time you spent at the get go and cut that in half. Try to make an effort to write when you are feeling good. Keep a notepad handy, or an app on your phone that you can sync, and jot down ideas as you have them. If you can't write words, let yourself count those notes as progress. Because they are progress. Eventually, as you hire an editor or enlist beta readers, you will need to set a deadline. Take a look at your calendar, see when you will have big obligations at work, or with your family, and try to be realistic about how much you will honestly get done during those weeks or months. The more you write, the better you will get at recognizing your pace and figuring out when you might be more productive than not.&lt;/p&gt;
+
+&lt;p&gt;There is a common phrase around writing a novel, and it is "pants v plan." There are some people who sit down and start writing from the first chapter and keep going until they hit 'the end.' This is called 'pantsing.' You write by the seat of your pants, your plot twists and characters and arcs made up on the fly. This approach usually involves a ton of editing afterward, as changes you made along the way don't align with how you started it. The 'planning' approach usually invovles character profiles, a timeline, an outline, a page or two on major themes. It might involve going on google image search and trying to find photos of people who might look like what your characters look like. These character profiles can include detailed backstories, a list of their wants, their birthday, their eye color, their sun sign - any details that is pertinent or relevant to the story (and even some that are not) can be gathered in these documents. There might be setting write ups, descriptions about what a city looks like and what defines it and the people that live there. There might even be hand drawn maps. Time lines can have dates or a length of time to describe the chronology of several different characters. This detailed planning can take a lot of time and effort. People whotake this approach often do not have a lot of developmental editing to do afterward, but a huge chunk of time is spent before actually writing a single word.&lt;/p&gt;
+
+&lt;p&gt;I fall somewhere in the middle. I have a general outline, a few sentences on each character, and a rough write up of the major settings. But I tweak and change these on the fly and often end up with an ending that is different than what I thought I would have. Some authors have stories they pants and others they planned. You do not have to pick an approach and use that approach 100% correctly 100% of the time. You can do as much planning or pantsing as you think you need. It's ok to have the story change as you write it, it's ok to re-write major parts of your novel later on.&lt;/p&gt;
+
+&lt;p&gt;There are some great software programs out there to help both pantser and planners and those in-between. For years the go-to was &lt;a href="https://www.literatureandlatte.com/scrivener/overview"&gt;Scrivener&lt;/a&gt;. It has mobile apps now for Apple products, but not for Windows or Android yet. &lt;a href="http://storyist.com/"&gt;Storyist&lt;/a&gt; also as robust multi-device capabilities. Both of these have amazing tools to help you keep track of what you are doing. There are built in folders for character profiles and location write ups, and an amazing feature that lets you see your chapters at a glance. I highly recommend watching the tutorials for how to use these tools, as there are a ton of small features that can really let you focus on writing. Scrivener has a 30 day free trial - which is counted chronologically. If you use it for an hour, it counts it as an hour and you have 719 hours left in your trial. The next day, you use it for an hour, and now you have 718 hours left in your trial.&lt;/p&gt;
+
+&lt;p&gt;You do not have to use a robust tool like Scrivener or Storyist, though. You can use Microsoft Word, Open Office Word, Google Docs, or Evernote. You can use Notepad or another text editor like Sublime or Atom. You can organize a folder on your desktop with a file for each chapter, and a file for each character profile. You can do the same in a Google Drive folder. I wrote "The Resignation Letter" and "A Lake of Feathers and Moonbeams" in Google Drive. Each draft had its own file. I am writing my next novel in Scrivener. I've used Scrivener for past NaNoWriMo's. I used an open source story editor, whose name I cannot recall right now, back in college for my senior thesis (ask me about international law, belligerent occupation, Hawai'i, and the difference between the Hawai'ian Indigenous Movement and the Hawaiian Sovereignty Movement, I promise not to bore you). It does not matter how you write. It might be worthwhile to try out several different tools or methods. Find one that you like, that you feel productive in, that you feel allows you to focus on the story, and use it.&lt;/p&gt;
+
+&lt;p&gt;Some tools you definitely want to have on hand are a thesaurus, a dictionary, and a style guide. You can use online ones or physical ones. I find the thesaurus to be invaluable. Ever since I got a concussion in 2016, I have had aphasia. The thesaurus lets me find the words that used to come so easily. I have a dozen different style guides from my time as a creative writing major, and some really amazing writing books ("&lt;a href="http://amzn.to/2Bjp1Ov"&gt;The Book of Other People&lt;/a&gt;" is one of my favorites). I have a ton of books on poetry ("&lt;a href="http://amzn.to/2zy4sR9"&gt;Structure and Surprise&lt;/a&gt;" is one of my favorites), and a few on writing non-fiction, too. You do not have to own a dozen books on writing to be a good writer, but it certainly helps. Many libraries have these books, and some of them even have them as digital ebooks you can borrow. In truth, any book you read is going to help you be a better writer. If you are writing sci-fi, read other sci-fi books. Read the good ones and highlight phrases you liked and write down plot twists you enjoyed. Read the bad ones and highlight what you think makes it so bad. Look at the Goodreads nominations in the genre or type of writing you are doing and try to read three or four of them. These are books your library most certainly has! Try to read diversely. Yes, Stephen King is amazingly successful at horror, but he has a style that is constant through all his books. Try to find some smaller names in horror, from all over the world, with a whole slew of different experiences and writing styles.&lt;/p&gt;
+
+&lt;p&gt;Another resource, and I am not at all sorry for sending you down a rabbit hole, is &lt;a href="http://tvtropes.org"&gt;TVTropes&lt;/a&gt;. This is a huge wiki of commonly used tropes. You're going to use tropes. Tropes are short cuts. But you want to know how other people are using them or inverting them. Find a book that you like and find it's entry on TVTropes. Read about how it is or isn't playing into tropes. Some tropes are done to death, some have been inverted to hell and back. If your story contains one, look at the other media that uses it and figure out how &lt;em&gt;that&lt;/em&gt; particular instance of trope was made unique. Some tropes are incredibly harmful. The "Bury Your Gays" trope, for instance, has been widely critiqued and criticized. If you don't know what it is, it is a trope wherein no gay or lesbian couple survives the book / tv show / movie in tact, as one of them will die tragically. You might want to re-examine if your story can be done without falling into this trope. You do not want to end up on a list of "500 stories where the lesbian dies and the one single story where she doesn't." Most tropes, in and of themselves, are not &lt;em&gt;bad writing&lt;/em&gt;. It is how you use them that can be critiqued. I dare you to find a IP on TvTropes that doesn't have at least 100 entries of tropes it uses. I'd say "I'll wait," but I have plans for what I want to do between now and the heat death of the universe.&lt;/p&gt;
+
+&lt;p&gt;There are tons of other writing resources out there, and I encourage you to read as many of them as you can. Next time, I will dig into editing, beta reading, and sensitivity reading and how and when you should and how to find people to do them.&lt;/p&gt;
+
+&lt;p&gt;Want this series, and other exclusive content, delivered right to your mailbox? I have a newsletter now:&lt;/p&gt;
+&lt;form action="https://buttondown.email/api/emails/embed-subscribe/dax" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/dax', 'popupwindow')" class="embeddable-buttondown-form"&gt;
+  &lt;label for="bd-email"&gt;Enter your email&lt;/label&gt;
+  &lt;input type="email" name="email" id="bd-email" /&gt;
+  &lt;input type="hidden" value="1" name="embed" /&gt;
+  &lt;input type="submit" value="Subscribe" /&gt;
+  &lt;p&gt;
+    &lt;a href="https://buttondown.email" target="_blank"&gt;Powered by Buttondown.&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/form&gt;
+
+</content>
+  </entry>
   <entry>
     <title>Reflections on a first novel</title>
     <link rel="alternate" href="http://daxmurray.com/blog/reflections-on-a-first-novel/"/>
@@ -226,26 +288,6 @@ Stay away from aromatic woods - such as pine. A lot of people like to use coconu
 
 &lt;p&gt;And finally, at the end, when they are confront one of the villains, Ersel comments that she used to think this particular villain was handsome, but now she can see his pockmarked face and "maybe the cruelty inside him was beginning to show on the outside." I really hate this line. Can we not equate beauty with goodness? This seems to undo all the work that was done for the previous 90% of the novel in showing that Ersel's kraken form was not a reflection of what was inside.&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>Review: Survival Route</title>
-    <link rel="alternate" href="http://daxmurray.com/blog/Review-Survival-Rout-By-Ana-Mardoll/"/>
-    <id>http://daxmurray.com/blog/Review-Survival-Rout-By-Ana-Mardoll/</id>
-    <published>2017-04-19T20:00:00-04:00</published>
-    <updated>2017-05-14T17:16:02-04:00</updated>
-    <author>
-      <name>Dax Murray</name>
-    </author>
-    <content type="html">&lt;p&gt;Survival Rout is a story with a diverse cast of characters, who must find a way to work together to escape their faery captors. The point of view switches between Aniyah and Keoki. Aniyah is captured and placed with a group of other young people, mostly people their captors assume to be women. Keoki is placed with a group of young people their captors assume to be men. Aniyah and her new friends are "Prizes" for when Keoki and his new friends win in fights. The boys fight magical monsters, and their captor makes money off of betting on these matches. The girls are sent to the boys when they win, to do with as they please.&lt;/p&gt;
-
-&lt;p&gt;All of these captive humans have magical amnesia, and cannot remember anything about their life prior to the capture. The author uses this to explore sexual relationships outside of society. Some of the boys are incredibly kind and considerate, asking permission and getting consent, or what can count as near-consent, as the boys happiness the next morning determines if the girl lives or dies. At least one of the boys is not so nice. There was a lot here to unpack, and I feel that Mx Mardoll did a good job of keeping the story moving, and also taking the time to confront that the capacity for violence is not always societies doing.&lt;/p&gt;
-
-&lt;p&gt;Mx. Mardoll also does a stunning job in exploring being trans, and being queer. Many of the characters in this novel might have had their memory wiped, but they still carry with them the sense that they are trans or queer in some capacity, even without the words to describe these feelings they have about their own identity.&lt;/p&gt;
-
-&lt;p&gt;Another thing that I really appreciated was how the book dealt with disabilities. There are two characters with visible disabilities, both of them needing assistance with mobility at times. I don't want to spoil anything, but each character deals with their disability in different ways, while both being supportive of the others choice in how to deal with that. I appreciated that a lot.&lt;/p&gt;
-
-&lt;p&gt;Overall, this is a really fun novel, and I appreciated that it detoured from the fun magical kissing and romance to sometimes deal with the nuances and complications of human relationships, and that the times when a character clearly goes beyond a moral event horizon, the characters respond to this act in messy, human ways,while it still being clear to the reader that no matter how the characters respond, the BAD THING a character did was very not okay. You might have noticed that this is book two. You don't need to have read the previous book to enjoy Survival Rout, the events of this book happen after "Poison Kiss" but it stands on its own.&lt;/p&gt;
 </content>
   </entry>
 </feed>

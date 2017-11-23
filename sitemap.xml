@@ -247,6 +247,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/blog/so-you-want-to-self-publish/</loc>
+    <lastmod>2017-11-23T13:04:26-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/blog/review-the-seafarers-kiss/</loc>
     <lastmod>2017-05-13T13:14:47-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -746,6 +752,12 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/2017/11/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2017/11/23/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
