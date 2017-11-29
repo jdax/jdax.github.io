@@ -127,7 +127,6 @@ header {
   .article--title a, h1 {
     font-family: 'PT Serif', serif;
     color: $gray-base;
-
   }
 
   .article--date {
@@ -138,6 +137,12 @@ header {
   .article--text {
     font-size: 1.75em;
     padding: 1%;
+    p {
+      a {
+        text-decoration: underline;
+        color: $gray-darker;
+      }
+    }
   }
 
   /* side bar */
@@ -329,6 +334,12 @@ header {
   .article--text {
     font-size: 1.75em;
     padding: 1%;
+    p {
+      a {
+        text-decoration: underline;
+        color: $gray-darker;
+      }
+    }
   }
 
   /* side bar */
