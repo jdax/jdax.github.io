@@ -114,17 +114,17 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'PT Serif', serif;
     color: #6C256F; }
 
-  /* line 133, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  /* line 132, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
   .article--date {
     color: #360037;
     font-size: 1.5em; }
 
-  /* line 138, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  /* line 137, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
   .article--text {
     font-size: 1.75em;
     padding: 1%; }
     /* line 141, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .article--text a {
+    .article--text p a {
       text-decoration: underline;
       color: #360037; }
 
@@ -304,24 +304,24 @@ h1, h2, h3, h4, h5, h6 {
   .article--text {
     font-size: 1.75em;
     padding: 1%; }
-    /* line 337, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .article--text a {
+    /* line 338, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+    .article--text p a {
       text-decoration: underline;
       color: #360037; }
 
   /* side bar */
-  /* line 346, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  /* line 347, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
   .right-nav {
     display: none; }
 
-  /* line 356, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  /* line 357, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
   .recent-posts {
     display: none; }
 
-  /* line 360, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  /* line 361, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
   .by-year {
     display: none; }
 
-  /* line 364, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  /* line 365, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
   .tags {
     display: none; } }

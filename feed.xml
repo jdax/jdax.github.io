@@ -5,10 +5,104 @@
   <id>http://daxmurray.com/blog</id>
   <link href="http://daxmurray.com/blog"/>
   <link href="http://daxmurray.com/feed.xml" rel="self"/>
-  <updated>2017-11-22T19:00:00-05:00</updated>
+  <updated>2017-11-28T19:00:00-05:00</updated>
   <author>
     <name>Dax Murray</name>
   </author>
+  <entry>
+    <title>So you want to self publish on Kindle: Part Two - Editing</title>
+    <link rel="alternate" href="http://daxmurray.com/blog/self-publishing-part-two-editing/"/>
+    <id>http://daxmurray.com/blog/self-publishing-part-two-editing/</id>
+    <published>2017-11-28T19:00:00-05:00</published>
+    <updated>2017-11-29T17:21:17-05:00</updated>
+    <author>
+      <name>Dax Murray</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;This is the second part of a multi-part series on self publishing. This series will cover: writing, editing, beta reading, sensitivity reading, setting up a pre-order, using Kindle Direct Publishing, Kindle Select, NetGalley and other means of getting reviews, and marketing. &lt;a href="http://daxmurray.com/blog/so-you-want-to-self-publish/"&gt;Read part one&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A few people have asked me several questions on self publishing on Kindle. I've talked to people who want to publish small technical books that, for one reason or another, O'Reilly doesn't want to publish. I've talked to fiction writers who want to publish a novel. I've talked to a lot of people who have thought "I wish I could…" And I want to tell you that you can.&lt;/p&gt;
+
+&lt;p&gt;There's a lot of steps, and they do not always have a 'correct' order. But they are achievable and you can determine what order you want them to happen in for a lot of them. There are some cart before the horse problems, but largely, writing is the first step, and hitting publish is the last. Everything between there is a malaise of interlooping and overlapping steps to make the writing publishable.&lt;/p&gt;
+
+&lt;p&gt;I made a small power point last April to share at a technical conference with other Rails devs who have small or niche book ideas. I am going to heavily self plagiarize from that for this post. So if some of my cat photos look familiar to you, that's why.&lt;/p&gt;
+
+&lt;p&gt;I've been writing stories since I was five. My first one went something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;There once was a cat. The cat loved to eat. The cat loved to nap. The cat loved her human. Her human went to school sometimes. That made the cat sad. But the human always came home. The end.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am sure my mother still has the bare book complete with hand drawn illustrations somewhere. I actually minored in creative writing in college, and while most of my classes focused on poetry, the itch for stories never left. I was just as confused and scared by the self-publishing maze as anyone else. I won't lie and say it is easy, but it is definitely easier than you think it is.&lt;/p&gt;
+
+&lt;h3 id="editing-beta-readers-sensitivity-reading"&gt;Editing, Beta Readers, Sensitivity Reading&lt;/h3&gt;
+
+&lt;p&gt;You have written the last word. You've done it, you've written a book. First, take a second to congratulate yourself. Celebrate with a cookie, or chocolate, or cake, or a milkshake, or fries and a hamburger - anyway you celebrate big achievements, do that now! Scream or jump or pump your fists. You have reached a goal and you should be proud of that. Regardless of how you approach the rest of this process, know that you should be proud.&lt;/p&gt;
+
+&lt;p&gt;I would recommend, before we get into the various types of editing and reading, that you take at least a week off from working on your manuscript. Set it down and do not touch it for as long as you can. Some people take a week, some people take a month. Find something else that recharges and energizes you. For me, that was a month away to play &lt;em&gt;Final Fantasy XIV: Stormblood&lt;/em&gt;. Wow, was it worth it. I actually took a week off of work, too, to play at the launch of the expansion. Having this time away from my manuscript and work allowed me to come back to the manuscript with fresh eyes, while also allowing me to liberate Doma and Ala Mhigo from the clutches of the Garlean Empire and make tons of amazing friends along the way.&lt;/p&gt;
+
+&lt;p&gt;I began doing my own set of edits. I would definitely say you should do at least on round of self editing before you hand it off to anyone else. I found typos, inconsistencies, bad grammar, bad punctuation, and a ton more. When I finished my manuscript in June I had 52,000 words. I did not want this story to be more than 45,000 words. After coming back from my time away, I was able to easily find places where repetition was hampering the pace. I was able to cut the story down to 45,000. Long rambling passages that did not serve the plot were cut. The first 2,000 words of the story were actually cut. The original words I had written back in January were gone. Go into this first round with a very critical eye. Do not be afraid to slash out entire paragraphs.&lt;/p&gt;
+
+&lt;p&gt;Alright, now what? Now comes the process of making your work even better. There's a lot of steps between now and hitting publish, and many of them can be done simultaneously or in many different orders. It is up to you how you want to order the next few steps - there is no universal order you must follow. Whatever you think will work best for you and your work flow is what you should follow.&lt;/p&gt;
+
+&lt;h2 id="sensitivity-readers"&gt;Sensitivity Readers&lt;/h2&gt;
+
+&lt;p&gt;Sensitivity readers are people who are aware of what tropes, stereotypes, and pitfalls characters might fall into from a certain background. If you are not queer, and one of your characters is queer, you might want to find someone who is queer to point out where you might accidentally be writing into a bad stereotype. The example I gave in the first part of this series, "Bury You Gays," would be an example. This is usually a paid service. &lt;a href="http://writeinthemargins.org/sensitivity-readers/"&gt;Writing in the Margins&lt;/a&gt; has a large database of people who are willing to do sensitivity readings and for what groups they can read for. It would be a good to find these people when you finish your manuscript so you can book them for the time that will work best for both of you. Rates for these services can vary from a system of cost per word or cost per hour.&lt;/p&gt;
+
+&lt;p&gt;You might not have the money up front to pay these services. Some of them will do skill exchanges (I will, for example). You ask them to read for you and in exchange you can do some art for them, or provide some code for their website, or be a sensitivity reader for them later on. Some of them might offer payment plans. But I absolutely need to stress that this is work. They will point out harmful tropes and write an edit letter explaining what they liked and didn't like. When I do sensitivity reading, I use comments to point out passages or phrases that don't quite work. Some others might compile a document with those quotes, page numbers, and why the didn't work.&lt;/p&gt;
+
+&lt;p&gt;Having a sensitivity reader is not a 100% guarantee that your work will be free of harmful tropes. No two queer people have the exact same experiences, what one reader might view as fine, another can point out ways in which it is harmful. For example, there are queer people who did not end up homeless after coming out, and there are many who did. If you ask someone who had a loving and supportive family to do a read for a novel where the queer character ends up homeless, you might not be getting the best gauge on if you are using harmful tropes. When you ask a reader, include a little bit of detail or background so they can get a better sense on if they would be best. Sometimes they might even provide you a recommendation for someone who would be better suited. Most sensitivity readers will ask that you not use their name as a shield if someone finds your work hurtful. In this event, apologize and strive to do better in the future. You might ask, on your end, that the sensitivity reader not talk about the details of your book until it comes out.&lt;/p&gt;
+
+&lt;p&gt;Some people will have sensitivity readers early on in the process, after the first self-edit. This way if things need to be structurally changed to avoid a harmful trope, those changes can be made before anyone else sees the work. It can be difficult to have to change tracks after you've had everyone else give input. Some people want to do this last, as they want the story to be in as final a state as it can be so they are only making small tweaks. Some people do it somewhere in between. Do whatever you feel is best for your work.&lt;/p&gt;
+
+&lt;h2 id="beta-readers"&gt;Beta Readers&lt;/h2&gt;
+
+&lt;p&gt;Beta readers are people commenting on the overall arch of your work. They give feedback like "this part confused me" or "I don't know if I quite got what was going on here" or "this pulled me out of the story." They are not editors and their comments will probably be more sparse. These are usually people you know personally but trust to not sugarcoat. Friends, family, and people in your writing group are usually beta readers.They give you a glimpse into how a reader might respond to your story. If you have written a tear-jerking scene and they get to it and are laughing, you know there is a disconnect between what you intended and what readers read.&lt;/p&gt;
+
+&lt;p&gt;You will want to try to explain to them the parts that they misunderstood. Don't. Do not try to explain to them what they didn't get. You won't be able to do that for a regular reader. Instead, tweak what you have written. Take a good look and try to figure out what got lost between your head and the keyboard. Ask them questions - "why did you find this funny?" - and take that feedback with you.&lt;/p&gt;
+
+&lt;p&gt;Beta Readers can sometimes fill in the shoes of sensitivity readers. If one of your beta readers shares a marginalization with one of your characters, they can point out harmful bits, but do not expect them to provide the kind of thoroughness of a proper sensitivity reader. If you do beta reading before sensitivity reading, you might be able to make quick fixes to be on the right track when you send it to a sensitivity reader. Likewise, if you do a sensitivity read first, a beta reader might be able to affirm that you did the work to get your characters out of bad tropes.&lt;/p&gt;
+
+&lt;p&gt;You should compensate your beta readers in some capacity. Friends and family might be willing to do it for free, but offer them a small gift card or offer to take them out to dinner. There are professional beta readers - people who you do not know who list their services on freelancing sites. It might be useful to employ at least one of these people to get parallax between what friends and family are saying. Useful, but not necessary.&lt;/p&gt;
+
+&lt;h2 id="editing"&gt;Editing&lt;/h2&gt;
+
+&lt;p&gt;The elephant in the room. The large, and sometimes expensive, elephant. Resist the urge to say "I do not think I need one, I was an English major/minor." Resist the urge to say "the edits I did myself are good enough." Both are false. You absolutely need an editor. There are mistakes that you will not be able to see because you wrote it. Mistakes that your brain slides over because it knows what you meant and will substitute in your intent.&lt;/p&gt;
+
+&lt;p&gt;What does an editor do? It depends. There are several different kinds of editors. I highly recommend reading &lt;a href="http://www.clearingblocksediting.com/what-type-of-editing-do-you-need/"&gt;this article on the kinds of editing&lt;/a&gt; by &lt;a href="https://twitter.com/clearing_blocks"&gt;Jen Anderson&lt;/a&gt; of &lt;a href="http://www.clearingblocksediting.com/"&gt;Clearing Blocks Editing&lt;/a&gt;. The long and the short is that there are copy edits, line edits (sometimes called developmental editing), and proof reading. Some editors will offer all three for one price, others excel at one or two and can refer out for the others. As someone who is self-publishing, I get that this looks expensive. Figure out which of those you are pretty good at yourself, and hire someone to do at least one of the others. If you have the cash, hire someone to do all three.&lt;/p&gt;
+
+&lt;p&gt;You will want to start booking this in advance. Many editors book up months in advance. I reached out to Jen in the early spring for a slot in August. Like beta reading and sensitivity reading, it is ok to book this before you have your manuscript done, so long as you know you will finish it in time. Any good editor will before a sample edit for you for free. You want to take a few pages of your roughest work and send it to them. Fight the urge to send them your best pages, you want them to get an honest look at your work and be able to gauge accurately how long it will take them. You also want to see what the best they can do is. Take that sample edit and check the comments and changes against what you are intending. If you do not think the editor will help you keep your voice and your vision, do not book them. I felt that Jen Anderson understood what I was trying to achieve, and she had a shared goal of making sure my work and writing were the best they could be for that vision.&lt;/p&gt;
+
+&lt;p&gt;It could take anywhere from a week to two months for an editor to go through the whole manuscript. It all depends on how long your work is, if the editor has a day job, and how much improvement your manuscript needs. The editor should be able to give you an estimate of how long it will take and how much it will cost after completing the sample edit and you disclosing what you think the word count will be when you turn it in to them.&lt;/p&gt;
+
+&lt;p&gt;The cost can be anywhere from $75 to over $1000. This depends on how good your manuscript is when you hand it over, how long it is, and how long it will take the editor to complete it. Many editors will ask for a deposit when you first book, and the rest of the fee will be invoiced after the edited manuscript is sent back to you. This is probably not a place that you can bargain or skill trade. Some editors, however, will do discounts if you are a marginalized writer. Many editors will also offer discounted prices for repeat clients.&lt;/p&gt;
+
+&lt;p&gt;I understand that you might not have a huge amount of money pour into this upfront. But bad reviews are even more costly. Amazon reviewers, generally speaking, will only tolerate a few typos before leaving a one star review. No matter how stellar your later works are, readers will find those old reviews from the days you hastily posted an un-edited manuscript online. Not having your first work professionally edited can sabotage your sales for years.&lt;/p&gt;
+
+&lt;p&gt;People might want to do this edit first, before they send it to readers so that the readers will be able to focus just on the experience, rather than being pulled out of the story by a typo or a clumsy sentence. Some people might want to do it last so that there are no big changes that might introduce new paragraphs or changes in plot after being pointed out by readers. Know your strengths and weakness and figure out the order that works best for them.&lt;/p&gt;
+
+&lt;p&gt;Getting all of these moving parts to line up can be a challenge. I've been a beta reader where the author sends the same google doc link to ten beta readers, and asks that we all leave comments. This author gave the option of leaving comments anonymously or under our google account. This meant that the author did not have to deal with ten different sets of comments in separate documents. Something like this might work well for you for beta readers or sensitivity readers. For working with editors, if you are working with more than one, to not do them synchronously. Send it to one editor, make changes, send to the next. Find some sort of versioning system so you can keep track of which file is which.&lt;/p&gt;
+
+&lt;p&gt;Once you have all the comments from all the different readers back, and you have integrated their suggestions, it's time to start compiling a finished draft for publication. I will discuss how to set up on KDP (Kindle Direct Publishing), including formatting, ISBN questions, and questions about cover art in the next instalment!&lt;/p&gt;
+
+&lt;p&gt;Ping me on &lt;a href="https://www.twitter.com/DaxAeterna"&gt;Twitter&lt;/a&gt; if you have questions about any of the steps outlined here.&lt;/p&gt;
+
+&lt;p&gt;Want the next issue in your inbox? Sign up for my newsletter!&lt;/p&gt;
+&lt;form action="https://buttondown.email/api/emails/embed-subscribe/dax" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/dax', 'popupwindow')" class="embeddable-buttondown-form"&gt;
+  &lt;label for="bd-email"&gt;Enter your email&lt;/label&gt;
+  &lt;input type="email" name="email" id="bd-email" /&gt;
+  &lt;input type="hidden" value="1" name="embed" /&gt;
+  &lt;input type="submit" value="Subscribe" /&gt;
+  &lt;p&gt;
+    &lt;a href="https://buttondown.email" target="_blank"&gt;Powered by Buttondown.&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/form&gt;
+
+</content>
+  </entry>
   <entry>
     <title>So you want to self publish on Kindle</title>
     <link rel="alternate" href="http://daxmurray.com/blog/so-you-want-to-self-publish/"/>
@@ -231,63 +325,6 @@ Stay away from aromatic woods - such as pine. A lot of people like to use coconu
 &lt;/blockquote&gt;
 
 &lt;p&gt;If you want to request an Advanced Reader Copy, please let me know by reaching out to me on &lt;a href="https://www.twitter.com/daxaeterna"&gt;twitter&lt;/a&gt;. I am hoping to have some ARC's out in September.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Review: The Seafarer's Kiss by Julia Ember</title>
-    <link rel="alternate" href="http://daxmurray.com/blog/review-the-seafarers-kiss/"/>
-    <id>http://daxmurray.com/blog/review-the-seafarers-kiss/</id>
-    <published>2017-05-12T20:00:00-04:00</published>
-    <updated>2017-05-13T13:14:47-04:00</updated>
-    <author>
-      <name>Dax Murray</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;em&gt;content note: discussion of rape, trans misogyny, violence against trans people&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;I was incredibly excited when I heard about "The Seafarer's Kiss" by Julia Embers - it seemed like everything I love. It was a fairy tale retelling. It was told from the point of view of the traditional villain in that tale, and it was going to be queer and it was going to have a character that uses they/them pronouns. In case you missed it, I am queer and non-binary, and my pronouns are fey/fem/feir/feirs/femself, just like they/them/their but with an 'f' - so I was so ready for a book with someone who seemed like me, multiple someones, perhaps!&lt;/p&gt;
-
-&lt;p&gt;I was excited because the author is bi, like me. The author is poly, like me. And from reviews of the authors other work, "Unicorn Tracks", it seemed as hough the author really cared about getting representation &lt;em&gt;right&lt;/em&gt;. I was very sorely disappointed and hurt by this book.&lt;/p&gt;
-
-&lt;p&gt;It started out very, very good. We meet Ersel, a mermaid who lives in an ice glacier somewhere near Norway, and who is very upset by the upcoming Grading. In the world Ersel lives in, mermaids are judged based on how fertile they are. At 19 years old they take part in a ritual to determine their fertility, and are then coerced into choose a mate. Once mated, many of these young women are confined to the darkness and spend the rest of their lives laying eggs. It's pretty patriarchal, and the reader immediately identifies with Ersels desire for a different future. Ersel, like many YA lady protagonists, declares herself not like the other girls a ton during this exposition on her plight. Many other mermaids of Ersel's age are shown taking care of themselves in an effort to increase their fertility, including Vigdis, who is sometimes cruel to Ersel.&lt;/p&gt;
-
-&lt;p&gt;One of Ersel's "not like the other girls" characteristics is that she explores shipwrecks, and steals treasures from them and hides them in her cave in their ice home. Her best friend, Havamal, used to go with her, but since he joined the King's Guard, he has been busy. He also believes he is now grown up, and doesn't need the childhood fantasy they used to share of running away. He chides Ersel for her continued desire to escape their patriarchal king and her ongoing searches of the water tombs of humans.&lt;/p&gt;
-
-&lt;p&gt;When the grading happens, it turns out Ersel is incredibly fertile, probably the most fertile mermaid their clan has seen. They need to reproduce, as their clan is dying out. It also turns out that she was born in the season of Loki, something she hadn't really considered or known before. In a cruel twist of irony, Vigdis is not fertile, despite all her attempts. Vigdis is crushed, forelorn, and despondent by this news.&lt;/p&gt;
-
-&lt;p&gt;Everything changes when Ersel happens upon a stranded sheild maiden, Ragna, trapped on the ice. Ersel decides to help this human, and brings her food, wood of sunken ships, and helps keep her warm so that Ragna can fix the lifeboat she escaped the sinking ship on and sail back home. Ragna was stolen from her villaige as a gift for someone else, and she intends to find this someone else and extract revenge. Ersel identifies with Ragna's desire for freedom, and the two share a very cute moment. The cuteness doesn't last as Ersel is caught by Havamal, who threatens to report her to the king. He is a huge asshole, telling her he will spare Ragna's life if Ersel agrees to be his mate.&lt;/p&gt;
-
-&lt;p&gt;Feeling trapped and hopeless, she is confronted by Loki. Loki offers her a wish if she obtains a mermaids voice for them. Ember's version of Loki is genderfluid, or non-binary, and uses they them pronouns. Anyone familiar with Norse mythology would know that Loki is the trickster god. Ember stays true to this, and Loki is not to be trusted. Ersel makes a deal anyways. Ersel finds Vigdis, and tells her that if she gives up her voice, she can have the fertility she wants. Vigdis agrees, and asks for a mate, too. Ersel takes the voice back to Loki, and asks for legs.&lt;/p&gt;
-
-&lt;p&gt;Loki grants her legs, but they are not the legs of a human that Ersel had imagined, but instead the legs of an octopus. And Vigdis? A mate in the form of a monster comes for her, and she does indeed become pregnant, and later dies from the pregnancy. Ersel is expelled from her clan, and forced to live elsewhere, making her own way and getting her own fod.&lt;/p&gt;
-
-&lt;p&gt;When Loki visits her again, she strikes another deal, this time trying to outsmart the trickster god. At this point, I was incredibly upset. The only character who seemed to not be a binary cis person was Loki. Loki had been cruel, deceiptful, and their actions had resulted in what I would consider to be rape. The monster that had come for Vigdis had originally come in the form of a handsome merman, and she consented to that intercourse. But then the creature had changed, and she was distraught to find herself deceived. The resulting pregnancy was not a normal occurance for merfolk, the pregnancy was like that of a mammal, and her body was not equipped for it. She and the fetus she carried died during delivery.&lt;/p&gt;
-
-&lt;p&gt;Loki laughed at this, and Loki laughed at this while using Vigdis's voice. Loki's own voice had been sealed by Thor, and they needed to steal other voices to be able to communicate. I was very sickened by what Loki was doing, and I believe that was the point. The readers are supposed to be upset, Loki is a villain, and villains need to be evil. What Loki did was beyond a moral event horizon for most people on this Earth. This would have been good story telling, this would have been good villain writing if Loki wasn't a trans non-binary person. If Loki wasn't the only trans person, the only non-binary person, in the novel.&lt;/p&gt;
-
-&lt;p&gt;Ersel goes on to make another deal with Loki, and we learn that the creature that they had set upon Vigdis had once been a human, and Loki had transformed them into a monster and took away their free will. There is a hard to read conversation where this creature explains that during this time, he becomes a passive observer of what Loki is using their body for, but sometimes he enjoys it. This is a pretty nuanced character, where we see how badly he has been abused, and how some part of him is in conflict over how he feels when this happens. His body had been used by Loki to rape Vigdis, and he was conflicted about if the monstrosity was inside him all along, or if that was something that Loki had put inside of him. I both hated and pitied him, and Ersel granted him freedom in death. I was pretty impressed with how well that scene was handled, and I had hopes that my discomfort with how Loki was being handled would end up being righted, and Ember would grant nuance to Loki.&lt;/p&gt;
-
-&lt;p&gt;I was wrong. Loki tries very hard for much the rest of the novel to out-trick Ersel, going so far as to say they invented lying, they invented deception. At about 80%, Ersel finishes her last bargain with Loki, having done some pretty amoral things to get there. With the help of her mother, she is able to get her mermaid form back, and she is able to transform herself into a human, or take on her octopus-like form, too. Loki gives her the information she needs to take down the patriarchal tyrant and then departs. We don't see them again. The remaining 20% of the book is a pretty great plot to overthrow the patriarchy, which I am always down for, but I couldn't enjoy it. I was too hurt by how Loki had been handled.&lt;/p&gt;
-
-&lt;p&gt;I know the author is bi, and I want to believe her intentions were good, that she was trying to add diversity to her book. I don't know if she had sensetivity readers for Loki, and if she did, I don't know what they said. They might have liked the portrayal for all I know. But I was hurt. Trans people are currently cast in our society as liars, deceivers, con artist who lie about their gender in order to trick people. We are cast as villains trying to trick our way into spaces that aren't ours, like bathrooms. "Trans panic", in which a cis person, usually a man, finds out that the woman he is dating is trans and murders her, is a defense that has been held up in a court of law. You can claim "trans panic" and not get sentenced to prison for murder. And this defense works because it relies on the falsity that trans people are tricksters, liars, masters of deception and that this deception is so heinous that a citizen can act as judge, jury and executioner.&lt;/p&gt;
-
-&lt;p&gt;This book has one trans character, and that character is literally the inventor of lying. The god of deception. The master of deceit. Can you see how this is harmful? Can you see how this perpetuates false, negetive stereoptypes about trans people? How this reinforces the narrative that society has crafted about us?&lt;/p&gt;
-
-&lt;p&gt;Furthermore, Loki is genderqueer, non binary, genderfluid. We are further marginalized for this refusal to be inside the gender binary. We are doing it for attention, we are making it up, we are not "right" - we get mocked with phrases like "I identify as an attack helicopter," we can't even change our gender markers in most places. To have the only non-binary character in your book be a liar is not helping to dispell any of these sentiments about us.&lt;/p&gt;
-
-&lt;p&gt;There is so little representation of genderqueer, non-binary people in books, especially in YA. I was trying to think of positive examples of this done right after someone on twitter asked me for recommendations. I've been throught this before, I am bi, and I spent so much time trying to track down books with a bi protagonist. Or any bi people at all. I had so few examples when I was growing up. I am so glad to see there is now a great selection of YA books with bi protagonists. But options for enby's are few and far between.&lt;/p&gt;
-
-&lt;p&gt;With so little representation, I think it was incredibly harmful. I believe a second enby character in this book, one who was positive and good and whom the reader knew had a moral compass, would have gone a long way towards allowing Loki to be complicated, messy, villainous, without unintentionally tying their evilness to their genderqueerness. Maybe in the future every book will have enbies in them, and we can have full on evil enbies because being enby is just accepted and of course enbies aren't a monolith. But without the good enbies saving the world in YA to counterbalance the bad enbies wrecking shit in YA, I can't find a way to see anything in Loki but a harmful propagation of stereotypes.&lt;/p&gt;
-
-&lt;p&gt;And I want to be perfectly clear, I am not hurt by Loki being the villain. I am hurt by the way that villainy is portrayed. If Loki was &lt;em&gt;not&lt;/em&gt; a god of lies and deception and trickery, I think this would have been a very different review. I am hurt by the fact that we have scarcely any positive representation at all and that this was sold as positive representation.&lt;/p&gt;
-
-&lt;p&gt;Finally, this book had some great cis bi, lesbian, queer woman rep. It was really cute, and really fun. But no amount of really good, really positive cis queer rep can make a really bad portrayal of a trans enby justified.&lt;/p&gt;
-
-&lt;p&gt;A few other things I wanted to point out that irked me a bit about this, and makes me leery to rec it to others. First, the main couple phsyically assault each other, and it felt really unnecessary. It felt out of place. The dialogue was conveying the conflict in view points between the two, there was no reason that I could see for their conflict to escalate to physical violence. The fact that neither apologizes for hitting the other, and that a very short amount of time later, they were back to being incredibly cute, felt like the violence was normative and ok. It wasn't.&lt;/p&gt;
-
-&lt;p&gt;Second, I mentioned the not like other girls thread earlier. It does end up resolving with "all the other girls felt just as trapped as you did," but it definitely could have been more explored as to how Ersel felt when realizing that. The start of the book was so heavy on this, and it felt like an afterthought at the end.&lt;/p&gt;
-
-&lt;p&gt;And finally, at the end, when they are confront one of the villains, Ersel comments that she used to think this particular villain was handsome, but now she can see his pockmarked face and "maybe the cruelty inside him was beginning to show on the outside." I really hate this line. Can we not equate beauty with goodness? This seems to undo all the work that was done for the previous 90% of the novel in showing that Ersel's kraken form was not a reflection of what was inside.&lt;/p&gt;
-
 </content>
   </entry>
 </feed>
