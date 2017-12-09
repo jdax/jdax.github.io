@@ -5,6 +5,7 @@ category: blog
 blog: blog
 tags:
 - blog
+published: false
 ---
 
 _This is the second part of a multi-part series on self publishing. This series will cover: writing, editing, beta reading, sensitivity reading, setting up a pre-order, using Kindle Direct Publishing, Kindle Select, NetGalley and other means of getting reviews, and marketing._

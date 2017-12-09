@@ -7,7 +7,7 @@ tags:
 - blog
 ---
 
-_This is the first part of a multi-part series on self publishing. This series will cover: writing, editing, beta reading, sensitivity reading, setting up a pre-order, using Kindle Direct Publishing, Kindle Select, NetGalley and other means of getting reviews, and marketing._
+_This is the first part of a multi-part series on self publishing. This series will cover: writing, editing, beta reading, sensitivity reading, setting up a pre-order, using Kindle Direct Publishing, Kindle Select, NetGalley and other means of getting reviews, and marketing. [Read part two on editing, beta readers and sensitivity readers](http://daxmurray.com/blog/self-publishing-part-two-editing/)._
 
 A few people have asked me several questions on self publishing on Kindle. I've talked to people who want to publish small technical books that, for one reason or another, O'Reilly doesn't want to publish. I've talked to fiction writers who want to publish a novel. I've talked to a lot of people who have thought "I wish I could..." And I want to tell you that you can.
 
