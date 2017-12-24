@@ -7,7 +7,7 @@ tags:
 - blog
 ---
 
-If you haven't figured it out yet, I am non-binary and I am bi. I also am an indie author. I watched the cool people posting on #nbvember and wanted to specifically write a post about some awesome indie authors who shared my marginalizations. This list is not comprehensive, I sent out a tweet asking people to share their works from this year with me. If I missed you, please let me know and I would be happy to add you. So I present to you, in no particular order, a list of the wonderful works of indie authors who are bi and/or non-binary. I am dividing this up into two parts, because WOW there are a lot and that makes me so happy. Look for PART TWO SOON.
+If you haven't figured it out yet, I am non-binary and I am bi. I also am an indie author. I watched the cool people posting on #nbvember and wanted to specifically write a post about some awesome indie authors who shared my marginalizations. This list is not comprehensive, I sent out a tweet asking people to share their works from this year with me. If I missed you, please let me know and I would be happy to add you. So I present to you, in no particular order, a list of the wonderful works of indie authors who are bi and/or non-binary. I am dividing this up into two parts, because WOW there are a lot and that makes me so happy. Don't forget to [checkout part two!](http://daxmurray.com/blog/Bi-And-Or-Enbyof-2017-Part-Two/)
 
 # Melissa Jennings; _Afterlife_  
 
