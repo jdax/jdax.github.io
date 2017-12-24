@@ -266,7 +266,7 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/Bi-And-Or-Enby-Indie-Releases-of-2017/</loc>
-    <lastmod>2017-12-16T01:18:45-05:00</lastmod>
+    <lastmod>2017-12-24T14:52:41-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -327,6 +327,12 @@
   <url>
     <loc>http://daxmurray.com/blog/Theres-a-method-for-that/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/Bi-And-Or-Enbyof-2017-Part-Two/</loc>
+    <lastmod>2017-12-24T14:54:57-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -770,6 +776,12 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/2017/12/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2017/12/24/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
