@@ -28,9 +28,11 @@ You can find [Lindsay on Twitter @ellle_em](https://www.twitter.com/ellle_em)
 
 This year, Lyssa Chiavari published [_CHEERLEADERS FROM PLANET X_](http://amzn.to/2AVioFs), a f/f YA adventure full of cheerleaders and alien invasion tropes!
 
+You can find Lyssa [On Twitter @LyssaChiavari](https://twitter.com/lyssachiavari)
+
 # A. M. Blaushild; _Good Angel_
 
-<img src="/images/amblaushild.jpg" alt="A.M. Blaushild laughing on the ground" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/amblaushild.jpg" alt="A.M. Blaushild smiling with some bird friends" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto"/>
 
 [A. M. Blaushild](https://amblaushild.wordpress.com/) is a fearless, frivolous fiend with a friendly affection for angels who is currently studying publishing and creative writing at University. 
 This year, A.M. released [_Good Angel_](http://amzn.to/2Bu0CZI), described as “GOOD OMENS meets FANGIRL,” “an urban fantasy dramedy about good, evil, friendship, and the end of the world.”
@@ -83,7 +85,7 @@ You can find [Racheline on Twitter @racheline_m](https://twitter.com/racheline_m
 
 You can find [Erin on Twitter @erincmcrae](https://twitter.com/erincmcrae)
 
-# TS Porter; _Rescues and the Rhyssa
+# TS Porter; _Rescues and the Rhyssa_
 
 
 [TS Porter](http://ts-porter.tumblr.com/) (They/Them) is a writer of science fiction and fantasy, a tiny geek frequently mistaken for a collection of knobbly twigs wearing glasses. When not sleeping, they are usually found obsessively writing or baking sweet delicacies. TS’ physical location and momentum varies, but home is always online. 
