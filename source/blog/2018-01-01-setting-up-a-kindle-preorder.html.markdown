@@ -37,8 +37,8 @@ For ebooks, you just need the front cover. If you are going to choose the paperb
 
 Top in both pictures is the one I asked Louisa to professionally create, bottom is what I tried to do myself with Amazon's paperback cover creator. Note the difference in fonts, and the overall better look of the one Louisa did for me.
 
-<img src="/images/alofm_cover_comparison1.jpg" alt="two books sitting on top of each other, one with an awesome cover, the other not so much" style="display: block; margin-left: auto; margin-right: auto"/>
-<img src="/images/alofm_cover_comparison2.jpg" alt="two books sitting on top of each other, one with an awesome cover, the other not so much" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/alofm_cover_comparison1.jpg" alt="two books sitting on top of each other, one with an awesome cover, the other not so much" style="display: block; margin-left: auto; margin-right: auto; max-width: 45%;"/> <br/>
+<img src="/images/alofm_cover_comparison2.jpg" alt="two books sitting on top of each other, one with an awesome cover, the other not so much" style="display: block; margin-left: auto; margin-right: auto; max-width: 45%;"/>
 
 Louisa gave me back the full cover as an image file. But Amazon wants it as a pdf, and just saving the image as a pdf isn't gonna work. So I opened the cover creator, got the dimensions that Amazon wants, and then followed [the instructions in this tutorial for making a cover for createspace](http://ryallon.blogspot.com/2012/07/converting-book-cover-for-createspace.html). The height is going to be 9 inches, but the width wants to take into account the front and back plus the spine - the spine can change depending on how many pages you have. Keep this in mind when making changes to your manuscript - anything that adds or deletes pages will affect your paperback cover dimensions. This tutorial uses Open Office, which is a free suite of software similar to Microsoft Office. I've been using Open Office products since 2009 when I got my first ubuntu machine, so I was already familiar with lots of the tools. The tutorial also says its for Createspace, Amazon owns Createspace, and while this tutorial pre-dates that acquision, it's still a very good tutorial on using Open Office Draw to scale and save your cover as a pdf for Amazon. I would wait until you have your final final final manuscript, plus front copy, a table of contents, back copy, etc, all in one uploaded file before trying to size your paperback cover.
 
@@ -62,7 +62,7 @@ I will get into the ins and outs of pre-release marketing, but the long and the 
 First, you want to navigate to [https://kdp.amazon.com](https://kdp.amazon.com) and connect it to your regular Amazon Account.
 
 
-<img src="/images/kdp_landing.png" alt="KDP landing page, with links to log in or go to your account and a video tutorial" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_landing.png" alt="KDP landing page, with links to log in or go to your account and a video tutorial" style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 You will want your banking information, a version of your manuscript (does not have to be final), and your cover. Amazon will let indie authors set up pre-orders up to 90 days in advance of release and at least 10 days ahead of release. There might be a temptation to have a shorter pre-order window, but you will want those full three months for reasons I will get to later on. 
 
@@ -70,19 +70,19 @@ _Banking and Tax Information_
 
 You will want to get your banking and tax information taken care of right away. Amazon pays out via paper checks mailed to you or direct deposits into your account. Thing is, they won't send out a check until you've had at least $100 in sales per market after the first 90 days. A "market" is basically a country or region, there is a US market, a UK market, etc. Some markets are super small and you might only ever get $0.10 from them. In check payment, this means you will probably never see that $0.10. But, you can get that at the end of the month if you have Electronic Funds Transfer enabled. So set this up for direct deposit so you can start getting paid sooner.
 
-<img src="/images/kdp_tax_information.png" alt="KDP success prompt saying Tax Info has been updated" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_tax_information.png" alt="KDP success prompt saying Tax Info has been updated" style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 ### _Creating your book_
 
 Once your tax and banking information are done being entered, you will get to a dashboard called your "Bookshelf" - this is where all of your books will live. To start a new one, just click on the "+"! You can pick the ebook option now, and add paperback later if you decide to do it.
 
-<img src="/images/kdp_dashboard.png" alt="KDP dashboard with a list of books and a + sign to start to create a new one" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_dashboard.png" alt="KDP dashboard with a list of books and a + sign to start to create a new one" style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 #### _Ebook Details_
 
 The first part of setting up your book is the details section. Many of these fields are optional, so if they do not apply to your book, you can leave them blank. You do need a language and a title. I picked English, as that is the language my book was written in. My book does not have a subtitle, it is not part of series and therefore does not have a series name or a series number. Yours might! 
 
-<img src="/images/kdp_step_1.png" alt="Ebook Details: A language drop down field, book title field, book sub title field, series name and series number fields." style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_step_1.png" alt="Ebook Details: A language drop down field, book title field, book sub title field, series name and series number fields." style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 Amazon will also as for edition numbers, I put 1 in here because this is the first edition. Should I make major changes or edits and re-publish, I would add that as edition 2! New cover? Also edition 2! 
 
@@ -92,15 +92,15 @@ Contributors fields are if you are compiling an anthology or some other work wit
 
 Also you will need to provide your description. Pictured here is my not so great first stab at a description. It limits you on characters, but do noot feel compeled to use every character they offer - keep it around 200 words!
 
-<img src="/images/kdp_step_2.png" alt="Ebook Details: Edition number field, author first and last name fields, contributors drop downs and first and last name fields and description large text field" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_step_2.png" alt="Ebook Details: Edition number field, author first and last name fields, contributors drop downs and first and last name fields and description large text field" style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 Amazon then asks that you agree that you have the rights / copyright to your work. If you live in the US, this is pretty easy to do. You can either snail mail yourself a [certified mail](https://store.usps.com/store/product/shipping-supplies/certified-mail-receipt-P_FORM_3800) print out of your manuscript, or you can email yourself a copy. Anything that puts a date on your work is enough for copyright. In most instances, this will be enough. Big name authors, like J.K. Rowling, get huge amounts of frivolous copyright claims (Rowling had someone after her for 'muggles'), the odds are that you won't be one of those big name authors and therefore will never have to produce huge amounts of evidence of copyright. Select the box, and move on!
 
-<img src="/images/kdp_step_3.png" alt="Ebook Details: A radio button input asking to verify that you hold the necessary rights to the works" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_step_3.png" alt="Ebook Details: A radio button input asking to verify that you hold the necessary rights to the works" style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 Age and Grade Range are all optional, if you aren't writing childrens books, you can skip these fields. Just a quick note, though. A lot of organizations that attempt to create a rubric for what is appropriate for which ages/grades are incredibly homophobic and transphobic. For example, it has been shown that the MPAA regularly rates content with any sort of queer people in it as "R" even if that queer person never even so much as kisses anyone. Queer people and trans people specifically are not inherently sexual and are therefore not inherently inappropriate for children. 
 
-<img src="/images/kdp_step_4.png" alt="Book Details: Drop down fields for minimum and maximum age range, and minimum and maximum grade levels" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_step_4.png" alt="Book Details: Drop down fields for minimum and maximum age range, and minimum and maximum grade levels" style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 #### _eBook Content_
 
@@ -110,7 +110,7 @@ The most confusing part! ISBN's! If you are doing ebook only, you don't need one
 
 For "Publisher," you can leave it blank. It will display in store as Amazon Digital Services. You can also set up your own small press which will only publish your works and put that in there, too. It's your call.
 
-<img src="/images/kdp_step_5.png" alt="Ebook Content: text fields for ISBN and Publisher" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_step_5.png" alt="Ebook Content: text fields for ISBN and Publisher" style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 It will ask you to upload your manuscript and your cover. It will have a previewer, and you should be able to download it too. I highly suggest downloading it and viewing it on some of your own reading devices! I also recommend asking someone else to do the same! Download it and email it to someone you trust to give an honest look over of it. I also use Calibre to convert my file into other formats and preview it there, too. Even after a zillion times of me looking it over, and others looking it over, I still find weird formatting errors sometimes. Make sure your manuscript has any title pages, copyright pages, dedications, etc that you want. I would suggest picking up a paperback and flipping through each of the first set of pages to see what all is where and when. Hard page breaks, not just hitting 'enter' until you get to a new page, are your friend. Look up how to use hard page breaks in your text editor of choice.
 
@@ -132,6 +132,23 @@ KDP Select further breaks down your options as far as how much royalties you get
 
 For territories, if your work is an original work which no one else has ever published, and which you yourself have never published before, you most likely have world wide rights. Go ahead and select all territories to make your book available globally. 
  
-<img src="/images/kdp_step_6.png" alt="Ebook Pricing: Radio fields for KDP Select Opt In and Territories" style="display: block; margin-left: auto; margin-right: auto"/>
+<img src="/images/kdp_step_6.png" alt="Ebook Pricing: Radio fields for KDP Select Opt In and Territories" style="display: block; margin-left: auto; margin-right: auto; max-width: 90%;"/>
 
 Once you've set the price, you should be able to set a release date and make it available for pre-order! If you are using a draft manuscript to get the pre-order started, don't forget to upload the final version at least 72 hours before the book is live! Next time I will get in-depth with reviews!
+
+Want this series, and other exclusive content, delivered right to your mailbox? I have a newsletter now:
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/dax"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/dax', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email">
+  <input type="hidden" value="1" name="embed"/>
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
