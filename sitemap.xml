@@ -248,7 +248,7 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/so-you-want-to-self-publish/</loc>
-    <lastmod>2017-11-29T18:29:10-05:00</lastmod>
+    <lastmod>2018-01-01T19:12:26-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -309,6 +309,12 @@
   <url>
     <loc>http://daxmurray.com/blog/On-Personhood-in-light-of-the-VA-Attorney-General-Nominee/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/setting-up-a-kindle-preorder/</loc>
+    <lastmod>2018-01-01T19:16:31-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -764,6 +770,24 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/tags/blog/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2018/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2018/01/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2018/01/01/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1262,6 +1286,12 @@
   </url>
   <url>
     <loc>http://daxmurray.com/page/6/</loc>
+    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/page/7/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
