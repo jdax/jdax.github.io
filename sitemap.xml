@@ -488,13 +488,13 @@
   </url>
   <url>
     <loc>http://daxmurray.com/</loc>
-    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <lastmod>2018-04-04T21:29:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/about_me/</loc>
-    <lastmod>2017-11-19T16:04:03-05:00</lastmod>
+    <lastmod>2018-04-04T21:27:06-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -506,7 +506,7 @@
   </url>
   <url>
     <loc>http://daxmurray.com/services/</loc>
-    <lastmod>2017-05-25T22:28:39-04:00</lastmod>
+    <lastmod>2018-04-04T21:09:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -633,6 +633,12 @@
   <url>
     <loc>http://daxmurray.com/books/2015/05/30/Review-Second-Position-by-Katherine-Locke/</loc>
     <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/</loc>
+    <lastmod>2018-04-04T18:28:37-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1262,37 +1268,73 @@
   </url>
   <url>
     <loc>http://daxmurray.com/page/2/</loc>
-    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <lastmod>2018-04-04T21:29:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/page/3/</loc>
-    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <lastmod>2018-04-04T21:29:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/page/4/</loc>
-    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <lastmod>2018-04-04T21:29:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/page/5/</loc>
-    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <lastmod>2018-04-04T21:29:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/page/6/</loc>
-    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <lastmod>2018-04-04T21:29:17-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/page/7/</loc>
-    <lastmod>2016-12-29T10:50:39-05:00</lastmod>
+    <lastmod>2018-04-04T21:29:17-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/page/2/</loc>
+    <lastmod>2018-04-04T18:28:37-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/page/3/</loc>
+    <lastmod>2018-04-04T18:28:37-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/page/4/</loc>
+    <lastmod>2018-04-04T18:28:37-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/page/5/</loc>
+    <lastmod>2018-04-04T18:28:37-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/page/6/</loc>
+    <lastmod>2018-04-04T18:28:37-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/page/7/</loc>
+    <lastmod>2018-04-04T18:28:37-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
