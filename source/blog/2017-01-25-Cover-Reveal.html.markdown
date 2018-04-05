@@ -12,7 +12,7 @@ It's here! The cover for [The Resignation Letter](https://www.amazon.com/dp/B01M
 
 <img src="/images/ResignationLetterCover-01.jpg" alt="cover image: a white woman in a gown reclines on a chaise lounge, while a black woman stands in front of scientific tools looking into a magical orb" style="max-width:100%;" />
 
-Isn't it _gorgeous_? [Louisa of Juneberry Designs](https://juneberrydesign.myportfolio.com/) did a fabulous job getting the look and feel of the characters, and setting up the world, too. Seriously, you should chat with Louisa if you need a cool cover for your books! Having a cover makes it feel much more exciting as the release date draws near! Today for a brief moment the book was in the top rankings on Kindle in several categories. Specifically, in the #1 spot for Kindle Store -> Kindle Short Reads -> 30 Minutes (12 - 21 pages -> LGBT. 
+Isn't it _gorgeous_? [Louisa of Juneberry Designs](http://www.juneberrydesign.com) did a fabulous job getting the look and feel of the characters, and setting up the world, too. Seriously, you should chat with Louisa if you need a cool cover for your books! Having a cover makes it feel much more exciting as the release date draws near! Today for a brief moment the book was in the top rankings on Kindle in several categories. Specifically, in the #1 spot for Kindle Store -> Kindle Short Reads -> 30 Minutes (12 - 21 pages -> LGBT. 
 
 
 <img src="/images/kindle_rankings_01_25_17.jpeg" alt="Kindle rankings, #1 in Shorts LGBT, #6 in Science Fiction and Fantasy, and #18 in Literature and Fiction" style="max-width:100%;" />

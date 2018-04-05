@@ -1,40 +1,59 @@
 ---
 layout: layout
 title: "Books"
-blog: books
-pageable: true
-per_page: 10
+blog: blog
 
 ---
 <div class="blog-body">
-<div class="page-header">
-  <h1>Book Reviews <br/><small>“When I look back, I am so impressed again with the life-giving power of literature. If I were a young person today, trying to gain a sense of myself in the world, I would do that again by reading, just as I did when I was young.” <br/>— Maya Angelou</small></h1>
-</div>
 
-
-
-  <% page_articles.each_with_index do |article, i| %>
-      <div class="article">
-         <h1 class="article--title"><%= link_to article.title, article %> </h1>
-        <!-- use article.summary(250) if you have Nokogiri available to show just
-             the first 250 characters -->
-        <div class="article--date"><%= article.date.strftime('%a %x') %></div><br/><div class="article--text"><%= article.summary(400) %><%= link_to "Read More", article %></div>
+  <div class="pure-g">
+    <div class="pure-u-1 pure-u-sm-1-4">
+      <div class="promo-bar">
+        <div class="promo">
+          <a href="http://amzn.to/2zRV6yS">
+            <div class="promo-img">
+              <%= tag :img, :src => "/images/ALoFaMCover-01.jpg"%>
+            </div>
+            <br/>
+            <p class="promo-text">"A Lake of Feathers and Moonbeams"</p>
+          </a>
+        </div>
       </div>
+    </div>
+    <div class="pure-u-1 pure-u-sm-3-4">
+      <h2><i>A queer and polyamorous retelling of</i> Swan Lake.</h2>
+      <div class="article--text" style="font-size: 24px;">For as long as Katya can remember, her partner Ivan, a powerful sorcerer, has given her anything she's ever wanted. Life is simple, until soldiers escorting Princess Yi Zhen enter the magical woods they call home. When Ivan captures the princess and demands Katya watch over her, she reluctantly agrees, entering a dark web of political grudges spanning centuries. Katya soon finds herself falling for the captive princess — and is pretty sure the princess is into her, too. To make matters worse, Yi Zhen is betrothed to a roguish princen who's made it their mission to set her free. <br />As forces rally to rescue Yi Zhen or go to war, Katya must take measure of her own powers and decide what she is willing to sacrifice. Will she retreat to the safety of what's familiar or give up everything she knows to spread her wings and fly?</div>
+      <p>Cover by <a href="http://www.juneberrydesign.com/book-covers.html">Louisa of Juneberry Design</a>, edited by <a href="http://www.clearingblocksediting.com/">Jen of Clearing Blocks Editing</a></p>
+    </div>
+  </div>
 
-  <% end %>
 
-  <% if paginate && num_pages > 1 %>
-      <p>Page <%= page_number %> of <%= num_pages %></p>
+<div class="pure-g">
+  <div class="pure-u-1 pure-u-sm-1-4">
+    <div class="promo-bar">
+      <div class="promo">
+        <a href="http://amzn.to/2hEV8j8">
+          <div class="promo-img">
+            <%= tag :img, :src => "/images/ResignationLetterCover-01.jpg"%>
+          </div>
+          <br/>
+          <p class="promo-text">Click Here to Purchase "The Resignation Letter"</p>
+        </a>
+      </div>
+    </div>
+    </div>
+  <div class="pure-u-1 pure-u-sm-3-4">
+    <h2><i>A short story about a brilliant mage and an insecure empress</i></h2>
+    <div class="article--text" style="font-size: 24px;">
+      Amalthea has always gone against the rules, applying to the Academy of Mages first, and then studying forbidden magic when accepted. But when she finds her lover, the Empress, asking her to break the rules of her own ethics, she must decide for herself what is more important to her: her conscience or her relationship?
+    </div>
+    <p>Cover by <a href="http://www.juneberrydesign.com/book-covers.html">Louisa of Juneberry Design</a>, edited by <a href="http://www.kathowardbooks.com/editing/">Kat Howard</a></p>
+  </div>
+  </div>
 
-      <% if prev_page %>
-          <p><%= link_to 'Previous page', prev_page %></p>
-      <% end %>
-  <% end %>
 
-  <% if paginate %>
-      <% if next_page %>
-          <p><%= link_to 'Next page', next_page %></p>
-      <% end %>
-  <% end %>
-</div>
+    <div class="promo-footer"><p>This site uses Amazon Associates</p></div>
+
+
+  </div>
 </div>

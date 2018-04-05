@@ -8,7 +8,7 @@ tags:
 ---
 
 
-I wanted to formally announce my forthcoming novella, due to be released this fall. It is an #ownvoices queer re-telling of *Swan Lake,* and I am really excited to share it with you when it comes out. I am going to be self-publishing this novella, just as *[The Resignation Letter](https://www.amazon.com/dp/B01MS9NU7F)* was self-published. [Louisa](https://juneberrydesign.myportfolio.com/) will again be doing the cover for me, and I've asked Jen of [Clearing Blocks Editing](http://www.clearingblocksediting.com/) to help me out with making sure everything is PERFECT.
+I wanted to formally announce my forthcoming novella, due to be released this fall. It is an #ownvoices queer re-telling of *Swan Lake,* and I am really excited to share it with you when it comes out. I am going to be self-publishing this novella, just as *[The Resignation Letter](https://www.amazon.com/dp/B01MS9NU7F)* was self-published. [Louisa](http://www.juneberrydesign.com/) will again be doing the cover for me, and I've asked Jen of [Clearing Blocks Editing](http://www.clearingblocksediting.com/) to help me out with making sure everything is PERFECT.
 
 I've been putting together and [pinterest board](https://www.pinterest.com/daxaeterna/a-lake-of-feathers-and-moonlight/) for it, and I hope you'll check that out. I've also definitely got a playlist for when I am writing it, here are the [top songs](https://play.google.com/music/playlist/AMaBXynmGGrclnddDFOND_5TPoYX5hx48SwXvW60gMuRVsEokrWeAkWfnFkzGrJ11XMDbIPk2LbhD65yEFC23oZ4hJrxlkuZ8Q%3D%3D) on it:
 
