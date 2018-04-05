@@ -7,6 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta content="Dax Murray" name="Dax Murray">
     <meta name="description" content="Dax 'The Destroyer' Murray. Software Engineer Extraordinnaire. Acclaimed Speculative Fiction Author. High Level Cat Appreciator. S-Rank Snake Lover." />
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
     <!-- Google -->
     <meta name="google-site-verification" content="agmgf_qoLfP5XFVfQDpx8tPRS4bTsU9UMdG7uloiQZA" />
@@ -29,17 +31,24 @@
 
     <link href='https://fonts.googleapis.com/css?family=PT+Serif:700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+    <!--<![endif]-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="javascripts/slicknav.js"></script>
     <script src="javascripts/show_nav.js"></script>
-    <title>Dax: <%= ' - ' + current_article.title unless current_article.nil? %></title>
+    <title>Dax Murray <%= ': - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "application" %>
   </head>
   <body>
     <div id="main" role="main">
-      <%= partial "navbar" %>
+      <%= partial "top_nave" %>
       <div class="mobile-nav">
         <%= partial "mobile_nav" %>
       </div>
@@ -48,11 +57,6 @@
         <div>
           <%= yield %>
         </div>
-        <div>
-          <%= partial "side_bar" %>
-        </div>
-
-
     </div>
 
   </body>
