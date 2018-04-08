@@ -3,362 +3,145 @@
 ------------------*/
 /* line 11, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
 * {
-  font-family: 'Lato', sans-serif; }
+  font-family: 'Lato', sans-serif;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
 
-/* line 14, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+/* line 19, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'PT Serif', serif; }
+  font-family: 'PT Serif', serif;
+  color: #510E53; }
 
-/*
-   Desktop
-------------------*/
-@media only screen and (min-width: 880px) {
-  /* line 24, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  * {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box; }
+/* line 25, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+p {
+  color: #BEB6BB; }
 
-  /* line 29, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  p {
-    color: #BEB6BB; }
+/* line 29, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+a {
+  text-decoration: none;
+  color: #AB9FAC; }
 
-  /* line 33, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  a {
-    text-decoration: none;
-    color: #AB9FAC; }
+/* line 34, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+.out-now {
+  margin: 0 auto;
+  display: inline-block;
+  background-image: linear-gradient(#AB9FAC, #6C256F);
+  width: 100%;
+  height: 50em;
+  max-height: 50em;
+  text-align: center; }
+  @media only screen and (max-width: 880px) {
+    /* line 34, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+    .out-now {
+      height: auto;
+      max-height: none; } }
 
-  /* line 38, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  h1, h2, h3, h4, h5, h6 {
-    color: #510E53; }
+/* line 52, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+.newsletter {
+  background-image: linear-gradient(#AB9FAC, #360037);
+  width: 100%;
+  text-align: center; }
 
-  /* line 42, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .header {
-    width: 100%;
-    margin: 2%;
-    padding: 2%; }
-    /* line 46, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .header .header-text {
-      color: #BEB6BB;
-      font-size: 30px;
-      text-align: center; }
-      /* line 50, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-      .header .header-text h1 {
-        font-size: 70px; }
-      /* line 53, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-      .header .header-text p {
-        color: #AB9FAC; }
+/* side bar */
+/* line 65, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+.right-nav, .promo-bar {
+  padding: 2%;
+  display: inline-block;
+  height: auto;
+  max-height: 100%;
+  text-align: center; }
+  /* line 71, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  .right-nav .promo-footer, .promo-bar .promo-footer {
+    display: inline-block; }
+  /* line 74, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  .right-nav .promo, .promo-bar .promo {
+    border: #AB9FAC 3px solid;
+    width: 90%;
+    padding: 1%;
+    margin: 1%;
+    float: right;
+    display: inline-block; }
+    /* line 82, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+    .right-nav .promo .promo-img img, .promo-bar .promo .promo-img img {
+      max-width: 95%;
+      max-height: 95%;
+      height: auto;
+      margin: 0 auto; }
+    /* line 89, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+    .right-nav .promo .promo-text, .promo-bar .promo .promo-text {
+      text-align: center;
+      line-height: inherit;
+      display: block; }
 
-  /* line 59, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .divider {
-    width: 100%;
-    height: 2em;
-    background-image: linear-gradient(to right, #360037, #AB9FAC); }
-
-  /* line 69, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  footer {
-    font-size: 1em;
-    margin: 0 auto;
+/* line 99, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+.header {
+  width: 96%;
+  margin: 2%;
+  padding: 2%; }
+  /* line 103, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  .header .header-text {
+    color: #BEB6BB;
+    font-size: 30px;
     text-align: center; }
-    /* line 73, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    footer p {
-      color: #AB9FAC;
-      text-align: center; }
+    @media only screen and (max-width: 880px) {
+      /* line 103, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+      .header .header-text {
+        font-size: 18px; } }
+    /* line 110, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+    .header .header-text h1 {
+      font-size: 70px; }
+      @media only screen and (max-width: 880px) {
+        /* line 110, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+        .header .header-text h1 {
+          font-size: 26px; } }
+    /* line 116, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+    .header .header-text p {
+      color: #AB9FAC; }
 
-  /* main */
-  /* line 81, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .landing-bio {
-    margin: 3%;
-    padding: 2%; }
-    /* line 84, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .landing-bio .landing-bio-text {
-      margin: 5%; }
+/* line 122, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+.divider {
+  width: 100%;
+  height: 2em;
+  background-image: linear-gradient(to right, #360037, #AB9FAC); }
 
-  /* line 89, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .blog-body {
-    margin: 0 auto;
-    width: 75%;
-    padding: 2.5%; }
-
-  /* line 95, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .article {
-    padding-bottom: 1%;
-    padding-top: 2%; }
-    /* line 99, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .article .article--title a, .article h1 {
-      font-family: 'PT Serif', serif;
-      color: #6C256F; }
-    /* line 104, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .article .article--date {
-      color: #360037;
-      font-size: 1.5em; }
-    /* line 109, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .article .article--text {
-      font-size: 1.75em;
-      padding: 1%; }
-      /* line 112, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-      .article .article--text p {
-        color: #360037; }
-        /* line 114, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-        .article .article--text p a {
-          text-decoration: underline;
-          color: #510E53; }
-
-  /* line 123, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .out-now {
-    margin: 0 auto;
-    display: inline-block;
-    background-image: linear-gradient(to right, #6C256F, #AB9FAC);
-    width: 100%;
-    height: 40em;
-    max-height: 40em;
-    text-align: center; }
-
-  /* line 138, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .newsletter {
-    background-image: linear-gradient(to right, #360037, #AB9FAC);
-    width: 100%;
+/* line 132, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+footer {
+  font-size: 1em;
+  margin: 0 auto;
+  text-align: center; }
+  /* line 136, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  footer p {
+    color: #AB9FAC;
     text-align: center; }
 
-  /* side bar */
-  /* TODO: For some reason when clicking on year or tags, it does not display properly, so display: none for now */
-  /* line 153, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .right-nav, .promo-bar {
-    padding: 2%;
-    display: inline-block;
-    height: auto;
-    max-height: 100%;
-    text-align: center; }
-    /* line 161, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .right-nav .promo-footer, .promo-bar .promo-footer {
-      display: inline-block; }
-    /* line 164, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .right-nav .promo, .promo-bar .promo {
-      border: #AB9FAC 3px solid;
-      width: 90%;
-      padding: 1%;
-      margin: 1%;
-      float: right;
-      display: inline-block; }
-      /* line 172, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-      .right-nav .promo .promo-img img, .promo-bar .promo .promo-img img {
-        max-width: 95%;
-        max-height: 95%;
-        height: auto;
-        margin: 0 auto; }
-      /* line 179, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-      .right-nav .promo .promo-text, .promo-bar .promo .promo-text {
-        text-align: center;
-        line-height: inherit;
-        display: block; }
+/* main */
+/* line 144, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+.landing-bio {
+  margin: 3%;
+  padding: 2%; }
+  /* line 147, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  .landing-bio .landing-bio-text {
+    margin: 7%; }
 
-  /* line 188, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .mobile-nav {
-    display: none; }
-
-  /* line 191, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .slicknav_menu {
-    display: none; }
-
-  /* line 195, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .mobile_links {
-    display: none; } }
-/*
-   Tablets
-------------------*/
-/*
-   Smartphones
-------------------*/
-@media only screen and (max-width: 880px) {
-  /* line 208, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  * {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    background-color: #B9C8CD; }
-
-  /* line 214, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  p {
-    color: #510E53; }
-
-  /* line 218, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  a {
-    text-decoration: none;
-    color: #510E53; }
-
-  /* line 223, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  h1, h2, h3, h4, h5, h6 {
-    color: #AB9FAC; }
-
-  /* mobile navigation */
-  /* line 230, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .js #primary_nav {
-    display: none; }
-
-  /* line 234, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  #primary_nav {
-    display: none; }
-
-  /* line 238, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .js .slicknav_menu {
-    display: block; }
-
-  /* left nav */
-  /* line 244, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .left-nav {
-    display: none; }
-
-  /* line 248, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .header-image {
-    display: none; }
-
-  /* line 252, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .header-text {
-    display: none; }
-
-  /* line 256, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .header-text p {
-    display: none; }
-
-  /* line 260, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .header-image img {
-    display: none; }
-
-  /* line 265, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .left-nav-links ul {
-    list-style-type: none;
-    font-size: 2em; }
-
-  /* line 270, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .mobile_links {
-    position: relative;
-    padding: 5%;
-    display: inline-block;
-    float: left; }
-
-  /* line 277, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .mobile_links a {
-    padding-top: 5%;
-    padding-left: 2.5%;
-    display: block; }
-
-  /* line 283, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .mobile_img {
-    max-width: 100%; }
-
-  /* line 288, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .mobile_img img {
-    max-width: 55%;
-    max-height: 55%;
-    width: 50%;
-    height: auto;
-    display: inline-block;
-    float: left;
-    padding-right: 5%; }
-
-  /* footer */
-  /* line 300, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  footer {
-    font-size: 1em;
-    margin: 0 auto;
-    text-align: center; }
-    /* line 304, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    footer p {
-      color: #AB9FAC;
-      text-align: center; }
-    /* line 308, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    footer .copyright-explaination {
-      display: none; }
-
-  /* main */
-  /* line 316, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .blog-body {
-    float: left;
-    display: inline-block;
-    margin: 0 auto;
-    width: 100%;
-    padding: 2.5%; }
-
-  /* line 324, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .article {
-    box-shadow: 0px 2px #360037;
-    border-radius: 2%;
-    padding-bottom: 1%;
-    padding-top: 2%; }
-
-  /* line 331, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .article--title a, h1 {
-    font-family: 'PT Serif', serif; }
-
-  /* line 336, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .article--date {
-    color: #510E53;
+/* line 152, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+.article {
+  margin: 5%; }
+  /* line 154, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  .article .article--title a, .article h1 {
+    font-family: 'PT Serif', serif;
+    color: #6C256F; }
+  /* line 159, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  .article .article--date {
+    color: #360037;
     font-size: 1.5em; }
-
-  /* line 341, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .article--text {
+  /* line 164, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+  .article .article--text {
     font-size: 1.75em;
     padding: 1%; }
-    /* line 345, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .article--text p a {
-      text-decoration: underline;
+    /* line 167, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+    .article .article--text p {
       color: #360037; }
-
-  /* line 352, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .out-now {
-    margin: 0 auto;
-    display: inline-block;
-    background-image: linear-gradient(to right, #6C256F, #AB9FAC);
-    width: 100%;
-    text-align: center; }
-
-  /* line 365, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .newsletter {
-    background-image: linear-gradient(to right, #360037, #AB9FAC);
-    width: 100%;
-    text-align: center; }
-
-  /* side bar */
-  /* line 378, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .right-nav, .promo-bar {
-    padding: 2%;
-    display: inline-block;
-    height: auto;
-    max-height: 100%;
-    text-align: center; }
-    /* line 386, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .right-nav .promo-footer, .promo-bar .promo-footer {
-      display: inline-block; }
-    /* line 389, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-    .right-nav .promo, .promo-bar .promo {
-      border: #AB9FAC 3px solid;
-      width: 90%;
-      padding: 1%;
-      margin: 1%;
-      float: right;
-      display: inline-block; }
-      /* line 397, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-      .right-nav .promo .promo-img img, .promo-bar .promo .promo-img img {
-        max-width: 95%;
-        max-height: 95%;
-        height: auto;
-        margin: 0 auto; }
-      /* line 404, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-      .right-nav .promo .promo-text, .promo-bar .promo .promo-text {
-        text-align: center;
-        line-height: inherit;
-        display: block; }
-
-  /* line 413, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .right-nav {
-    display: none; }
-
-  /* line 423, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .recent-posts {
-    display: none; }
-
-  /* line 427, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .by-year {
-    display: none; }
-
-  /* line 431, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
-  .tags {
-    display: none; } }
+      /* line 169, /home/nikki/Documents/dev/jdax.github.io/source/stylesheets/partials/style.css.scss */
+      .article .article--text p a {
+        text-decoration: underline;
+        color: #510E53; }
