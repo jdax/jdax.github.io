@@ -40,8 +40,6 @@
     <!--<![endif]-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="javascripts/slicknav.js"></script>
-    <script src="javascripts/show_nav.js"></script>
     <title>Dax Murray <%= ': - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "application" %>
@@ -49,20 +47,12 @@
   <body>
     <div id="main" role="main">
       <%= partial "top_nave" %>
-      <div class="mobile-nav">
-        <%= partial "mobile_nav" %>
-      </div>
-      <%= partial "mobile_links" %>
-
         <div>
           <%= yield %>
         </div>
-
     </div>
-
     <div>
       <%= partial "footer" %>
     </div>
-
   </body>
 </html>
