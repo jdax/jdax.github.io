@@ -361,6 +361,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/blog/The-Best-Books-For-Writers-Fantasy/</loc>
+    <lastmod>2018-04-12T19:12:55-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/blog/When-Young-Women-Speak-Out-Virginia-Edition/</loc>
     <lastmod>2018-04-08T13:35:23-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -434,6 +440,18 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/2018/</loc>
+    <lastmod>2018-04-08T13:35:23-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2018/04/</loc>
+    <lastmod>2018-04-08T13:35:23-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2018/04/12/</loc>
     <lastmod>2018-04-08T13:35:23-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1004,6 +1022,12 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/tags/feminism/page/2/</loc>
+    <lastmod>2018-04-08T13:35:23-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/tags/blog/page/2/</loc>
     <lastmod>2018-04-08T13:35:23-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
