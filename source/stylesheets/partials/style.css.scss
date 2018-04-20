@@ -16,9 +16,21 @@ $gray-lighter:           #B9C8CD; // #eee
 
   }
 }
+
+@font-face {
+  font-family: 'eutemia_ornamentsregular';
+  src: url('eutemia_ornaments-webfont.woff2') format('woff2'),
+  url('eutemia_ornaments-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'PT Serif', serif;
   color: $gray-dark;
+  font-style: normal;
+  font-weight: normal;
 }
 
 
@@ -31,17 +43,22 @@ a {
   color: $gray;
 }
 
+.ornamental {
+  font-family: 'eutemia_ornamentsregular';
+  color: $gray-darker;
+  font-size: 2.1em;
+}
+
 .out-now {
   margin: 0 auto;
-  display: inline-block;
+  display: block;
   background-image:
   linear-gradient(
                   $gray, $gray-base
   );
-
-  width: 100%;
-  height: 50em;
-  max-height: 50em;
+  width: 75%;
+  height: 51em;
+  max-height: 51em;
   text-align: center;
   @media only screen and (max-width: 880px) {
     height: auto;
@@ -50,13 +67,14 @@ a {
 }
 
 .newsletter {
+  margin: 0 auto;
   background-image:
   linear-gradient(
 
                   $gray, $gray-darker
   );
 
-  width: 100%;
+  width: 75%;
   text-align: center;
 }
 
@@ -72,7 +90,7 @@ a {
     display: inline-block;
   }
   .promo {
-    border: $gray 3px solid;
+    //border: $gray 3px solid;
     width: 90%;
     padding: 1%;
     margin: 1%;
@@ -172,5 +190,11 @@ footer {
       }
     }
   }
+}
+
+.pure-button {
+  color: $gray;
+  background: $gray-darker;
+  margin: 2%  0;
 }
 
