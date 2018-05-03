@@ -1,0 +1,186 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta content="Dax Murray" name="Dax Murray">
+    <meta name="description" content="Dax Murray. Queer Fantasy and Science Fiction Author. High Level Cat Appreciator. S-Rank Snake Lover." />
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+    <!-- Google -->
+    <meta name="google-site-verification" content="agmgf_qoLfP5XFVfQDpx8tPRS4bTsU9UMdG7uloiQZA" />
+
+    <!-- Facebook -->
+    <meta property="og:title" content="Dax Murray" />
+    <meta property="og:description" content="Dax Murray. Queer Fantasy and Science Fiction Author. High Level Cat Appreciator. S-Rank Snake Lover." />
+    <meta property="og:url" content="http://www.daxmurray.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Dax Murray" />
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image" >
+    <meta name="twitter:site" content="@DaxAeterna">
+    <meta name="twitter:site:id" content="">
+    <meta name="twitter:creator" content="@DaxAeterna">
+    <meta name="twitter:title" content="Dax Murray">
+    <meta name="twitter:description" content="Dax Murray. Queer Fantasy and Science Fiction Author. High Level Cat Appreciator. S-Rank Snake Lover.">
+    <meta name="twitter:image" content="/images/profile.jpg">
+
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-old-ie-min.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/grids-responsive-min.css">
+    <!--<![endif]-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <title>Dax Murray </title>
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/blog/feed.xml" />
+    <link href="/stylesheets/application.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="main" role="main">
+      <div class="header">
+  <div class="header-text">
+<div class="pure-g">
+  <div class="pure-u-1-4"></div>
+  <div class="pure-u-1-2">
+    <a href="/"><h1><span class="ornamental"> < </span>Dax Murray<span class="ornamental"> > </span><div class="ornamental" style="margin-top: -7% !important;"> ( </div></h1></a> <p>Queer Fantasy and Science Fiction Author.</p> <p></p>
+    <a href="http://www.twitter.com/daxaeterna" target="_blank"><i class="fa fa-twitter">  </i></a>
+    <a href="http://www.github.com/jdax" target="_blank"><i class="fa fa-github"></i></a>
+    <a href="http://www.instagram.com/daxaeterna" target="_blank"><i class="fa fa-instagram">  </i></a>
+    <a href="http://www.twitter.com/daxscats" target="_blank"><i class="fa fa-twitter">  </i></a>
+  </div>
+</div>
+<div class="pure-g">
+  <div class="pure-u-1-4"></div>
+  <div class="pure-u-1-2">
+    <span class="ornamental"> < </span>
+    <a href="/about_me">About</a> |
+    <a href="/services">Services</a> |
+    <a href="http://dax.cat">My cats</a> |
+    <a href="http://dax.codes">CV</a> |
+    <a href="/blog">Blog</a> |
+    <a href="/books">Books</a>
+    <span class="ornamental"> > </span>
+  </div>
+</div>
+</div>
+</div>
+<div class="divider"></div>
+</div>
+
+        <div>
+          <p>If you are trying to run an application, you will probably need to store data somewhere. A database helps you do this. If you've used a computer with Microsoft Office on it, you might have some passing familiarity with Excel. Excel is a database that has a graphical user interface, and can do some of it's own programming. You might have used it to create tables, or to balance your budget. If you want to create Rails apps, you will want to use a database that you can access in the terminal or console. Rails, by default, will run with SQLite. There are other options, such as postgresql, MongoDB, and MySQL. Each has their own pro's and con's, and each has had moments of extreme popularity that lead to shops still using them years later.</p>
+
+<p>SQL - pronounced like sequel, as in the second thing in what should never have been more than one thing in the first place, stands for Structured Query Language. Learning SQL is a lot like learning a new language. This post is for people that do want to learn that new language. If you want to skip this post, check back later and I will be explaining how to totally get around learning SQL and just write out stuff directly into your app.</p>
+
+<!--more-->
+
+<p>SQL is a database that has rows and columns. You can perform CRUD on them. CRUD isn't as bad as it sounds. It stands for "Create, Read, Update, Destroy." Those are the actions you can perform in a database. You can create data, read it, update it, and destroy it.</p>
+
+<p>Using ActiveRecord you can connect your database to your program, and use your terminal to CRUD your data via the database or via your program. Postgres and other databases you might use in doing Ruby programming are tabular databases, meaning it has rows and columns. Each record in that database is given a primary key that is unique.</p>
+
+<p>For example, you might have a table in a datbase that looks like this:</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>id</td>
+      <td>name         </td>
+      <td>color</td>
+    </tr>
+    <tr>
+      <td>1  </td>
+      <td>gryffindor</td>
+      <td>red</td>
+    </tr>
+    <tr>
+      <td>2  </td>
+      <td>hufflepuff</td>
+      <td>yellow</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Once you'ce installed postgres, you can open it by typing 'psql' in your command line. Once you open postgres you can view all the databases you have by using \l and connect to one using \c databasename. To exit you type \q. Each database can have multiple tables, so once you are connected to the database you can see the tables you have. This is a bit like having one excel doc with multiple sheets.</p>
+
+<p>To create a database you would type (do you have your cap locks ready?) CREATE DATABASE databasename; and enter/return. Also, like CSS, ; are super important here. Once you've created it, you will connect to it using "\c databasename;" and then the command line prompt will change to reflect the database you are in. Once you are in the database, you can create all the tables you need. You create a table in roughly this format:</p>
+<pre><code>CREATE TABLE cats (
+  id    SERIAL PRIMARY KEY,
+  name  VARCHAR(50) NOT NULL,
+  owner VARCHAR(150) UNIQUE,
+  age   INTEGER DEFAULT 0
+);</code></pre>
+<p>VARCHAR means variable characters, and the number that comes after it is the limit on those characters. NOT NULL means that it can't be left blank, UNIQUE means only one can exist in the database (good for things like emails, but, well, cats don't have emails), INTEGER is for number, and DEFAULT 0 in the above example means that if a value isn't given, it will automatically be assigned to '0'. SERIAL PRIMARY KEY means that a key will be assigned automatically in incremental increases. ALSO: NOTE THE SEMI COLON.</p>
+
+<p>Now that you've created your table, you need some data in it. To add a cat to the cats table you would type</p>
+
+<p>INSERT INTO cats (name, owner, age) VALUES ('Didi', 'Nikki", 4);</p>
+
+<p>DO NOT FORGET THE SEMI COLON. There is nothing worse than forgetting that semicolon. Now that you have some information in your table, you need to be able to search it and select from it. If you want to see all rows you can type:</p>
+
+<p>SELECT * FROM cats;</p>
+
+<p>Again. Semi-colon.  To select just certain data you can specify which you want:</p>
+
+<p>SELECT * FROM cats WHERE age &lt; 1;
+SELECT * FROM cats WHERE owner = "Nikki";</p>
+
+<p>You can combine them with the AND operator. Also. Do. Not. Forget. The. Semicolon.</p>
+
+<p>If you made a typo and need to update or something's changed, you can type:</p>
+
+<p>UPDATE cats SET age = 5 WHERE name="Didi";</p>
+
+<p>If you need to delete a record you can type:</p>
+
+<p>DELETE FROM cats WHERE name = "Didi";</p>
+
+<p>But please don't actually delete Didi. She's a very good cat.</p>
+
+<p>Now that we can do some simple SQL, we can get into Active Record, and, soon be able to create all this stuff without writing any SQL!</p>
+
+<p>You can access the information you have in your databases via ActiveRecord. Active Record is a model, or a piece of data in Rails. Rails is like a house, with walls and floors and windows and support beams; it has many parts and they all have different functions. Active Record is like a piece of the house. It's able to function on it's own outside of it's purpose in a house, though. So it's a bit like a sink, you can use a sink or might need a sink at times when you aren't in a house.</p>
+
+<p>Make sure you have the Active Record gem installed, which you should if you have Rails. Otherwise "gem install 'active_record'" in your command line. You must also require it in your Ruby file. At the top of your Ruby file, add "require 'active_record'" and you should be set! You should also make sure that you have the right adapter. An adapter is like those things you buy when you are going to other countries and need to still use electricity. Active Record can talk to any database, but it will need a different adapter for each. Figure out which database you are using and install the right adapter.</p>
+
+<p>If everything is all set up, the complicated part starts now. To connect your database to Active Record you're going to need to type in:</p>
+
+<p>ActiveRecord::Base.establish_connection("postgres://user:password/database_name")</p>
+
+<p>Very tricky, I know. Now, how do we use this to talk to a database? You do so by creating a model in your Ruby file and having it linked to ActiveRecord. Like this:</p>
+
+<p>class Cat &lt; ActiveRecord::Base
+end</p>
+
+<p>Because Ruby is based on convention, it will do what people lovingly/hatingly call "Ruby Magic". It will see that there is a table called cats and assign it's contents to the Cat class.  The convention is that the table will be plural, and snake case, while the model will be capitalized and camel case. Active Record is about 99% capable of figuring out irregular plurals like wolf and wolves.</p>
+
+<p>Now that you have everything hooked up you can use pry or irb console to add data, edit it, and delete it. You can run your Ruby program and use the following methods:</p>
+
+<p>Model.all
+Model.count
+Model.find(&lt;id&gt;)
+Model.destroy(&lt;id&gt;)
+Model.where(:field =&gt; "value")
+Model.order()</p>
+
+<p>Using these methods, you can easily search your database in the console, or write methods to display your data!</p>
+
+        </div>
+    </div>
+    <div>
+      <footer>
+  <p>© Dax Murray 2012-2018. </p>
+    <p class="copyright-explaination">Unauthorized use and/or duplication of this material without express and written permission from this blog’s author and/or owner is strictly prohibited.</p>
+    <p class="copyright-explaination">Excerpts and links may be used, provided that full and clear credit is given to Dax Murray with appropriate and specific direction to the original content.</p>
+</footer>
+    </div>
+  </body>
+</html>
