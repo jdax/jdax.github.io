@@ -1,10 +1,8 @@
 ---
 title: I have to interact with people? The importance of groups in learning coding
 date: '2015-01-09'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 If you read my intro post, you'll know I got started at a meet up. My first meet up was with the <a href="http://railsgirls.com/dc">DC Rails Girls</a>. I now regularly attend the <a href="http://www.meetup.com/dcruby/">DC RUG</a> meet ups and the <a href="http://www.meetup.com/Learn-Ruby-in-DC/">Learn Ruby</a> meet ups.  You can use Meetup.com to find groups in your area! Also, some cool companies host their own meet ups. If there is a company you want to work for, even if you aren't at a level you feel is good enough, email them to ask if they have regular happy hours or meet ups for those wanting to get into the tech world.

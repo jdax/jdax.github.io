@@ -2,9 +2,7 @@
 title: On "Moving Elsewhere" from Somone Who Did
 date: '2013-06-25'
 blog: blog
-category: feminism
-tags:
-- feminism
+published: false
 ---
 
 With the special session going on in Texas, and the thousands of women, men, and gender-non-conforming persons who have a uterus, and their partners, friends, and loved ones standing up for the right to have an abortion, many in Blue States are wondering “Why don’t they just move?”

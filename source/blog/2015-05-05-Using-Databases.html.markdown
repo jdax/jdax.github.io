@@ -1,10 +1,8 @@
 ---
 title: Using Databases!
 date: '2015-05-05'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 If you are trying to run an application, you will probably need to store data somewhere. A database helps you do this. If you've used a computer with Microsoft Office on it, you might have some passing familiarity with Excel. Excel is a database that has a graphical user interface, and can do some of it's own programming. You might have used it to create tables, or to balance your budget. If you want to create Rails apps, you will want to use a database that you can access in the terminal or console. Rails, by default, will run with SQLite. There are other options, such as postgresql, MongoDB, and MySQL. Each has their own pro's and con's, and each has had moments of extreme popularity that lead to shops still using them years later.

@@ -1,10 +1,8 @@
 ---
 title: 'Day Two At General Assembly: Learning Git and Github'
 date: '2015-01-29'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 Today in my Back-End Web Development course we went over git, github, and loops in ruby.

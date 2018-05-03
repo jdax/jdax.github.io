@@ -1,10 +1,8 @@
 ---
 title: So how does a computer know programming languages? Does it have to go to college?
 date: '2015-01-07'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 A question that bothered me A LOT when I first started was how does a computer know programming languages? How does it learn new languages? When Ruby was made, did every person have to take their computer back to college and make it get a major in Ruby?

@@ -1,10 +1,8 @@
 ---
 title: Build Another Pyramid with Ruby
 date: '2015-02-03'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 This past week in coding I got my cat bot up to github! You can now make <a href="https://github.com/jdax/twitter_cat_bot" target="_blank">your very own cat bot</a>! I tried to make it as accessible as possible to the non-programmer as possible. Please let me know in some form if you have questions or comments! I guess, if you really wanted to, for some reason I cannot fathom, wanted to make a bunny bot or a dog bot or a ferret bot. I don't know, I guess you could do that.

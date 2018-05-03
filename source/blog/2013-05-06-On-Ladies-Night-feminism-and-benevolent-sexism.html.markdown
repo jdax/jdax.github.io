@@ -1,10 +1,8 @@
 ---
 title: On "Ladies Night," feminism, and benevolent sexism
 date: '2013-05-06'
-category: feminism
 blog: blog
-tags:
-- feminism
+published: false
 ---
 
 Or, “Why Ladies Night isn’t ‘Female Privilege'”

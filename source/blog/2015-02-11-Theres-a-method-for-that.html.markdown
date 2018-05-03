@@ -1,10 +1,8 @@
 ---
 title: There's a method for that!
 date: '2015-02-11'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 Sorry for the long pause in the coding related content! The reason is that I moved my blog from wordpress.com to self-hosted and running on wordpress.org.  The move has allowed for a lot more customization and a lot more control over my content, including the ability to create my own themes. I'm still using my old one while I design the new theme, but be on the lookout!

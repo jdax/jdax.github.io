@@ -1,10 +1,8 @@
 ---
 title: 'Birth Control: The New Abortion'
 date: '2012-02-10'
-category: feminism
 blog: blog
-tags:
-- feminism
+published: false
 ---
 
 I spent Wednesday afternoons being quickly rushed from the public school I attended to the Catholic school down the street, where I would spend another two hours sitting in a desk in a class room. I learned the rosary, the Apostle's Creed, the stations of the Cross, and then my Aunt, who worked at the school full time, would take me back to my parents house (usually with a detour for a snack, much to my delight.)While my parents, being working class (like many Catholic's are), could not afford to send me and my siblings to Catholic school full time, they did shell out money to OLC for me to receive Confraternity of Christian Doctrine (CCD, like Sunday school, but on Wednesday). I looked forward to my First Holy Communion in which I would get to wear a beautiful white dress, have my hair done, and afterward, have a party in which I was given beautiful rosaries, ornate Bibles, and a statue of the Virgin Mary.

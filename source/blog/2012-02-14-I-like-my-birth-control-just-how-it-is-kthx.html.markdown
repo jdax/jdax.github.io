@@ -1,10 +1,8 @@
 ---
 title: I like my birth control just how it is, kthx
 date: '2012-02-14'
-category: feminism
 blog: blog
-tags:
-- feminism
+published: false
 ---
 
 

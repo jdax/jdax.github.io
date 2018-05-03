@@ -2,9 +2,7 @@
 title: Reproductive Justice and Reducing the Number of Abortions
 date: '2013-05-12'
 blog: blog
-category: feminism
-tags:
-- feminism
+published: false
 ---
 
 

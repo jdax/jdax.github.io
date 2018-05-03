@@ -1,10 +1,8 @@
 ---
 title: So what's the big deal about object oriented programming?
 date: '2015-02-22'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 There are multiple approaches to writing code. Functional, procedural, and object-oriented are three of the most common. If you are learning Ruby, you need to know about object oriented programming. The previous posts all included examples of procedural code. Procedural code is code that runs line by line and does one task at a time, each task building on the other. This is fine for smaller programs, like the ones in previous posts. However, it can quickly become unwieldy if you are trying to work on larger projects. For example, say you were to write a program to make a cat meow and a dog bark. All of the code in this, written procedurally, would know about the other code. So the cat might know the .bark method, and the dog might know the .meow method. When everything knows about each other, there is a lot of room for cascading effects as you adjust one line of code.

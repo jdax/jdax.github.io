@@ -1,10 +1,8 @@
 ---
 title: Women, Combat, Rape, and Sexism
 date: '2012-02-14'
-category: feminism
 blog: blog
-tags:
-- feminism
+published: false
 ---
 
 <div dir="ltr" style="text-align:left;">

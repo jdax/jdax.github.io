@@ -1,10 +1,8 @@
 ---
 title: My decision to go to General Assembly
 date: '2015-01-09'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 My decision to attend a non-accredited school to learn more about coding is many faceted. I looked at a lot of coding schools, and I looked at how long they lasted, what the hours were, how much they cost and did I have to relocate to attend.

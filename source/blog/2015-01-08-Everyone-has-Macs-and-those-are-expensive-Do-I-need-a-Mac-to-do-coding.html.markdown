@@ -1,10 +1,8 @@
 ---
 title: Everyone has Macs and those are expensive! Do I need a Mac to do coding?!
 date: '2015-01-08'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 Today's Question That Bothered Me a LOT While Getting Into Coding: I'm Too Cool for Mac's/I Like Being Able to Play A Lot Of Video Games on My Computer/I Work For A Nonprofit And My Cats Have Expensive Tastes, So Really, What I'm Trying To Say Is I Can't Afford a Mac, Please Tell Me They Aren't Required?

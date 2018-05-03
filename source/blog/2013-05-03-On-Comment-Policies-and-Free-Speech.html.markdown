@@ -1,10 +1,8 @@
 ---
 title: On Comment Policies and Free Speech
 date: '2013-05-03'
-category: feminism
 blog: blog
-tags:
-- feminism
+published: false
 ---
 
 Blogs are like small independent newspapers run out of your basement. You usually only get enough printed for you family + 20, and hope that your family passes out the copies you printed. Someday you might get big, and you might be able to add some ad space, but for now, you can’t. You just write what you want to write, not concerned about subscriptions or revenue.

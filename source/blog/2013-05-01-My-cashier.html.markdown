@@ -1,11 +1,8 @@
 ---
 title: My cashier
 date: '2013-05-01'
-category: feminism
 blog: blog
-tags:
-- feminism
-
+published: false
 ---
 
 I don't want my cashier to have the final say in whether I get emergency contraception, or a pregnancy.

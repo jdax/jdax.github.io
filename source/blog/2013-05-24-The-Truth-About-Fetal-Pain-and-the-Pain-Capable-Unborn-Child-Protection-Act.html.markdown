@@ -2,9 +2,7 @@
 title: The Truth About Fetal Pain, and the "Pain Capable Unborn Child Protection Act"
 date: '2013-05-24'
 blog: blog
-category: feminism
-tags:
-- feminism
+published: false
 ---
 
 The truth is simply that fetus’s cannot feel pain. Several organizations dedicated to studying obstetrics and gynecology have spent many years studying the inner working of the uterus to figure out the secrets behind pregnancy and childbirth.

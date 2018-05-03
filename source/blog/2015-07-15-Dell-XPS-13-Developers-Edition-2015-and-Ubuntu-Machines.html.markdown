@@ -1,10 +1,8 @@
 ---
 title: Dell XPS 13 Developers Edition 2015 and Ubuntu Machines
 date: '2015-07-15'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 You may have read my post on not needing expensive Mac’s to do development on (if not, [please do!](http://www.nikkilizmurray.com/everyone-has-macs-and-those-are-expensive-do-i-need-a-mac/)). Since that post I have done some digging on finding good Ubuntu machine’s. I wanted to get a bit of an upgrade, and I didn’t want to mess around with drivers for hours converting a window’s machine. I hear there’s ways to put Ubuntu on Mac’s, too. But, really, I hate Yosemite. It’s awful to develop on and it’s just not fun to have in general in my opinion.
 

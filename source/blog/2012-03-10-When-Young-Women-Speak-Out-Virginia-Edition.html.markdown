@@ -1,10 +1,8 @@
 ---
 title: 'When Young Women Speak Out: Virginia Edition'
 date: '2012-03-10'
-category: feminism
 blog: blog
-tags:
-- feminism
+published: false
 ---
 
 

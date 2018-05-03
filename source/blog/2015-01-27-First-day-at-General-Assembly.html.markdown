@@ -1,10 +1,9 @@
 ---
 title: First day at General Assembly!
 date: '2015-01-27'
-category: coding
 blog: blog
-tags:
-- coding
+
+published: false
 ---
 
 Last night was my first night at General Assembly's back end web development course. The weather attempted to stop it, but despite the impending blizzard and the ice and snow it threw at us, we were able to have class as planned.

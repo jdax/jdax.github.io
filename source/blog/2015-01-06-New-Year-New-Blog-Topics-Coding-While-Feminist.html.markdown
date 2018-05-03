@@ -2,10 +2,7 @@
 title: 'New Year, New Blog Topics: Coding While Feminist'
 date: '2015-01-06'
 blog: blog
-category: feminism, coding
-tags:
-- coding
-- feminism
+published: false
 ---
 
 Hello -

@@ -1,10 +1,8 @@
 ---
 title: My reproductive choices are not referendum on yours
 date: '2013-05-21'
-category: feminism
 blog: blog
-tags:
-- feminism
+published: false
 ---
 
 For a long time, in the United States, childbearing among white women and the rearing of them were compulsory, not mandated by law per se, but societal forces found ways to demonize, stigmatize, and criminalize those white women who did not contribute to the white race by producing enough children out outstrip the people of color. Meanwhile, women of color were forcibly sterilized, or had the children they did have removed from their care.

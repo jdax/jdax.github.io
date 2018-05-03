@@ -1,10 +1,8 @@
 ---
 title: A Very Short Introduction
 date: '2015-01-07'
-category: coding
 blog: blog
-tags:
-- coding
+published: false
 ---
 
 I wanted to take a few moments to discuss how I got into coding and what I'm doing so far/have learned so far! A way long back, in high school, my computer science teacher decided teaching HTML was way more important than going on and on and on and on about Microsoft Office. So we built a website, and we made pac-man. Of course, I only used these skills for the most pure of purposes: a fan-site with auto-play music dedicated to <em>The Last Unicorn</em>.

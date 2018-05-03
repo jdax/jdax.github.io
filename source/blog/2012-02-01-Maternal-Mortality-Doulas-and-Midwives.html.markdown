@@ -2,9 +2,8 @@
 title: Maternal Mortality, Doulas, and Midwives
 date: '2012-02-01'
 blog: blog
-category: feminism
-tags:
-- feminism
+
+published: false
 ---
 
 Recently a study was published that found [abortion to be safer than childbirth](http://www.reuters.com/article/2012/01/23/us-abortion-idUSTRE80M2BS20120123). Many on the choice side of the abortion debate are hailing this as a victory, pointing the fingers back at the prolife side of the debate, saying "We told you it was safer, can you please stop lying to women saying abortion is dangerous?"The problem is that no one should be celebrating this finding. The dark side of this study is that it finds childbirth to be less safe than a routine medical procedure done here in the United States. [One in 2,100 women](http://www.womendeliver.org/about/the-issue/) will die in the United States from childbirth or pregnancy. That is a horrible statistic. Especially since the comparable abortion number is 1 in 1,000,000 deaths for abortions performed before 8 weeks (when most are performed),  to 1 in 11,000 for abortions performed after 21 weeks (which is usually only done in cases of fetal or maternal indications).
