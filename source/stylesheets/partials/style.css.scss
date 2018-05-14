@@ -48,6 +48,11 @@ a {
   color: $gray-darker;
 }
 
+.ornamental-margin {
+  margin-top: -7% !important;
+  height: 25px;
+}
+
 .out-now {
   margin: 0 auto;
   display: block;
@@ -56,8 +61,8 @@ a {
                   $gray, $gray-darker
   );
   width: 75%;
-  height: 51em;
-  max-height: 51em;
+  height: auto;
+  //max-height: 51em;
   text-align: center;
   @media only screen and (max-width: 880px) {
     height: auto;
@@ -114,6 +119,10 @@ a {
 
 
 .header {
+  width: 98%;
+  /* top | right | bottom | left */
+  margin: 0 1% 1% 1%;
+  padding: 0 1% 1% 1%;
   .header-text {
     color: $gray-light;
     font-size: 30px;
