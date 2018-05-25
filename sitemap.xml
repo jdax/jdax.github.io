@@ -439,6 +439,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/new_subscriber/</loc>
+    <lastmod>2018-05-24T21:52:18-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/blog/</loc>
     <lastmod>2018-05-13T20:39:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
