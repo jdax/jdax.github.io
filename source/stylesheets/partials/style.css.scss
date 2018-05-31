@@ -1,9 +1,9 @@
-$gray-base:              #6C256F;
-$gray-darker:            #360037;
-$gray-dark:              #510E53;   // #333
-$gray:                   #AB9FAC; // #555
-$gray-light:             #BEB6BB; // #777
-$gray-lighter:           #B9C8CD; // #eee
+$gray-base:              #DB4374;
+$gray-darker:            #2C0149;
+$gray-dark:              #69065A;   // #333
+$gray:                   	#D03A45; // #555
+$gray-light:             #F15654; // #777
+$gray-lighter:           #DAC5F1; // #eee
 
 /*
    font
@@ -58,15 +58,16 @@ a {
   display: block;
   background-image:
   linear-gradient(
-                  $gray, $gray-darker
+                  white, $gray-darker
   );
-  width: 75%;
+  width: 60%;
   height: auto;
   //max-height: 51em;
   text-align: center;
   @media only screen and (max-width: 880px) {
     height: auto;
     max-height: none;
+    width: 100%;
   }
 }
 
@@ -75,11 +76,14 @@ a {
   background-image:
   linear-gradient(
 
-                  $gray, $gray-darker
+                  $gray-lighter, $gray-darker
   );
 
-  width: 75%;
+  width: 60%;
   text-align: center;
+  @media only screen and (max-width: 880px) {
+    width: 100%;
+  }
 }
 
 /* side bar */
@@ -119,26 +123,38 @@ a {
 
 
 .header {
-  width: 98%;
-  /* top | right | bottom | left */
-  margin: 0 1% 1% 1%;
-  padding: 0 1% 1% 1%;
-  .header-text {
-    color: $gray-light;
-    font-size: 30px;
+  padding-top: 1250px / 4751px * 100%;
+  margin-bottom: 60px;
+  background-image: url('/images/DM_Header.jpg');
+  @media only screen and (max-width: 880px) {
+    padding-top: 1200px / 800px * 100%;
+    background-image: url('/images/DM_Header_Mobile.jpg');
+  }
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+}
+
+
+.header-text {
+  color: white;
+  font-size: 30px;
+  @media only screen and (max-width: 880px) {
+    font-size: 34px;
+  }
+  text-align: center;
+  h1 {
+    font-size: 70px;
     @media only screen and (max-width: 880px) {
-      font-size: 18px;
+      font-size: 26px;
     }
-    text-align: center;
-    h1 {
-      font-size: 70px;
-      @media only screen and (max-width: 880px) {
-        font-size: 26px;
-      }
-    }
-    p {
-      color: $gray;
-    }
+  }
+  p {
+    color: $gray;
+  }
+  a {
+    color: white;
   }
 }
 
@@ -153,13 +169,31 @@ a {
 }
 
 footer {
-  font-size: 1em;
+  padding-bottom: 300px / 1140px * 40%;
+  background-image: url('/images/DM_Footer.jpg');
+  @media only screen and (max-width: 880px) {
+    //padding-top: 1200px / 800px * 100%;
+    padding-top: 10%;
+    background-image: url('/images/DM_Footer_Mobile.jpg');
+  }
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  font-size: 2em;
   margin: 0 auto;
   text-align: center;
   p {
-    color: $gray;
+    color: $gray-lighter;
     text-align: center;
+    margin: 0 auto;
+    width: 60%;
+    @media only screen and (max-width: 880px) {
+      width: 90%;
+      margin: 0;
+      padding: 0;
+    }
   }
+
 }
 
 /* main */
@@ -173,7 +207,10 @@ footer {
 }
 
 .article {
-  margin: 5%;
+  margin: 5% 20%;
+  @media only screen and (max-width: 880px) {
+    margin: 5%;
+  }
   .article--title a, h1 {
     font-family: 'PT Serif', serif;
     color: $gray-base;
@@ -185,7 +222,7 @@ footer {
   }
 
   .article--text {
-    font-size: 1.75em;
+    font-size: 2em;
     padding: 1%;
     p {
       color: $gray-darker;
@@ -198,7 +235,7 @@ footer {
 }
 
 .pure-button {
-  color: $gray;
+  color: $gray-lighter;
   background: $gray-darker;
   margin: 2%  0;
 }
