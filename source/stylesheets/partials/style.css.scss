@@ -64,6 +64,9 @@ a {
   height: auto;
   //max-height: 51em;
   text-align: center;
+  .pure-button {
+    background: $gray;
+  }
   @media only screen and (max-width: 880px) {
     height: auto;
     max-height: none;
