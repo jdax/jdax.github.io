@@ -8,7 +8,7 @@
   </url>
   <url>
     <loc>http://daxmurray.com/books/</loc>
-    <lastmod>2018-06-24T13:23:54-04:00</lastmod>
+    <lastmod>2018-07-03T20:07:06-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -302,13 +302,19 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/review-the-seafarers-kiss/</loc>
-    <lastmod>2018-06-24T12:49:11-04:00</lastmod>
+    <lastmod>2018-07-03T22:55:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/blog/Bi-And-Or-Enby-Indie-Releases-of-2017/</loc>
     <lastmod>2018-06-24T12:49:11-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/new-editions-laya-rose-aurelia-fray/</loc>
+    <lastmod>2018-07-04T00:03:27-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -422,7 +428,7 @@
   </url>
   <url>
     <loc>http://daxmurray.com/</loc>
-    <lastmod>2018-06-24T13:22:56-04:00</lastmod>
+    <lastmod>2018-07-03T19:16:09-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -470,6 +476,18 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/2018/</loc>
+    <lastmod>2018-06-24T12:49:11-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2018/07/</loc>
+    <lastmod>2018-06-24T12:49:11-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/2018/07/03/</loc>
     <lastmod>2018-06-24T12:49:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -770,13 +788,19 @@
   </url>
   <url>
     <loc>http://daxmurray.com/page/2/</loc>
-    <lastmod>2018-06-24T13:22:56-04:00</lastmod>
+    <lastmod>2018-07-03T19:16:09-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/page/3/</loc>
-    <lastmod>2018-06-24T13:22:56-04:00</lastmod>
+    <lastmod>2018-07-03T19:16:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/page/4/</loc>
+    <lastmod>2018-07-03T19:16:09-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -788,6 +812,12 @@
   </url>
   <url>
     <loc>http://daxmurray.com/blog/page/3/</loc>
+    <lastmod>2018-06-24T12:49:11-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/blog/page/4/</loc>
     <lastmod>2018-06-24T12:49:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
