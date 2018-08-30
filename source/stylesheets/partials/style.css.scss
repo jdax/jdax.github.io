@@ -60,7 +60,10 @@ a {
   linear-gradient(
                   white, $gray-darker
   );
-  width: 60%;
+  width: 60%; // one on a row
+  //width: 45%; // two on a row
+  //float: left; // two on a row
+  //margin: 2.5%; // two on a row
   height: auto;
   //max-height: 51em;
   text-align: center;
