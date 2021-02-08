@@ -1701,7 +1701,7 @@ a.bg-primary:hover {
 a.bg-success:hover {
   background-color: #c1e2b3; }
 
-/* line 5, /Users/nikkimurray/projects/myblog/source/stylesheets/bootstrap/mixins/_background-variant.scss */
+/* line 5, /Users/nikkimurray/urojects/myblog/source/stylesheets/bootstrap/mixins/_background-variant.scss */
 .bg-info {
   background-color: #d9edf7; }
 
@@ -1741,7 +1741,8 @@ ol {
   ul ol,
   ol ul,
   ol ol {
-    margin-bottom: 0; }
+    margin-bottom: 0;
+  }
 
 /* line 167, /Users/nikkimurray/projects/myblog/source/stylesheets/bootstrap/_type.scss */
 .list-unstyled {
