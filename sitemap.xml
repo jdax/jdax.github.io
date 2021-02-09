@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/feathers-and-moonbeams/</loc>
+    <lastmod>2021-02-08T17:58:44-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/404/</loc>
     <lastmod>2018-06-24T12:49:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -241,6 +247,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/birthing-orion/</loc>
+    <lastmod>2021-02-08T19:04:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/blog/Review-Parable-of-the-Sower-by-Octavia-Butler/</loc>
     <lastmod>2018-06-24T12:49:11-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -428,13 +440,13 @@
   </url>
   <url>
     <loc>http://daxmurray.com/</loc>
-    <lastmod>2018-11-17T10:45:30-05:00</lastmod>
+    <lastmod>2021-02-08T18:02:28-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/about_me/</loc>
-    <lastmod>2018-11-17T10:45:30-05:00</lastmod>
+    <lastmod>2021-02-08T18:02:28-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -451,8 +463,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://daxmurray.com/afterimages/</loc>
+    <lastmod>2021-02-08T19:09:40-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://daxmurray.com/blog/</loc>
     <lastmod>2018-06-24T12:49:11-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://daxmurray.com/resignation-letter/</loc>
+    <lastmod>2021-02-08T18:07:01-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -788,19 +812,19 @@
   </url>
   <url>
     <loc>http://daxmurray.com/page/2/</loc>
-    <lastmod>2018-11-17T10:45:30-05:00</lastmod>
+    <lastmod>2021-02-08T18:02:28-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/page/3/</loc>
-    <lastmod>2018-11-17T10:45:30-05:00</lastmod>
+    <lastmod>2021-02-08T18:02:28-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://daxmurray.com/page/4/</loc>
-    <lastmod>2018-11-17T10:45:30-05:00</lastmod>
+    <lastmod>2021-02-08T18:02:28-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
