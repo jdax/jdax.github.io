@@ -188,6 +188,7 @@ a {
       line-height: inherit;
       //float: left;
       display: block;
+
     }
 
     .page-promo-img {
@@ -271,8 +272,10 @@ footer {
 
   width: 95%;
   @media only screen and (max-width: 880px) {
-
+    font-size: 0.5em;
     padding: 10%;
+    font-size: 1em !important;
+
 
   }
 
