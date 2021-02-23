@@ -35,6 +35,10 @@ h1, h2, h3, h4, h5, h6 {
   color: $gray-dark;
   font-style: normal;
   font-weight: normal;
+  @media only screen and (max-width: 880px) {
+    font-size: 1em;
+    padding: 4%;
+  }
 }
 
 p {
@@ -51,14 +55,13 @@ a {
   font-size: 30px;
   @media only screen and (max-width: 880px) {
     font-size: 1em;
-    ul li { display: inline-block;}
+    ul li {display: block !important;}
   }
   text-align: center;
   h1 {
     font-size: 70px;
     @media only screen and (max-width: 880px) {
-      font-size: 26px;
-    }
+      font-size: 1em; }
   }
   p {
     color: $gray;
@@ -66,6 +69,7 @@ a {
   a {
     color: white;
   }
+
 }
 
 .header {
@@ -214,24 +218,6 @@ a {
   }
 }
 
-.header {
-  padding-top: 1250px / 4751px * 100%;
-  margin-bottom: 60px;
-  background-image: url('/images/DM_Header.jpg');
-  @media only screen and (max-width: 880px) {
-    //padding-top: 1200px / 800px * 100%;
-    padding-top: 100%;
-    background-image: url('/images/DM_Header_Mobile.jpg');
-    .social-icon {
-      font-size: 2em;
-    }
-
-  }
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-
-}
 
 .divider {
   width: 100%;
@@ -265,6 +251,7 @@ footer {
       width: 90%;
       margin: 0;
       padding: 0;
+      font-size: 0.5em;
     }
   }
 
@@ -283,6 +270,11 @@ footer {
 .book-pages {
 
   width: 95%;
+  @media only screen and (max-width: 880px) {
+
+    padding: 10%;
+
+  }
 
 }
 
