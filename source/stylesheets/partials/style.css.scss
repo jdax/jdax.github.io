@@ -50,7 +50,8 @@ a {
   color: white;
   font-size: 30px;
   @media only screen and (max-width: 880px) {
-    font-size: 34px;
+    font-size: 1em;
+    ul li { display: inline-block;}
   }
   text-align: center;
   h1 {
@@ -169,6 +170,13 @@ a {
         height: auto;
         margin: 0 auto;
         box-shadow: 1px 1px 20px $gray-lighter;
+
+        @media only screen and (max-width: 880px) {
+
+          max-width: 45%;
+
+          }
+
       }
     }
     .promo-text {
@@ -182,6 +190,11 @@ a {
       img {
         box-shadow: 1px 1px 30px $gray-darker;
         margin-top: 15%;
+        @media only screen and (max-width: 880px) {
+
+          max-width: 45%;
+
+        }
       }
     }
 
@@ -189,6 +202,11 @@ a {
       img {
         box-shadow: 1px 1px 30px $gray-darker;
         margin: 2% 15% 0 0;
+        @media only screen and (max-width: 880px) {
+
+          max-width: 45%;
+
+        }
 
       }
     }
@@ -207,6 +225,7 @@ a {
     .social-icon {
       font-size: 2em;
     }
+
   }
   background-repeat: no-repeat;
   background-position: center center;
