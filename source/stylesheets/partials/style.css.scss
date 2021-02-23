@@ -285,6 +285,9 @@ footer {
 
 .page-promo-links {
   // padding: 2%;
+  a {
+  @media only screen and (max-width: 880px)  {float: left; max-width: 23%; margin: 3%; } }
+
 }
 
 .article {
@@ -302,7 +305,7 @@ footer {
     font-size: 1.5em;
   }
 
-  .article--text {
+    .article--text {
     font-size: 2em;
     padding: 1%;
     @media only screen and (max-width: 880px) {font-size: 1em !important; padding: 4%;}
