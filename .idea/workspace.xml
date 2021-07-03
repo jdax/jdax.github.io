@@ -2,18 +2,316 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da607a88-60a2-4c37-84c7-285dbfe33104" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/images/afterimages.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/afterimages.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/birthing-orion.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/feathers-and-moonbeams.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/resignation-letter.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_footer.html.erb" afterPath="$PROJECT_DIR$/source/_footer.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_top_nave.html.erb" afterPath="$PROJECT_DIR$/source/_top_nave.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/application.css" afterPath="$PROJECT_DIR$/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.html.erb" afterPath="$PROJECT_DIR$/source/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/partials/style.css.scss" afterPath="$PROJECT_DIR$/source/stylesheets/partials/style.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/stylesheets/stylesheet.css" afterPath="$PROJECT_DIR$/source/stylesheets/stylesheet.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/404/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about_me/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2012/02/01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2012/02/10/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2012/02/14/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2012/02/16/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2012/02/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2012/03/10/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2012/03/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2012/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/03/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/12/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/13/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/20/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/21/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/23/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/24/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/06/25/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2013/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/01/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/01/07/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/01/08/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/01/09/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/01/11/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/01/27/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/01/29/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/02/03/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/02/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/02/11/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/02/22/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/02/24/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/02/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/05/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/05/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/05/14/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/05/22/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/05/30/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/07/15/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/07/16/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/07/21/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/07/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/08/03/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/08/09/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/08/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/page/2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/2015/page/3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/A-Very-Short-Introduction/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/A-year-in-not-reading-men/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/An-Ode-to-Darrell-Issa-R-CA-49/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Birth-Control-The-New-Abortion/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Build-Another-Pyramid-with-Ruby/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Day-Two-At-General-Assembly-Learning-Git-and-Github/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Dell-XPS-13-Developers-Edition-2015-and-Ubuntu-Machines/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Everyone-has-Macs-and-those-are-expensive-Do-I-need-a-Mac-to-do-coding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/First-day-at-General-Assembly/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/I-have-to-interact-with-people-The-importance-of-groups-in-learning-coding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/I-like-my-birth-control-just-how-it-is-kthx/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/In-Which-I-Use-PhotoFeeler-to-Find-the-Best-Pic-Instead-Find-Sexism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Maternal-Mortality-Doulas-and-Midwives/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/My-cashier/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/My-decision-to-go-to-General-Assembly/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/My-reproductive-choices-are-not-referendum-on-yours/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/New-Year-New-Blog-Topics-Coding-While-Feminist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/On-Comment-Policies-and-Free-Speech/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/On-Feminists-and-Men/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/On-Ladies-Night-feminism-and-benevolent-sexism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/On-Moving-Elsewhere-from-Somone-Who-Did/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/On-Personhood-in-light-of-the-VA-Attorney-General-Nominee/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Reproductive-Justice-and-Reducing-the-Number-of-Abortions/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Review-Alcestis-by-Katharine-Beutner/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Review-Fairest-by-Marissa-Meyer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Review-Fox-Hat-and-Neko-by-August-Li/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Review-Parable-of-the-Sower-by-Octavia-Butler/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Review-Second-Position-by-Katherine-Locke/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Review-Seraphina-by-Rachel-Hartman/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Review-Slaying-Dragons-by-Sasha-L-Miller/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Review-of-Queen-of-the-Tearling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/So-how-does-a-computer-know-programming-languages-Does-it-have-to-go-to-college/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/So-whats-the-big-deal-about-object-oriented-programming/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Storify-The-Importance-of-Meet-Ups-in-My-Coding-Journey/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/TODO-Group-And-The-Need-For-Codes-of-Conduct/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/The-Truth-About-Fetal-Pain-and-the-Pain-Capable-Unborn-Child-Protection-Act/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Theres-a-method-for-that/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Using-Databases/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/What-Not-To-Say-To-Someone-You-Think-Is-In-A-Domestic-Violence-Situation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/When-Young-Women-Speak-Out-Virginia-Edition/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/Women-Combat-Rape-and-Sexism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/moving-from-wordpress-org-to-middleman/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tags/books/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tags/coding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tags/coding/page/2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tags/feminism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/tags/feminism/page/2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/01/11/Review-of-Queen-of-the-Tearling/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/01/11/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/02/05/A-year-in-not-reading-men/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/02/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/02/24/Review-Seraphina-by-Rachel-Hartman/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/02/24/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/02/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/05/06/Review-Fairest-by-Marissa-Meyer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/05/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/05/22/Review-Alcestis-by-Katharine-Beutner/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/05/22/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/05/30/Review-Second-Position-by-Katherine-Locke/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/05/30/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/07/16/Review-Parable-of-the-Sower-by-Octavia-Butler/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/07/16/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/07/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/08/03/Review-Fox-Hat-and-Neko-by-August-Li/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/08/03/Review-Slaying-Dragons-by-Sasha-L-Miller/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/08/03/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/08/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/2015/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/tags/books/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/books/tags/feminism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/06/New-Year-New-Blog-Topics-Coding-While-Feminist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/07/A-Very-Short-Introduction/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/07/So-how-does-a-computer-know-programming-languages-Does-it-have-to-go-to-college/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/07/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/08/Everyone-has-Macs-and-those-are-expensive-Do-I-need-a-Mac-to-do-coding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/08/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/09/I-have-to-interact-with-people-The-importance-of-groups-in-learning-coding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/09/My-decision-to-go-to-General-Assembly/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/09/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/27/First-day-at-General-Assembly/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/27/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/29/Day-Two-At-General-Assembly-Learning-Git-and-Github/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/29/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/02/03/Build-Another-Pyramid-with-Ruby/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/02/03/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/02/11/Theres-a-method-for-that/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/02/11/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/02/22/So-whats-the-big-deal-about-object-oriented-programming/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/02/22/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/02/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/05/05/Using-Databases/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/05/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/05/14/In-Which-I-Use-PhotoFeeler-to-Find-the-Best-Pic-Instead-Find-Sexism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/05/14/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/07/15/Dell-XPS-13-Developers-Edition-2015-and-Ubuntu-Machines/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/07/15/Storify-The-Importance-of-Meet-Ups-in-My-Coding-Journey/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/07/15/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/07/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/08/09/TODO-Group-And-The-Need-For-Codes-of-Conduct/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/08/09/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/08/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/2015/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/page/2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/tags/coding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coding/tags/feminism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/01/Maternal-Mortality-Doulas-and-Midwives/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/10/Birth-Control-The-New-Abortion/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/10/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/14/I-like-my-birth-control-just-how-it-is-kthx/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/14/Women-Combat-Rape-and-Sexism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/14/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/16/An-Ode-to-Darrell-Issa-R-CA-49/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/16/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/02/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/03/10/When-Young-Women-Speak-Out-Virginia-Edition/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/03/10/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/03/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2012/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/01/My-cashier/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/03/On-Comment-Policies-and-Free-Speech/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/03/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/06/On-Ladies-Night-feminism-and-benevolent-sexism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/12/Reproductive-Justice-and-Reducing-the-Number-of-Abortions/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/12/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/13/On-Feminists-and-Men/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/13/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/20/On-Personhood-in-light-of-the-VA-Attorney-General-Nominee/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/20/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/21/My-reproductive-choices-are-not-referendum-on-yours/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/21/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/23/What-Not-To-Say-To-Someone-You-Think-Is-In-A-Domestic-Violence-Situation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/23/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/24/The-Truth-About-Fetal-Pain-and-the-Pain-Capable-Unborn-Child-Protection-Act/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/24/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/06/25/On-Moving-Elsewhere-from-Somone-Who-Did/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/06/25/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2013/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/01/06/New-Year-New-Blog-Topics-Coding-While-Feminist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/01/06/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/01/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/02/05/A-year-in-not-reading-men/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/02/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/02/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/05/14/In-Which-I-Use-PhotoFeeler-to-Find-the-Best-Pic-Instead-Find-Sexism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/05/14/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/05/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/2015/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/page/2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/tags/books/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/tags/coding/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/feminism/tags/feminism/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts-folder/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/commish_nikki.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/4/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/5/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-01-11-Review-of-Queen-of-the-Tearling.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-02-05-A-year-in-not-reading-men.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-02-24-Review-Seraphina-by-Rachel-Hartman.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-03-08-Review-Fairest-by-Marissa-Meyer.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-05-06-Review-Fairest-by-Marissa-Meyer.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-05-22-Review-Alcestis-by-Katharine-Beutner.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-05-28-Review-Shades-of-Milk-and-Honey-by-Mary-Robinette-Kowal.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-05-30-Review-Second-Position-by-Katherine-Locke.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-07-16-Review-Parable-of-the-Sower-by-Octavia-Butler.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-08-03-Review-Fox-Hat-and-Neko-by-August-Li.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-08-03-Review-Slaying-Dragons-by-Sasha-L-Miller.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-09-15-Review-Witch-Cat-And-Cob.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-09-16-Review-Witches-and-Wolves.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2015-09-17-Review-The-Insurrectionist-And-The-Empress-Who-Reigns-Over-Time.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2016-12-01-Review-Of-Fire-And-Stars.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-01-20-The-Resignation-Letter-Announcement.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-01-25-Cover-Reveal.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-02-14-snake-love.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-04-20-Review-Survival-Rout-By-Ana-Mardoll.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-05-13-review-the-seafarers-kiss.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-05-16-Announcing-A-Lake-of-Feathers-and-Moonbeams.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-08-02-Ultimate-Ball-Python-Care-Guide.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-08-03-cover-reveal-and-preorder.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-11-19-reflections-on-a-first-novel.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-11-23-so-you-want-to-self-publish.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-11-29-self-publishing-part-two-editing.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-12-05-Hugo-Nebula-Awards-Elibility-Post.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-12-05-pre-release-marketing-and-reviews.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-12-16-Bi-And-Or-Enby-Indie-Releases-of-2017.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2017-12-24-Bi-And-Or-Enbyof-2017-Part-Two.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2018-01-01-setting-up-a-kindle-preorder.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2018-04-12-The-Best-Books-For-Writers-Fantasy.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2018-05-03-Adding-SSL-To-GitHub-Pages.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2018-07-03-new-editions-laya-rose-aurelia-fray.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2018-07-05-variations-of-gender-in-science-fiction.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/blog/2018-09-14-About-To-Be-A-Cancer-Caregiver.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2012-02-01-Maternal-Mortality-Doulas-and-Midwives.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2012-02-10-Birth-Control-The-New-Abortion.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2012-02-14-I-like-my-birth-control-just-how-it-is-kthx.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2012-02-14-Women-Combat-Rape-and-Sexism.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2012-02-16-An-Ode-to-Darrell-Issa-R-CA-49.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2012-03-10-When-Young-Women-Speak-Out-Virginia-Edition.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-01-My-cashier.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-02-What-not-to-say-to-a-person-currently-in-a-domestic-violence-situation.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-03-On-Comment-Policies-and-Free-Speech.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-06-On-Ladies-Night-feminism-and-benevolent-sexism.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-12-Reproductive-Justice-and-Reducing-the-Number-of-Abortions.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-13-On-Feminists-and-Men.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-20-On-Personhood-in-light-of-the-VA-Attorney-General-Nominee.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-21-My-reproductive-choices-are-not-referendum-on-yours.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-23-What-Not-To-Say-To-Someone-You-Think-Is-In-A-Domestic-Violence-Situation.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-05-24-The-Truth-About-Fetal-Pain-and-the-Pain-Capable-Unborn-Child-Protection-Act.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-06-18-Earning-Your-Abortion-Why-Life-Endangerment-Exceptions-Are-Not-Enough.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2013-06-25-On-Moving-Elsewhere-from-Somone-Who-Did.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-01-06-New-Year-New-Blog-Topics-Coding-While-Feminist.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-01-07-A-Very-Short-Introduction.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-01-07-So-how-does-a-computer-know-programming-languages-Does-it-have-to-go-to-college.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-01-08-Everyone-has-Macs-and-those-are-expensive-Do-I-need-a-Mac-to-do-coding.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-01-09-I-have-to-interact-with-people-The-importance-of-groups-in-learning-coding.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-01-09-My-decision-to-go-to-General-Assembly.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-01-27-First-day-at-General-Assembly.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-01-29-Day-Two-At-General-Assembly-Learning-Git-and-Github.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-02-03-Build-Another-Pyramid-with-Ruby.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-02-11-Theres-a-method-for-that.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-02-22-So-whats-the-big-deal-about-object-oriented-programming.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-05-05-Using-Databases.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-05-14-In-Which-I-Use-PhotoFeeler-to-Find-the-Best-Pic-Instead-Find-Sexism.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-05-28-Now-on-Patreon-supporting-my-work.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-07-15-Dell-XPS-13-Developers-Edition-2015-and-Ubuntu-Machines.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-07-15-Storify-The-Importance-of-Meet-Ups-in-My-Coding-Journey.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-07-21-moving-from-wordpress-org-to-middleman.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-07-22-Poetry-and-Code-Design-Patterns.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/old_blog/2015-08-09-TODO-Group-And-The-Need-For-Codes-of-Conduct.html.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/application.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylesheets/colors.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jdax.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,76 +338,88 @@
     <favorites_list name="jdax.github.io" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/stylesheets/application.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="4.4590163">
-                  <caret line="1838" column="13" selection-start-line="1838" selection-start-column="11" selection-end-line="1838" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="style.css.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/style.css.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.23048328">
-                  <caret line="263" column="19" selection-start-line="263" selection-start-column="19" selection-end-line="263" selection-end-column="19" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="colors.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/colors.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.666667">
-                  <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="16" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_top_nave.html.erb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/source/_top_nave.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.740741">
-                  <caret line="34" column="98" selection-start-line="34" selection-start-column="98" selection-end-line="34" selection-end-column="98" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/source/stylesheets/stylesheet.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="_top_nave.html.erb" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/source/_top_nave.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6883117">
-                  <caret line="33" column="118" selection-start-line="33" selection-start-column="118" selection-end-line="33" selection-end-column="118" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="style.css.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/style.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6666667">
+              <caret line="288" column="72" selection-start-line="288" selection-start-column="72" selection-end-line="288" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.0">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/blog.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="6.703704">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="books.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/books.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/application.css.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/colors.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.666667">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="normalize.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/normalize.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,12 +434,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/blog/2018-05-03-Adding-SSL-To-GitHub-Pages.hrml.markdown" />
-        <option value="$PROJECT_DIR$/source/new_subscriber.html" />
-        <option value="$PROJECT_DIR$/source/services.html.erb" />
-        <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/blog/2015/page/2/index.html" />
-        <option value="$PROJECT_DIR$/books/index.html" />
         <option value="$PROJECT_DIR$/feed.xml" />
         <option value="$PROJECT_DIR$/blog/tags/feminism/index.html" />
         <option value="$PROJECT_DIR$/blog/Review-of-Queen-of-the-Tearling/index.html" />
@@ -160,21 +464,27 @@
         <option value="$PROJECT_DIR$/source/blog/2018-07-03-Laya-Rose-Covers.html.markdown" />
         <option value="$PROJECT_DIR$/source/blog/2018-07-03-new-editions-laya-rose-aurelia-fray.html.markdown" />
         <option value="$PROJECT_DIR$/source/blog/2018-09-14-About-To-Be-A-Cancer-Caregiver.html.markdown" />
-        <option value="$PROJECT_DIR$/source/about_me.html.erb" />
-        <option value="$PROJECT_DIR$/source/books.html.erb" />
         <option value="$PROJECT_DIR$/source/layout.erb" />
         <option value="$PROJECT_DIR$/source/_footer.html.erb" />
         <option value="$PROJECT_DIR$/source/birthing_orion.html.erb" />
-        <option value="$PROJECT_DIR$/source/afterimages.html.erb" />
         <option value="$PROJECT_DIR$/source/resignation_letter.html.erb" />
         <option value="$PROJECT_DIR$/source/feathers_and_moonbeams.html.erb" />
-        <option value="$PROJECT_DIR$/source/index.html.erb" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/config.rb" />
         <option value="$PROJECT_DIR$/source/stylesheets/stylesheet.css" />
         <option value="$PROJECT_DIR$/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/source/_top_nave.html.erb" />
+        <option value="$PROJECT_DIR$/source/feathers-and-moonbeams.html.erb" />
         <option value="$PROJECT_DIR$/source/stylesheets/partials/style.css.scss" />
+        <option value="$PROJECT_DIR$/source/birthing-orion.erb" />
+        <option value="$PROJECT_DIR$/source/afterimages.html.erb" />
+        <option value="$PROJECT_DIR$/source/_top_nave.html.erb" />
+        <option value="$PROJECT_DIR$/source/books.html.erb" />
+        <option value="$PROJECT_DIR$/source/about_me.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/source/shades_and_silver.erb" />
+        <option value="$PROJECT_DIR$/source/index.html.erb" />
+        <option value="$PROJECT_DIR$/source/resignation-letter.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config.rb" />
       </list>
     </option>
   </component>
@@ -187,9 +497,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="39" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="1881" />
-    <option name="height" value="1056" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -214,8 +524,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -234,94 +542,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jdax.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -491,39 +715,39 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="24" width="1881" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="39" y="-4" width="1881" height="1084" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290461" sideWeight="0.4588556" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3226152" sideWeight="0.44945568" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.4893733" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286219" sideWeight="0.48719347" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36621255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19509538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290461" sideWeight="0.54114443" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43580684" sideWeight="0.5505443" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.49809265" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290461" sideWeight="0.4653951" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290461" sideWeight="0.4544959" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.49809265" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.48719347" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39764202" sideWeight="0.5346049" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290461" sideWeight="0.5455041" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.49809265" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -531,9 +755,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36621255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -552,265 +776,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/2015/02/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.0740743">
-          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/2015/05/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-64.666664">
-          <caret line="97" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/2015/07/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-63.333332">
-          <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/2015/08/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.0740743">
-          <caret line="96" column="14" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/A-year-in-not-reading-men/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-74.74074">
-          <caret line="251" column="10" selection-start-line="251" selection-start-column="10" selection-end-line="251" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/Review-Alcestis-by-Katharine-Beutner/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-55.407406">
-          <caret line="249" column="0" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/Review-Fairest-by-Marissa-Meyer/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-59.407406">
-          <caret line="249" column="10" selection-start-line="249" selection-start-column="10" selection-end-line="249" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/Review-Fox-Hat-and-Neko-by-August-Li/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.074074">
-          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about_me/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.0">
-          <caret line="166" column="8" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.984127">
-          <caret line="102" column="8" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/tags/books/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4126984">
-          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/Review-Slaying-Dragons-by-Sasha-L-Miller/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.393298">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/Review-Seraphina-by-Rachel-Hartman/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.393298">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/Review-Second-Position-by-Katherine-Locke/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5114638">
-          <caret line="125" column="6" selection-start-line="125" selection-start-column="6" selection-end-line="125" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/Review-Parable-of-the-Sower-by-Octavia-Butler/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.393298">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/2015/01/11/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74603176">
-          <caret line="111" column="9" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/2018-05-03-Adding-SSL-To-GitHub-Pages.html.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/old_blog/2012-02-01-Maternal-Mortality-Doulas-and-Midwives.html.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/2018-04-12-The-Best-Books-For-Writers-Fantasy.html.markdown">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/2017-05-13-review-the-seafarers-kiss.html.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.1044247">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/2017-12-24-Bi-And-Or-Enbyof-2017-Part-Two.html.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28774422">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/A Lake of Feathers_5c.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/2018-07-03-new-editions-laya-rose-aurelia-fray.html.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79041916">
-          <caret line="27" column="202" selection-start-line="27" selection-start-column="202" selection-end-line="27" selection-end-column="202" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/2018-07-05-variations-of-gender-in-science-fiction.html.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog/2018-09-14-About-To-Be-A-Cancer-Caregiver.html.markdown">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/services.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,79 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6666665">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/afterimages.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.3333334">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/resignation-letter.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6315789">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/feathers-and-moonbeams.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.2222223">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/blog.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_blog.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/books.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-67.333336">
-          <caret line="101" column="55" selection-start-line="101" selection-start-column="55" selection-end-line="101" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.31634447">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/birthing-orion.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6315789">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,31 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/about_me.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-55.333332">
-          <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/tag.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/blog.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,7 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -938,42 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.39261746">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-117.29032">
-          <caret line="202" column="23" selection-start-line="202" selection-start-column="23" selection-end-line="202" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/layout.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="15.592592">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.666666">
-          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#1;n#h3#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.4590163">
-          <caret line="1838" column="13" selection-start-line="1838" selection-start-column="11" selection-end-line="1838" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,6 +815,169 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/feathers-and-moonbeams.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.210024">
+          <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/blog.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_blog.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31334624">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layout.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83558995">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/tag.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2185687">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_top_nave.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.492891">
+          <caret line="37" column="47" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/Shades_and_Silver.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.419354">
+          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about_me.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-74.0">
+          <caret line="122" column="31" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#img#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.1578948">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/resignation-letter.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.333334">
+          <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/birthing-orion.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="24.37037">
+          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/shades_and_silver.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.0">
+          <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/birthing-orion/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/application.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -993,18 +990,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_top_nave.html.erb">
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/normalize.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.740741">
-          <caret line="34" column="98" selection-start-line="34" selection-start-column="98" selection-end-line="34" selection-end-column="98" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/style.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23048328">
-          <caret line="263" column="19" selection-start-line="263" selection-start-column="19" selection-end-line="263" selection-end-column="19" />
+        <state vertical-scroll-proportion="-0.6666667">
+          <caret line="288" column="72" selection-start-line="288" selection-start-column="72" selection-end-line="288" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/stylesheets/partials/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/blog.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.703704">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/books.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding />
         </state>
       </provider>
