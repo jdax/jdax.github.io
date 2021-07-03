@@ -157,6 +157,7 @@ DEPENDENCIES
   bootstrap-sass
   builder (~> 3.0)
   font-awesome-middleman
+  json
   middleman (~> 3.3.12)
   middleman-blog (~> 3.5.3)
   middleman-bootstrap-navbar
@@ -166,3 +167,8 @@ DEPENDENCIES
   nokogiri
   wp2middleman
 
+RUBY VERSION
+   ruby 2.2.0p0
+
+BUNDLED WITH
+   1.16.2
