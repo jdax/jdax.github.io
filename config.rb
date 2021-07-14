@@ -217,3 +217,7 @@ activate :deploy do |deploy|
 end
 
 activate :directory_indexes
+
+redirect "resignation-letter.html", to: "/the-magic-surrendered.html"
+redirect "the_magic_surrendered.html", to: "the-magic-surrendered.html"
+redirect "afterimages.html", to: "shades_and_silver.html"
